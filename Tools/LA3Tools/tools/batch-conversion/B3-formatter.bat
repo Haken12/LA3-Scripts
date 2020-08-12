@@ -1,1 +1,0 @@
-for %%f in (2B-forEdit\*.txt) do ..\formatter.exe %%f 3-translated\%%~nf.txt

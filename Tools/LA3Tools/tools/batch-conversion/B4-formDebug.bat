@@ -1,1 +1,0 @@
-for %%f in (2B-forEdit\*.txt) do ..\formDebug.exe %%f 3-translated\%%~nf.txt
