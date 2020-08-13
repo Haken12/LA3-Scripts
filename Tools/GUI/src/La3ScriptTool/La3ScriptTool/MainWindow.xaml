@@ -1,0 +1,24 @@
+﻿<controls:AdonisWindow x:Class="La3ScriptTool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:La3ScriptTool"
+        xmlns:controls="clr-namespace:AdonisUI.Controls;assembly=AdonisUI"
+        mc:Ignorable="d"
+        Title="Luminous Arc 3 Script Toolkit" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Step1Extract" Content="Extract step 1" HorizontalAlignment="Left" Margin="91,37,0,0" VerticalAlignment="Top" Width="96" Click="Step1Extract_Click" />
+        <Button x:Name="Step2FriendlyScript" Content="Format to Friendly Scripts" HorizontalAlignment="Left" Margin="91,93,0,0" VerticalAlignment="Top" Width="161" Click="Step2FriendlyScript_Click"/>
+        <Button x:Name="Step3Format" Content="Reformat" HorizontalAlignment="Left" Margin="91,151,0,0" VerticalAlignment="Top" Width="122" Click="Step3Format_Click"/>
+        <Button x:Name="Step3FormatDebug" Content="Reformat with Debug" HorizontalAlignment="Left" Margin="308,158,0,0" VerticalAlignment="Top" Width="133" Click="Step3FormatDebug_Click"/>
+        <Button x:Name="Step4Encode" Content="Re-Encode" HorizontalAlignment="Left" Margin="91,218,0,0" VerticalAlignment="Top" Width="117" Click="Step4Encode_Click"/>
+        <Button x:Name="Step5ToBin" Content="Convert to Bin" HorizontalAlignment="Left" Margin="91,274,0,0" VerticalAlignment="Top" Width="117" Click="Step5ToBin_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="39,41,0,0" Text="Step 1:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="39,97,0,0" Text="Step 2:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="39,155,0,0" Text="Step 3:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="39,222,0,0" Text="Step 4:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="39,278,0,0" Text="Step 5:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+
+    </Grid>
+</controls:AdonisWindow>
