@@ -1,0 +1,468 @@
+0084 K C882E982
+Levi
+----0001----
+Hey, Glen.
+
+~---------------------------------------
+Glen
+----0002----
+Haaah! Taah!
+
+~---------------------------------------
+Levi
+----0003----
+Uhh, hey...
+
+~---------------------------------------
+Glen
+----0004----
+Haah!!
+
+~---------------------------------------
+Levi
+----0005----
+Glen!
+
+~---------------------------------------
+Glen
+----0006----
+Huh? What is it Levi?
+Sorry I didn't notice you.
+
+~---------------------------------------
+Levi
+----0007----
+Isn't it always your excuse that you're
+just concentrating on training?
+
+~---------------------------------------
+Levi
+----0008----
+Real cold of you to just ignore me
+like that.
+
+~---------------------------------------
+Levi
+----0009----
+They say that people are the same as ever,
+And you really haven't changed at all!
+
+~---------------------------------------
+Glen
+----0010----
+Haha, I'm sorry
+
+~---------------------------------------
+Levi
+----0011----
+Heh, You'd never be able to hear anyone
+when you trained back in the old days.
+
+~---------------------------------------
+Glen
+----0012----
+Heh, I guess so.
+But let me ask you, Levi
+
+~---------------------------------------
+Glen
+----0013----
+Do you know what the most important
+thing is when training?$e3
+
+~---------------------------------------
+Glen
+----0014----
+Certainly. However, there is
+something more important than that.
+
+~---------------------------------------
+Levi
+----0015----
+Oh? is it about a clear mind?
+
+~---------------------------------------
+Glen
+----0016----
+Absolutely! You need to keep out
+unnecessary thoughts.
+
+~---------------------------------------
+Glen
+----0017----
+Unnecessary thoughts are the worst enemy
+for those aspiring to be knights.
+
+~---------------------------------------
+Levi
+----0018----
+Isn't it you, not me thinking
+unnecessary things?
+
+~---------------------------------------
+Glen
+----0019----
+Wh- what do you mean by that?
+
+~---------------------------------------
+Levi
+----0020----
+Right now, there's only one thing
+that I can think about.
+
+~---------------------------------------
+Glen
+----0021----
+One thing...? And what's that...?
+
+~---------------------------------------
+Levi
+----0022----
+......
+
+~---------------------------------------
+Levi
+----0023----
+...I'm starving
+
+~---------------------------------------
+Glen
+----0024----
+......
+
+~---------------------------------------
+Glen
+----0025----
+*sigh*
+
+~---------------------------------------
+Glen
+----0026----
+Hahaha! You really are just like a
+little kid!
+
+~---------------------------------------
+Levi
+----0027----
+Well anyway, let's go eat.
+
+~---------------------------------------
+Glen
+----0028----
+Sure I'll come along. It should be
+around supper time in the cafeteria.
+
+~---------------------------------------
+Levi
+----0029----
+Nice for you to help me out.
+
+~---------------------------------------
+Glen
+----0030----
+But Levi, there's something
+to keep in mind.
+
+~---------------------------------------
+Levi
+----0031----
+What?
+
+~---------------------------------------
+Glen
+----0032----
+Since you've come to Urgard,
+I'm going to train you hard!
+
+~---------------------------------------
+Levi
+----0033----
+Huh, what are you saying? You think I
+could get that number 1 spot soon?
+
+~---------------------------------------
+Glen
+----0034----
+Heh...
+I'm glad you haven't changed, Levi.
+
+~---------------------------------------
+Levi
+----0035----
+You too, Glen.
+
+~---------------------------------------
+Glen
+----0036----
+So you haven't forgotten.
+
+~---------------------------------------
+Levi
+----0037----
+Of course. Without a clear mind,
+bad thoughts can get in... right?
+
+~---------------------------------------
+Levi
+----0038----
+Those words from Valerie.
+I remember them so well.
+
+~---------------------------------------
+Glen
+----0039----
+We made a vow together to become
+the strongest knights.
+
+~---------------------------------------
+Glen
+----0040----
+And now we're continuing the path toward
+that goal we set back then.
+
+~---------------------------------------
+Levi
+----0041----
+You would always lose to me, by the way.
+
+~---------------------------------------
+Glen
+----0042----
+What are you talking about?
+you're making that up!
+
+~---------------------------------------
+Levi
+----0043----
+Heh. Pretty sure we had similar
+silly arguments back then too.
+
+~---------------------------------------
+Levi
+----0044----
+But now we're both Magi Knights
+
+~---------------------------------------
+Glen
+----0045----
+Yea, we are...
+
+~---------------------------------------
+Glen
+----0046----
+Hey Levi,
+What do you think a Magi knight is?$e3
+~---------------------------------------
+Glen
+----0047----
+That is just an ordinary knight.
+A Magi Knight is different.
+
+~---------------------------------------
+Levi
+----0048----
+Oh...?
+
+~---------------------------------------
+Glen
+----0049----
+Okay, I shall explain this, Levi.
+The power of Magi is strong, but why?
+
+~---------------------------------------
+Glen
+----0050----
+We who hold this power are still
+just inexperienced people.
+
+~---------------------------------------
+Levi
+----0051----
+Just like little kids, right?
+
+~---------------------------------------
+Glen
+----0052----
+Not quite. But would you say you can fight
+without being overwhelmed or overconfident.
+
+~---------------------------------------
+Levi
+----0053----
+Well...
+
+~---------------------------------------
+Glen
+----0054----
+it seems that you still have a lot to
+understand about the nature of Magi.
+
+~---------------------------------------
+Levi
+----0055----
+What's with this sudden patronizing talk?
+It's like you're preaching to me.
+
+~---------------------------------------
+Glen
+----0056----
+As the leader, I'm serving my duty to
+train the students of this academy.
+
+~---------------------------------------
+Levi
+----0057----
+So, different from back in the day?
+
+~---------------------------------------
+Glen
+----0058----
+Indeed. I've grown up.
+You haven't changed.
+
+~---------------------------------------
+Levi
+----0059----
+Hey! I'll show you!
+
+~---------------------------------------
+Glen
+----0060----
+Think carefully Levi. What should a Magi
+Knight be?
+
+~---------------------------------------
+Levi
+----0061----
+...Okay, I get it.
+
+~---------------------------------------
+Glen
+----0062----
+Well, that's good...
+
+~---------------------------------------
+Glen
+----0063----
+Oh, it seems you're learning a little
+about the heart of the Magi Knight.
+
+~---------------------------------------
+Levi
+----0064----
+Those with power have to look carefully
+to see when to correctly use it... right?
+
+~---------------------------------------
+Glen
+----0065----
+Exactly! And that righteousness
+lies within one's Lapis
+
+~---------------------------------------
+Glen
+----0066----
+Heh, I'm happy to be able to fight
+you again, Levi.
+
+~---------------------------------------
+Levi
+----0067----
+Me too.
+You're just like family to me.
+
+~---------------------------------------
+Glen
+----0068----
+Family?
+
+~---------------------------------------
+Levi
+----0069----
+......
+
+~---------------------------------------
+Glen
+----0070----
+Levi, are you remembering
+that person right now?
+
+~---------------------------------------
+Levi
+----0071----
+...It was aways the 3 of us
+
+~---------------------------------------
+Glen
+----0072----
+...Yea, we were always together.
+
+~---------------------------------------
+Levi
+----0073----
+I'm going to take out that bastard who
+killed Lily! That's why I came here!
+
+~---------------------------------------
+Glen
+----0074----
+I... No, you should be able t do it.
+But...
+
+~---------------------------------------
+Levi
+----0075----
+But?
+
+~---------------------------------------
+Glen
+----0076----
+Just stay calm about it.
+Look with your eyes, and take him down!
+
+~---------------------------------------
+Levi
+----0077----
+Stay calm??
+Glen, you couldn't possibly understand!
+
+~---------------------------------------
+Levi
+----0078----
+You weren't there when it happened...
+I regret it so much!
+
+~---------------------------------------
+Glen
+----0079----
+I regret it too.
+
+~---------------------------------------
+Levi
+----0080----
+...!
+
+~---------------------------------------
+Glen
+----0081----
+But Levi, we are fighting for more than
+just Lily.
+
+~---------------------------------------
+Glen
+----0082----
+We, as Magi Knights
+are fighting for the world!
+
+~---------------------------------------
+Levi
+----0083----
+Yea, I understand that!
+I get it, Glen...
+
+~---------------------------------------
+Glen
+----0084----
+Levi...
+
+~---------------------------------------
