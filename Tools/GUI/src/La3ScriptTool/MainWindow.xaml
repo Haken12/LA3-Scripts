@@ -1,0 +1,34 @@
+﻿<Window x:Class="La3ScriptConverter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:La3ScriptConverter"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closing="Window_Closing">
+    <Grid x:Name="mainGrid">
+        <Button x:Name="btnDump" Content="Dump Bin" HorizontalAlignment="Left" Margin="70,51,0,0" VerticalAlignment="Top" Width="140" Height="42" Click="btnDump_Click"/>
+        <Button x:Name="btnForEdit" Content="For Edit" HorizontalAlignment="Left" Margin="70,132,0,0" VerticalAlignment="Top" Width="140" Height="41" Click="btnForEdit_Click"/>
+        <Button x:Name="btnFormat" Content="Format" HorizontalAlignment="Left" Margin="70,205,0,0" VerticalAlignment="Top" Width="140" Height="41" Click="btnFormat_Click"/>
+        <Button x:Name="btnEncode" Content="Encode" HorizontalAlignment="Left" Margin="70,281,0,0" VerticalAlignment="Top" Width="140" Height="42" Click="btnEncode_Click"/>
+        <Button x:Name="btnConvert" Content="Convert" HorizontalAlignment="Left" Margin="70,358,0,0" VerticalAlignment="Top" Width="140" Height="42" Click="btnConvert_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,55,0,0" TextWrapping="Wrap" Text="Step 1:" VerticalAlignment="Top" Height="33" Width="67"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,132,0,0" TextWrapping="Wrap" Text="Step 2:" VerticalAlignment="Top" Height="33" Width="67"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,213,0,0" TextWrapping="Wrap" Text="Step 3:" VerticalAlignment="Top" Height="33" Width="67"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,285,0,0" TextWrapping="Wrap" Text="Step 4:" VerticalAlignment="Top" Height="34" Width="67"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,358,0,0" TextWrapping="Wrap" Text="Step 5" VerticalAlignment="Top" Height="33" Width="62"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="15,10,0,0" TextWrapping="Wrap" Text="Before starting, please make sure your .bin files are in the &quot;0-input&quot; folder, and the LA3Tools .exes are in the &quot;bin&quot; folder" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="234,55,0,0" TextWrapping="Wrap" Text="Converts the rom's raw *.bin to .txt files" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="234,132,0,0" TextWrapping="Wrap" Text="Converts the .txt files to a layout that is easy to modify. You modify scripts in THIS FOLDER" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="234,213,0,0" TextWrapping="Wrap" Text="Reformats the .txt files back to a way that the files were before" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="234,285,0,0" TextWrapping="Wrap" Text="Encodes the files with the necessary encodings" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="234,358,0,0" TextWrapping="Wrap" Text="Converts the txt files to the final .bin to replace in the rom" VerticalAlignment="Top"/>
+        <Button x:Name="btnEmpty" Content="Empty Folders" HorizontalAlignment="Left" Margin="687,11,0,0" VerticalAlignment="Top" Width="75" Click="btnEmpty_Click"/>
+        <ProgressBar x:Name="pgbProgress" HorizontalAlignment="Left" Height="18" Margin="670,391,0,0" VerticalAlignment="Top" Width="100"/>
+
+
+
+
+    </Grid>
+</Window>

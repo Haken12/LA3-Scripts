@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace La3ScriptTool
+namespace La3ScriptConverter
 {
     /// <summary>
     /// Interaction logic for App.xaml
