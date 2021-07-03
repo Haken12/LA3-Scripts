@@ -1,0 +1,422 @@
+0078 K 82C282AF
+Levi
+----0001----
+Hey, I'm back
+
+~-------------------------------
+Diviner
+----0002----
+This is…
+
+~-------------------------------
+Levi
+----0003----
+What's it?
+
+~-------------------------------
+Diviner
+----0004----
+You came in a good moment.
+Just heading out to HQ.
+
+~---------------------------------------
+Levi
+----0005----
+Did something happened?
+
+~---------------------------------------
+Diviner
+----0006----
+Ferxia have shown in the
+crystal ball
+
+~---------------------------------------
+Diviner
+----0007----
+Looks like a nearby village is under attack
+
+~---------------------------------------
+Diviner
+----0008----
+Levi, won't you check out this village? $e3
+~---------------------------------------
+Levi
+----0009----
+Is this vision trustworthy?
+
+~---------------------------------------
+Diviner
+----0010----
+Yes…
+
+~---------------------------------------
+Levi
+----0011----
+Even if the high precision detection 
+barrier didn't detect anything?
+
+~---------------------------------------
+Diviner
+----0012----
+I see…
+So you don't trust my visions
+
+~---------------------------------------
+Diviner
+----0013----
+I'll ask someone else…
+
+~---------------------------------------
+Diviner
+----0014----
+Since you have just arrived i am sorry,
+but can you let me pass?
+
+~---------------------------------------
+Levi
+----0015----
+Y-yes
+
+~---------------------------------------
+Levi
+----0016----
+What happened?
+
+~-------------------------------
+Levi
+----0017----
+A vision huh…
+No matter how small the chance
+
+~---------------------------------------
+Levi
+----0018----
+i can't stay put if
+Ferxia may be involved
+
+~---------------------------------------
+Levi
+----0019----
+Tell me the details
+
+~---------------------------------------
+Diviner
+----0020----
+Thank you, Levi
+
+~---------------------------------------
+Diviner
+----0021----
+What i saw was…
+A quiet village with a beautiful river…
+
+~---------------------------------------
+Diviner
+----0022----
+A fish like Ferxia appeared
+and started attacking the villagers
+
+~---------------------------------------
+Diviner
+----0023----
+Did you came here just to…
+
+~---------------------------------------
+Levi
+----0024----
+see the suffering villagers?…
+
+~---------------------------------------
+Levi
+----0025----
+An emergency call!　I'm going!
+
+~---------------------------------------
+Diviner
+----0026----
+Please be careful
+
+~---------------------------------------
+Levi
+----0027----
+I pristine river huh…
+
+~-------------------------------
+Levi
+----0028----
+I'll laugh if a fish like 
+Ferxia comes out of there
+
+~-------------------------------
+Levi
+----0029----
+Th-that is!
+
+~-------------------------------
+Girl
+----0030----
+Nooo!　Help!
+
+~-------------------------------
+Elle
+----0031----
+A girl is being attacked!
+
+~-------------------------------
+Glen
+----0032----
+Let's go!
+
+~-------------------------------
+Levi
+----0033----
+Hum, there aren't any
+Ferxia left
+
+~-------------------------------
+???
+----0034----
+Rika!
+
+~-------------------------------
+Rika
+----0035----
+Mo…Mom!
+
+~-------------------------------
+Rika's mother
+----0036----
+Rika!
+Are you alright?
+
+~---------------------------------------
+Rika
+----0037----
+Yes!　You see…
+these misters helped me.
+
+~---------------------------------------
+Rika's mother
+----0038----
+You are…
+
+~---------------------------------------
+Rika's mother
+----0039----
+Thank you very much.
+Wh…what can i do to repay you…
+
+~---------------------------------------
+Levi
+----0040----
+It was our duty as Knights
+
+~---------------------------------------
+Rika's mother
+----0041----
+Rika.
+Say your thanks too 
+
+~---------------------------------------
+Rika
+----0042----
+Thank you misters
+
+~---------------------------------------
+Levi
+----0043----
+Yeah
+
+~---------------------------------------
+Glen
+----0044----
+We are done here.
+Let's head back.
+
+~---------------------------------------
+Levi
+----0045----
+Yeah, let's go.
+
+~---------------------------------------
+Rika's mother
+----0046----
+We'll go to that refuge
+over there 
+
+~---------------------------------------
+Levi
+----0047----
+Be careful
+
+~---------------------------------------
+Glen
+----0048----
+I'll report to Instructor Valerie.
+You are dismissed.
+
+~-------------------------------
+Levi
+----0049----
+Yeah.
+Also have to report the Diviner…
+
+~-------------------------------
+Diviner
+----0050----
+Good work. I don't even need
+to listen how it went
+
+~---------------------------------------
+Levi
+----0051----
+Yeah
+
+~---------------------------------------
+Levi
+----0052----
+That said, your divination is sure
+something, almost everything was right
+
+~---------------------------------------
+Diviner
+----0053----
+Fufu, thanks for you complements
+
+~---------------------------------------
+Levi
+----0054----
+I don't really gave it much
+credit to divination…
+
+~---------------------------------------
+Diviner
+----0055----
+A little more interested now?
+
+~---------------------------------------
+Levi
+----0056----
+That's right…
+Seems useful for Ferxia hunting $e3
+~---------------------------------------
+Levi
+----0057----
+Please tell if
+something happens again
+
+~---------------------------------------
+Diviner
+----0058----
+Fufu…, i could do some 
+divination right now…
+
+~---------------------------------------
+Diviner
+----0059----
+For you that's it…
+
+~---------------------------------------
+Levi
+----0060----
+（So it comes to that?）
+
+~---------------------------------------
+Levi
+----0061----
+I'll pass
+
+~---------------------------------------
+Diviner
+----0062----
+I see, a pity…
+
+~---------------------------------------
+Diviner
+----0063----
+Come again when you feel like
+
+~---------------------------------------
+Levi
+----0064----
+Say, that divining…
+Can i do it too?
+
+~---------------------------------------
+Diviner
+----0065----
+Oh, interested?
+
+~---------------------------------------
+Levi
+----0066----
+Well, you detected the Ferxia
+before than the barrier, didn't you?
+
+~---------------------------------------
+Levi
+----0067----
+If i could just do that…
+
+~---------------------------------------
+Diviner
+----0068----
+…I am sorry, but i can't teach 
+it to you as you are now
+
+~---------------------------------------
+Levi
+----0069----
+Say what?
+
+~---------------------------------------
+Diviner
+----0070----
+Right now, you are not looking around
+you. You just won't see anything…
+
+~---------------------------------------
+Levi
+----0071----
+……
+
+~---------------------------------------
+Diviner
+----0072----
+But it makes me happy 
+you are interested
+
+~---------------------------------------
+Levi
+----0073----
+……
+
+~---------------------------------------
+Diviner
+----0074----
+Anger, sadness, worry…
+All that cloud your Pupils…
+
+~---------------------------------------
+Levi
+----0075----
+!?
+
+~---------------------------------------
+Diviner
+----0076----
+Fufu…, Don't forget that sparkle in your Eyes
+
+~---------------------------------------
+Diviner
+----0077----
+Pay more attention to others,
+it should open your Eyes…
+
+~---------------------------------------
+Diviner
+----0078----
+If something happens. Please
+come here for advice
+
+~---------------------------------------
