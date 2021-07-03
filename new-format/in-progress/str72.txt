@@ -14,7 +14,7 @@ Levi
 What's it?
 
 ~-------------------------------
-Diviner
+Oracle
 ----0004----
 You came in a good moment.
 Just heading out to HQ.
@@ -25,7 +25,7 @@ Levi
 Did something happened?
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0006----
 Ferxia have shown in the
 crystal ball

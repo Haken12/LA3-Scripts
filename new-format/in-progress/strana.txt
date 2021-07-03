@@ -490,7 +490,7 @@ You can now accept quest at HQ
 ~---------------------------------------
 
 ----0119----
-The Old Manor is now available
+The Oracle's Parlor is now available
 ~---------------------------------------
 
 ----0120----

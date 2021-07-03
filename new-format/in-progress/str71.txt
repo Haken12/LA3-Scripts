@@ -1,5 +1,5 @@
 0064 M 00000000
-Diviner
+Oracle
 ----0001----
 Fufu…
 You came after all
@@ -11,23 +11,23 @@ After telling me that of
 course i would be interested
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0003----
 I apologize
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0004----
 You are different from anyone
 i have seen until now
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0005----
 So you picked my interest
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0006----
 I will ask again. May i 
 read you fortune?
@@ -38,12 +38,12 @@ No, thanks.
 I don't believe in that
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0008----
 Oh…, what a pity
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0009----
 But i am always here…
 I you change your mind
@@ -60,12 +60,12 @@ If it could explain
 anything
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0012----
 Fufu…, thank you
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0013----
 Then, without delay…
 
@@ -76,19 +76,19 @@ Ey! Won't you use
 that Crystal Ball?
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0015----
 That is for seeing the future
 or far away places
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0016----
 When you are right here,
 it's better to use my eyes
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0017----
 Or do you use tools to
 see the people around you?
@@ -99,19 +99,19 @@ Levi
 No… but…
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0019----
 Relax…, look me in
 the eyes
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0020----
 Pupils with such color…
 It's a first
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0021----
 Colorless yet so colorful
 at the same time…
@@ -122,7 +122,7 @@ Levi
 ……
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0023----
 Beautiful, could stare forever
 
@@ -132,7 +132,7 @@ Levi
 （To close!, not yet?）
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0025----
 I am satisfied. Thank you
 
@@ -142,7 +142,7 @@ Levi
 I see
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0027----
 Well, here is what is saw…
 
@@ -152,12 +152,12 @@ Levi
 Aa…
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0029----
 Really beautiful Pupils
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0030----
 Those Pupils sure
 attract a lot things
@@ -168,12 +168,12 @@ Levi
 Is that so?
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0032----
 Yes, i guarantee it
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0033----
 Good and bad things
 altogether
@@ -185,19 +185,19 @@ Bad ones too!?
 What's with this fortune…
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0035----
 What happens depends of you.
 Feel free to consult me anytime.
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0036----
 Such interesting destiny…
 What a troubled child.
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0037----
 I'll look forward to
 what you'll become e3
@@ -213,12 +213,12 @@ Levi
 I might not live up to your expectations
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0040----
 Is that so?
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0041----
 Well, one can never see
 his own destiny…
@@ -235,7 +235,7 @@ No matter what, my
 will won't change
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0044----
 Is that so?…, But don't
 skip morning training
@@ -246,13 +246,13 @@ Levi
 Wha…?
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0046----
 So cute…
 Come over anytime
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0047----
 Such brilliant future…
 
@@ -263,7 +263,7 @@ Is it that interesting?
 Well, do as you wish
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0049----
 So i shall
 
@@ -274,7 +274,7 @@ What a strange woman…
 I should go back now
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0051----
 Come again soon, and
 show me those radiant Pupils
@@ -303,12 +303,12 @@ But I'll welcome any
 good fortune
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0056----
 Poor thing…
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0057----
 But…, stay true to your path
 and you'll realize your wish  
@@ -319,7 +319,7 @@ Levi
 Really!?
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0059----
 That will be for another time.
 Go back for tonight
@@ -330,23 +330,23 @@ Levi
 Does she really know something?
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0061----
 Fufu…
 Good night Levi
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0062----
 Looking forward to your future…
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0063----
 A really interesting child
 
 ~-------------------------------
-Diviner
+Oracle
 ----0064----
 Fufufu…
 
