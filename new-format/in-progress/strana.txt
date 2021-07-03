@@ -5,53 +5,53 @@ Free Time
 ~---------------------------------------
 
 ----0002----
-Get ready and join with
-Glenn in the courtyard
+Get ready and rendezvous with
+Glen in the courtyard
 ~---------------------------------------
 
 ----0003----
-Get ready and join with
+Get ready and rendezvous with
 Kilika in the courtyard
 ~---------------------------------------
 
 ----0004----
-Get ready and join with
+Get ready and rendezvous with
 Fran in the courtyard
 ~---------------------------------------
 
 ----0005----
-Get ready and join with
+Get ready and rendezvous with
 Dino in the courtyard
 ~---------------------------------------
 
 ----0006----
-Get ready and join with
+Get ready and rendezvous with
 Inaluna in the courtyard
 ~---------------------------------------
 
 ----0007----
-Get ready and join with
-Shion in the courtyard
+Get ready and rendezvous with
+Sion in the courtyard
 ~---------------------------------------
 
 ----0008----
-Get ready and join with
+Get ready and rendezvous with
 Heine in the courtyard
 ~---------------------------------------
 
 ----0009----
-Get ready and join with
-Eruru in the courtyard
+Get ready and rendezvous with
+Elle in the courtyard
 ~---------------------------------------
 
 ----0010----
-Get ready and join with
+Get ready and rendezvous with
 Layla in the courtyard
 ~---------------------------------------
 
 ----0011----
-Get ready and join with
-Glenn in 1F hall
+Get ready and rendezvous with
+Glen in 1F hall
 ~---------------------------------------
 
 ----0012----
@@ -60,13 +60,13 @@ to the cathedral
 ~---------------------------------------
 
 ----0013----
-Get ready and join with
-Glenn at the cathedral
+Get ready and rendezvous with
+Glen at the cathedral
 ~---------------------------------------
 
 ----0014----
 Look for the hidden
-[Keyboard of the Seal]
+Keyboard of the Seal
 ~---------------------------------------
 
 ----0015----
@@ -89,7 +89,7 @@ Let's hear Yuu's theory in the Library
 ~---------------------------------------
 
 ----0019----
-Join up with the other
+Rendezvous with the other
 Magus in HQ
 ~---------------------------------------
 
@@ -126,59 +126,59 @@ MP Increased by 2
 ~---------------------------------------
 
 ----0028----
-Unision Strike can be used now
+Unison Strike can be used now
 ~---------------------------------------
 
 ----0029----
-Unision Strike can be used now
+Unison Strike can be used now
 ~---------------------------------------
 
 ----0030----
-Unision Strike can be used now
+Unison Strike can be used now
 ~---------------------------------------
 
 ----0031----
-Unision Strike can be used now
+Unison Strike can be used now
 ~---------------------------------------
 
 ----0032----
-Unision Strike can be used now
+Unison Strike can be used now
 ~---------------------------------------
 
 ----0033----
-Unision Strike can be used now
+Unison Strike can be used now
 ~---------------------------------------
 
 ----0034----
-Unision Strike can be used now
+Unison Strike can be used now
 ~---------------------------------------
 
 ----0035----
-Unision Strike can be used now
+Unison Strike can be used now
 ~---------------------------------------
 
 ----0036----
-Unision Strike can be used now
+Unison Strike can be used now
 ~---------------------------------------
 
 ----0037----
-Unision Strike can be used now
+Unison Strike can be used now
 ~---------------------------------------
 
 ----0038----
-Unision Strike can be used now
+Unison Strike can be used now
 ~---------------------------------------
 
 ----0039----
-Unision Strike can be used now
+Unison Strike can be used now
 ~---------------------------------------
 
 ----0040----
-Refy learned a FD
+Levi learned a FD
 ~---------------------------------------
 
 ----0041----
-Glenn learned a FD
+Glen learned a FD
 ~---------------------------------------
 
 ----0042----
@@ -190,7 +190,7 @@ Yuu learned a FD
 ~---------------------------------------
 
 ----0044----
-Eruru learned a FD
+Elle learned a FD
 ~---------------------------------------
 
 ----0045----
@@ -202,7 +202,7 @@ Inaluna learned a FD
 ~---------------------------------------
 
 ----0047----
-Shion learned a FD
+Sion learned a FD
 ~---------------------------------------
 
 ----0048----
@@ -210,7 +210,7 @@ Sarah learned a FD
 ~---------------------------------------
 
 ----0049----
-Glenn became an ally
+Glen became an ally
 ~---------------------------------------
 
 ----0050----
@@ -226,7 +226,7 @@ Yuu became an ally
 ~---------------------------------------
 
 ----0053----
-Eruru became an ally
+Elle became an ally
 ~---------------------------------------
 
 ----0054----
@@ -238,7 +238,7 @@ Inaluna became an ally
 ~---------------------------------------
 
 ----0056----
-Shion became an ally
+Sion became an ally
 ~---------------------------------------
 
 ----0057----
@@ -250,7 +250,7 @@ Layla became an ally
 ~---------------------------------------
 
 ----0059----
-Olmorde became an ally
+Aulmorde became an ally
 ~---------------------------------------
 
 ----0060----
@@ -258,11 +258,11 @@ Arnogia became an ally
 ~---------------------------------------
 
 ----0061----
-Glenn leaved. Equipment retrieved
+Glen left. Equipment retrieved
 ~---------------------------------------
 
 ----0062----
-Glenn is back to the party
+Glen is back to the party
 ~---------------------------------------
 
 ----0063----
@@ -290,11 +290,11 @@ Yuu is back to the party
 ~---------------------------------------
 
 ----0069----
-Eruru left. Equipment retrieved
+Elle left. Equipment retrieved
 ~---------------------------------------
 
 ----0070----
-Eruru is back to the party
+Elle is back to the party
 ~---------------------------------------
 
 ----0071----
@@ -314,11 +314,11 @@ Inaluna is back to the party
 ~---------------------------------------
 
 ----0075----
-Shion left. Equipment retrieved
+Sion left. Equipment retrieved
 ~---------------------------------------
 
 ----0076----
-Shion is back to the party
+Sion is back to the party
 ~---------------------------------------
 
 ----0077----
@@ -330,131 +330,131 @@ Sarah is back to the party
 ~---------------------------------------
 
 ----0079----
-[Vital Soda] received
+Vital Soda received
 ~---------------------------------------
 
 ----0080----
-[TECH UP] received
+TECH UP received
 ~---------------------------------------
 
 ----0081----
-[Defense Potion] received
+Defense Potion received
 ~---------------------------------------
 
 ----0082----
-[Vital Soda] received
+Vital Soda received
 ~---------------------------------------
 
 ----0083----
-[SPEED UP] received
+SPEED UP received
 ~---------------------------------------
 
 ----0084----
-[Accuracy Potion] received
+Accuracy Potion received
 ~---------------------------------------
 
 ----0085----
-[Vital Soda] received
+Vital Soda received
 ~---------------------------------------
 
 ----0086----
-[GUARD UP] received
+GUARD UP received
 ~---------------------------------------
 
 ----0087----
-[Defense Potion] received
+Defense Potion received
 ~---------------------------------------
 
 ----0088----
-[Mental Soda] received
+Mental Soda received
 ~---------------------------------------
 
 ----0089----
-[MAGIC UP] received
+MAGIC UP received
 ~---------------------------------------
 
 ----0090----
-[Revive Bottle] received
+Revive Bottle received
 ~---------------------------------------
 
 ----0091----
-[Mental Soda] received
+Mental Soda received
 ~---------------------------------------
 
 ----0092----
-[RESIST UP] received
+RESIST UP received
 ~---------------------------------------
 
 ----0093----
-[Revive Bottle] received
+Revive Bottle received
 ~---------------------------------------
 
 ----0094----
-[Vital Soda] received
+Vital Soda received
 ~---------------------------------------
 
 ----0095----
-[ATTACK UP] received
+ATTACK UP received
 ~---------------------------------------
 
 ----0096----
-[Attack Potion] received
+Attack Potion received
 ~---------------------------------------
 
 ----0097----
-[Mental Soda] received
+Mental Soda received
 ~---------------------------------------
 
 ----0098----
-[RESIST UP] received
+RESIST UP received
 ~---------------------------------------
 
 ----0099----
-[Heaven's Blessing] received
+Heaven's Blessing received
 ~---------------------------------------
 
 ----0100----
-[Mental Soda] received
+Mental Soda received
 ~---------------------------------------
 
 ----0101----
-[SPEED UP] received
+SPEED UP received
 ~---------------------------------------
 
 ----0102----
-[Drive Soda] received
+Drive Soda received
 ~---------------------------------------
 
 ----0103----
-[Mental Soda] received
+Mental Soda received
 ~---------------------------------------
 
 ----0104----
-[MAGIC UP] received
+MAGIC UP received
 ~---------------------------------------
 
 ----0105----
-[Flare Bomb] received
+Flare Bomb received
 ~---------------------------------------
 
 ----0106----
-[ATTACK UP] received
+ATTACK UP received
 ~---------------------------------------
 
 ----0107----
-[Accuracy Potion] received
+Accuracy Potion received
 ~---------------------------------------
 
 ----0108----
-[TECH UP] received
+TECH UP received
 ~---------------------------------------
 
 ----0109----
-[Drive Soda] received
+Drive Soda received
 ~---------------------------------------
 
 ----0110----
-[Attack Potion] received
+Attack Potion received
 ~---------------------------------------
 
 ----0111----
@@ -462,7 +462,7 @@ Network Battle is now available
 ~---------------------------------------
 
 ----0112----
-Eruru powered up by the Light of Life
+Elle powered up by the Light of Life
 ~---------------------------------------
 
 ----0113----
@@ -494,7 +494,7 @@ The Old Manor is now available
 ~---------------------------------------
 
 ----0120----
-Awakening has changed Refy's skills
+Awakening has changed Levi's skills
 ~---------------------------------------
 
 ----0121----
@@ -506,19 +506,19 @@ Party's parameters are back to normal
 ~---------------------------------------
 
 ----0123----
-Glenn powered up by the Star Eye
+Glen powered up by the Star Eye
 ~---------------------------------------
 
 ----0124----
-[Gungnir] received
+Gungnir received
 ~---------------------------------------
 
 ----0125----
-[Brionac] received
+Brionac received
 ~---------------------------------------
 
 ----0126----
-Glenn powered up by the Witch's power
+Glen powered up by the Witch's power
 ~---------------------------------------
 
 ----0127----
@@ -534,7 +534,7 @@ Yuu powered up by the Witch's power
 ~---------------------------------------
 
 ----0130----
-Eruru powered up by the Witch's power
+Elle powered up by the Witch's power
 ~---------------------------------------
 
 ----0131----
@@ -546,7 +546,7 @@ Inaluna powered up by the Witch's power
 ~---------------------------------------
 
 ----0133----
-Shion powered up by the Witch's power
+Sion powered up by the Witch's power
 ~---------------------------------------
 
 ----0134----
@@ -558,7 +558,7 @@ Layla powered up by the Witch's power
 ~---------------------------------------
 
 ----0136----
-Olmorde powered up by the Witch's power
+Aulmorde powered up by the Witch's power
 ~---------------------------------------
 
 ----0137----
@@ -566,5 +566,5 @@ Arnogia powered up by the Witch's power
 ~---------------------------------------
 
 ----0138----
-[Vital Rune] received
+Vital Rune received
 ~---------------------------------------
