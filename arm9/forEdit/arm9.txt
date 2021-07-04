@@ -12,7 +12,7 @@ Inaluna
 Shion
 Sara
 Lyra
-Aulmodee
+Aulmorde
 Arnogia
 Void
 Greatsword
@@ -73,53 +73,53 @@ Silver Blaze
 －
 －
 ■
-グランドブレイク
-イフリートロア
+Grand Break
+Efreet's Roa
 多方裂剣
-ランドナパーム
+Land Napalm
 スカルグレイス
-アクアメロディ
-豪華舞嵐斬
-ブライトウィップ
+Aqua Melody
+Tempest Dance
+Bright Whip
 フローシュート
 メイト＝フレア
 災厄招来・夢幻灯
-ファイヤーマーチ
-スフィアクローズ
-ステラシャイン
-ソウルスレイヤー
+Fire March
+Sphere Cross
+Stella Shine
+Soul Slayer
 ヴァーチャーレイ
-ルナストライク
+Luna Strike
 －
 －
-エターナルホロー
-エンドレクイエム
+Eternal Hole
+End Requiem
 ワールドゲイズ
 烈火爆炎弾みょ！
-フィアフルフレア
-フローズンベイン
+Fearful Flare
+Frozen Vein
 リーヴル＝レイ
-ミラスプラッシュ
-天翼のセレネイド
-マテリアボンバー
+Mira Splash
+Heavenly Serenade
+Materia Bomber
 －
 －
 －
 ■
-ライズスマッシュ
-イグニスウィング
+Rising Smash
+Ignis Wing
 風陰襲撃剣
-ウッドハリケーン
-ギガントスタンプ
+Wood Hurricane
+Giant Stamp
 バブルカンターレ
-双花散斬
+Twin Petals
 プリンセスノック
-レインブリーズ
+Rain Breeze
 メイト＝アイス
 災厄招来・漂流魂
 バーニングサルサ
-ロードブレイザー
-ライズクラスター
+Lord's Blaze
+Rising Cluster
 －
 －
 －
@@ -139,14 +139,14 @@ Silver Blaze
 －
 －
 ■
-バイタルン
-バイタルンソーダ
-バイタルンエキス
-バイタルンオール
-メンタルン
-メンタルンソーダ
-メンタルンエキス
-メンタルンオール
+Vitalum
+Vitalum Soda
+Vitalum X
+Vitalum All
+Mentalum
+Mentalum Soda
+Mentalum X
+Mentalum All
 リフレオール
 ウゴケ草
 ドクキエ草
@@ -155,25 +155,25 @@ Silver Blaze
 オチツキ草
 スバヤ草
 バンノウ薬
-ブースト液
-天の加護
-浄化の水
-アタックアップ
-ガードアップ
-マジックアップ
-レジストアップ
-テクニックアップ
-スピードアップ
-攻撃の秘薬
-防御の秘薬
-命中回避の秘薬
-ドライブエキス
-ドライブソーダ
-リバイブボトル
-リバイブオール
-火薬玉
-クラッシュボム
-フレアボム
+Boost Drink
+Divine Blessing
+Holy Water
+Attack+
+Guard+
+Magic+
+Resist+
+Technique+
+Speed+
+Power Drug
+Wall Drug
+Celerity Drug
+Drive X
+Drive Soda
+Revive Bottle
+Revive All
+Fire Pellet
+Crash Bomb
+Flare Bomb
 炸裂爆弾改
 ビリリ石
 ブクブク石
@@ -188,98 +188,98 @@ Silver Blaze
 －
 －
 ■
-鍛錬場（屋外）
-レスト聖会
-ヴァレッタの滝
-白檀の森
-王宮庭園
-謁見の間
-マベイル山
-星劫の記憶「一層」
-刻雫の泉
-境界
-虚の洞窟
-城塞都市リンデン
-ベルア村
-聖魔女の小川
-中庭
-中庭
-天使の回廊
-天使の鳥籠
-幽界
-妖精界
-妖精城
+Training Hall(Outside)
+Lest Church
+Valetta Waterfall
+Sandal Forest
+Royal Courtyard
+Audience Hall
+Mt. Mavel
+Star Memory S1
+Spring of Time
+Boundary
+Tiger's Den
+Castle City Linden
+Beria Village
+Witch's Creek
+Courtyard
+Courtyard
+Angel's Cloister
+Angel's Cage
+Infereim
+Feyheim
+Fairy Castle
 合成ラピス研究所
-城塞都市リンデン
-王家の谷
-炎の洞穴
-刻の祭壇
-輪廻の河
-夜魔砦
-夜魔界
-夜魔城
+Castle City Linden
+Royal Valley
+Flame Cavern
+Altar of Time
+River
+Nox Fortress
+Tenebrum
+Nox Castle
 ジラード火焔帯
-神の座
-イスタン砂漠
-レモノ海岸
-サレナ遺跡
-ガナル氷壁
-鍛錬場（屋内）
-星劫の記憶「二層」
-星劫の記憶「三層」
-大聖堂
-バトルマップ名－－４１
-バトルマップ名－－４２
-バトルマップ名－－４３
-バトルマップ名－－４４
-バトルマップ名－－４５
-バトルマップ名－－４６
-バトルマップ名－－４７
-バトルマップ名－－４８
-バトルマップ名－－４９
-バトルマップ名－－５０
+God's Seat
+Istan Dessert
+Remono Beach
+Xarena Ruins
+Nagal Ridge
+Training Hall（Inside）
+Star Memory「S2」
+Star Memory「S3」
+Chapel
+Battle Map－－４１
+Battle Map－－４２
+Battle Map－－４３
+Battle Map－－４４
+Battle Map－－４５
+Battle Map－－４６
+Battle Map－－４７
+Battle Map－－４８
+Battle Map－－４９
+Battle Map－－５０
 ■
-学院地下１階フロア
-占いの館
+School BF1
+Oracle's Parlor
 騎士倶楽部
 大浴場
 転移の間
-学院１階フロア
-レスト聖会
+School F1
+Lest Church
 錬金工房
-保健室
-購買部
-食堂
-大聖堂
-大聖堂
-中庭
-中庭
-中庭
-中庭
-学院２階フロア
-普通科教室
+Infirmary
+Shop
+Cafeteria
+Chapel
+Chapel
+Courtyard
+Courtyard
+Courtyard
+Courtyard
+School 2F
+Classroom
 特務科教室
 教官室
 鍛錬場
-図書室
-寮１階　男子フロア
+Library
+Dormitory 1F
 迷いコピンの部屋
 キリカの部屋
 ボナパルトの部屋
-ディーノの部屋
+Dino's Room
 ユウの部屋
-ハイネの部屋
-グレンの部屋
-レフィの部屋
-寮２階　女子フロア
-ヴァレリの部屋
-フランの部屋
-ライラの部屋
-シオンの部屋
-サラの部屋
-イナルナの部屋
-アシュレイの部屋
-エルルの部屋
+Heine's Room
+Glen's Room
+Rephy's Room
+Dormitory 2F
+Valerie's Room
+Fran's Room
+Layra's Room
+Shion's Room
+Sara's Room
+Inaluna's Room
+Ashley's Room
+Elle's Room
 ■
 ■
 ■
@@ -289,24 +289,24 @@ Silver Blaze
 ■
 ■
 ■
-移動
-攻撃
-スキル
-アイテム
-ＦＤ
-ユニゾン
-待機
-行動を決定しますか？
+Move
+Attack
+Skill
+Item
+FD
+Unison
+Wait
+Move here?
 ■
-チュートリアル
-メインバトル
-フリーバトル
-イベントバトル
-エクストラバトル
-通信バトル
+Tutorial
+Main Battle
+Free Battle
+Event Battle
+Extra Battle
+Network Battle
 ■
-バランス
-ユニーク
+Balance
+Unique
 ■
 ■
 ■
@@ -355,309 +355,309 @@ Silver Blaze
 ■
 ■
 グレンのマント布
-オルモルディ角
-アーノギアの鱗
-リーンハルト兜片
-スミルサフの皮片
-ヴァレリの髪
-ヨルグの花弁
-天使珠
+Aulmorde's Horn
+Arnogia's Scale
+Reinhart's Heml Piece
+Smirzof's Pelt
+Valerie's Hair
+Georg's Petal
+Angel's Gem
 神核
-ゴブリン牙
-リザードマン鱗
-ミノタウロス角
-ミノッピー葉
-フロッガー鉱石
-コカトリス皮
-オルトロス毛
-ヒポグリフ羽
-ベヒモス珠
+Goblin Fang
+Lizard Scale
+Minotaur Horn
+Minopy Herb
+Floger Ore
+Cockatrice Pelt
+Altross Fur
+Hippogriff Feather
+Behemoth Gem
 ヒデリガニ鱗
 ボム残り火
-インプ牙
-ファントム骨
-ゴーレム破片
-火のエレメント爪
-フローラの髪
-グレムリン珠
+Imp Fang
+Phantom Bone
+Golem Fragment
+Fire Fiend Claw
+Flora's Hair
+Gremlin Gem
 ブッカブー角
-ゴールドナイト兜
-ラミア皮
-ソルジャー鎧片
-ヘビーナイト盾片
-アーチャー帽子
-メイジ杖片
-プリースト宝珠
-バンディット斧柄
-モンク腕輪
-シュバリエ靴
-ヒコピン角
-ヤコピン芽
-フコピン爪
-ミコピン鉱石
-ニコピン尻尾
-キコピン樹皮
-はぐれコピン牙
-ボナパルト尻毛玉
-ギガス鱗
-エルフ角
-ユニコーン羽
-マーメイド珠
-ピクシー骨
+Golden Knight's Helm
+Lamia's Pelt
+Soldier Armor Piece
+Heavy Knight's Shield
+Archer's Hat
+Mage Staff
+Priest's Jewel
+Bandit Axe Hilt
+Monk's Bracelet
+シュバリエ Shoes
+ヒコピン Horn
+ヤコピン Sprout
+フコピン Claw
+ミコピン Ore
+ニコピン Tail
+キコピン Bark
+Rouge Kopin's Fang
+Bonaparte's Tail
+Gigas's Scale
+Elf's Horn
+Unicorn Wing
+Mermaid Gem
+Pixie Bone
 アーケロン皮
-炎元の欠片
-闇元の欠片
-光元の欠片
-水元の欠片
-風元の欠片
-木元の欠片
-ボガート牙
+Fire Fragment
+Dark Fragment
+Light Fragment
+Aqua Fragment
+Wind Fragment
+Wood Fragment
+Bogart Fang
 リザードロード鱗
-オーク角
+Orc Horn
 デスミノッピー葉
 インスマス鉱石
-バジリスク皮
-ガルム毛
-グリフォン羽
-キングベヒモス珠
+Basilisk Pelt
+Garm' Fur
+Griffon's Feather
+King Behemoth's Gem
 ダイオウガニ鱗
 ガスト残り火
 ガーゴイル牙
 レイス骨
-デュラハン破片
-水のエレメント爪
-木のエレメント爪
-風のエレメント爪
-サキュバスの髪
-ケルヌンノス珠
-ナイトシャドウ角
-シルバーナイト兜
-スキュラ皮
-ファイター鎧片
-マゼルナイト盾片
-スナイパー帽子
-ウィザード杖片
-ビショップ宝珠
-シーフ斧柄
+Dullahan's Fragment
+Water Fiend Fang
+Wood Fiend Fang
+Wind Fiend Fang
+Succubus Hair
+Cernunnos's Gem
+Knight Shadow Horn
+Silver Knight's Helm
+Scylla Pelt
+Fighter Armor
+Messer Knight's Shield
+Sniper's Hat
+Wizard's Staff
+Bishop's Jewel
+Thief Axe Hilt
 セスタス腕輪
-ロイヤルナイト靴
-ゴールドコピン牙
+Royal Knight's Shoes
+Gold Kopin's Fang
 アース鱗
 フォモール粉末
-ハイエルフ角
-ダークエルフ毛
-ケルピー羽
-スレイプニル爪
+High Elf's Horn
+Dark Elf's Hair
+Kelpie's Feather
+Sleipnir's Hoof
 ニンフ珠
-バンシー鉱石
-スプリガン骨
-チェルノボグ繊維
+Banshee Ore
+Spriggan Bone
+Chernobog's Thread
 アースガルド皮
 ゲンブ牙
 ■
-ＡＴＫ＋５
-ＡＴＫ＋１０
-ＡＴＫ＋２０
-ＡＴＫ＋２０％
-ＤＥＦ＋５
-ＤＥＦ＋１０
-ＤＥＦ＋２０
-ＤＥＦ＋２０％
-ＳＰＤ＋５
-ＳＰＤ＋１０
-ＳＰＤ＋２０
-ＳＰＤ＋２０％
-ＴＥＣ＋５
-ＴＥＣ＋１０
-ＴＥＣ＋２０
-ＴＥＣ＋２０％
-ＭＡＧ＋５
-ＭＡＧ＋１０
-ＭＡＧ＋２０
-ＭＡＧ＋２０％
-ＲＥＧ＋５
-ＲＥＧ＋１０
-ＲＥＧ＋２０
-ＲＥＧ＋２０％
-戦士の決意
-聖戦士の決意
-勇士の決意
-闘鬼の決意
-魔女の心
-占い師の心
-魔術師の心
-殿堂魔女の心
+ATK+5
+ATK+10
+ATK+20
+ATK+20%
+DEF+5
+DEF+10
+DEF+20
+DEF+20%
+SPD+5
+SPD+10
+SPD+20
+SPD+20%
+TEC+5
+TEC+10
+TEC+20
+TEC+20%
+MAG+5
+MAG+10
+MAG+20
+MAG+20%
+REG+5
+REG+10
+REG+20
+REG+20%
+Warrior's Will
+Paladin's Will
+Hero's Will
+Berserk's Will
+Witch's Heart
+Oracle's Heart
+Magician's Heart
+Priestess's Heart
 会心の心得
-心眼
-ジャンプシューズ
-ウィングシューズ
+Inner Eye
+Jump Shoes
+Wing Shoes
 隼之衣
 韋駄天之衣
-ＨＰ＋５０
-ＨＰ＋１０％
-ＨＰ＋２０％
-ＨＰ＋３０％
-ＭＰ＋２５
-ＭＰ＋１０％
-ＭＰ＋２０％
-ＭＰ＋３０％
-ＨＰＭＰ＋５％
-ＨＰＭＰ＋１０％
-ＨＰＭＰ＋１５％
-ＨＰＭＰ＋２０％
-火炎の結晶
-紅蓮の結晶
-獄炎の結晶
-巻貝の結晶
-珊瑚の結晶
-真珠の結晶
-樹木の結晶
-新緑の結晶
-豊穣の結晶
-旋風の結晶
-極風の結晶
-竜巻の結晶
-陽光の結晶
-雷光の結晶
-曙光の結晶
-闇夜の結晶
-漆黒の結晶
-冥府の結晶
-火炎のお守り
-紅蓮のお守り
-獄炎のお守り
-巻貝のお守り
-珊瑚のお守り
-真珠のお守り
-樹木のお守り
-新緑のお守り
-豊穣のお守り
-旋風のお守り
-極風のお守り
-竜巻のお守り
-陽光のお守り
-雷光のお守り
-曙光のお守り
-闇夜のお守り
-漆黒のお守り
-冥府のお守り
-ＤＰ＋５
-ＤＰ＋１０
-ＥＸＰ＋２０％
-ＥＸＰ＋４０％
-トレジャー２５％
-トレジャー５０％
+HP+50
+HP+10%
+HP+20%
+HP+30%
+MP+25
+MP+10%
+MP+20%
+MP+30%
+HP/MP+5%
+HP/MP+10%
+HP/MP+15%
+HP/MP+20%
+Flame Crystal
+Crimson Crystal
+Inferno Crystal
+Snail Crystal
+Coral Crystal
+Perl Crystal
+Tree Crystal
+Verdant Crystal
+Harvest Crystal
+Whirlwind Crystal
+Storm Crystal
+Tempest Crystal
+Sun Crystal
+Thunder Crystal
+Dawn Crystal
+Night Crystal
+Onyx Crystal
+Hades Crystal
+Flame Amulet
+Crimson Amulet
+Inferno Amulet
+Snail Amulet
+Coral Amulet
+Perl Amulet
+Tree Amulet
+Verdant Amulet
+Harvest Amulet
+Whirlwind Amulet
+Storm Amulet
+Tempest Amulet
+Sun Amulet
+Thunder Amulet
+Dawn Amulet
+Night Amulet
+Onyx Amulet
+Hades Amulet
+DP+5
+DP+10
+EXP+20%
+EXP+40%
+Treasure 25%
+Treasure 50%
 せせらぎの衣
 防御の極意
-呪いの短剣
-医療の達人
-破壊の魂
-癒しのオーラ
-施しのオーラ
-活力のオーラ
-魔力のオーラ
-集中のオーラ
-瞑想のオーラ
-痺れ薬のお守り
-猛毒のお守り
-混濁のお守り
-氷結のお守り
-沈黙のお守り
-減速のお守り
-白焔の宝玉
+Cursed Dagger
+Healing Expert
+Soul of Destruction
+Healing Aura
+Charity Aura
+Vitality Aura
+Magic Aura
+Focus Aura
+Meditation Aura
+Paralysis Ward
+Poison Ward
+Confusion Ward
+Freeze Ward
+Silence Ward
+Delay Ward
+White Flame Orb
 慈水の宝玉
-翠蘭の宝玉
-舞風の宝玉
-閃光の宝玉
-氷影の宝玉
-インパクトプラス
-ふんばりスパイク
+Green Orchid Orb
+Dancing Wind Orb
+Glitter Orb
+Frost Shadow Orb
+Impact Plus
+Firm Spike
 ドレインピース
 ドレインフォーム
-ＭＰ吸収１０％
-ＭＰ吸収２０％
-オートメディカル
-痺れ薬の結晶
-猛毒の結晶
-混濁の結晶
-氷結の結晶
-沈黙の結晶
-減速の結晶
-時の石版
-無の石版
-ラピス１３１
-ラピス１３２
-ラピス１３３
-ラピス１３４
-ラピス１３５
-ラピス１３６
-ラピス１３７
-ラピス１３８
-ラピス１３９
-ラピス１４０
+MP Drain 10%
+MP Drain 20%
+Auto Medic
+Paralyze Crystal
+Poison Crystal
+Chaos Crystal
+Freeze Crystal
+Silence Crystal
+Delay Crystal
+Time Tablet
+Void Tablet
+Lapis 131
+Lapis132
+LapiS 133
+Lapis 134
+Lapis 135
+Lapis 136
+Lapis 137
+Lapis 138
+Lapis 139
+Lapis 140
 ■
-ベルセルク
-ケルベロス
-フェンリル
-イージス
-グリモア
-セイレーン
-ヴァルキュリア
-イシュタル
-ヴィーナス
-パンドラ
+Berserk
+Cerberus
+Fenrir
+Aegis
+Grimoire
+Siren
+Valkyrie
+Ishtar
+Venus
+Pandora
 道士
-タイタニア
-ジークフリート
-ラグナロク
-一般生徒
-一般生徒
-一般生徒
-一般生徒
-一般生徒
-一般生徒
-アルケー
-アルケー
-テロス
+Titania
+Siegfried
+Ragnarok
+Student
+Student
+Student
+Student
+Student
+Student
+Arche
+Arche
+Thelos
 ■
 ■
-テロス
-天使
+Thelos
+Angel
 ■
-フェリシア
-神の瞳
-神の瞳
-バラの守り人
+Felicia
+God Eye
+God Eye
+Rose Guardian
 ■
 ■
-Ｆゴブリン
-Ｆリザードマン
-Ｆミノタウロス
-Ｆミノッピー
-Ｆフロッガー
-コカトリス
-オルトロス
-ヒポグリフ
-ベヒモス
+Goblin F
+Lizardman F
+Minotaur F
+Minopy F
+Floger F
+Cockatrice
+Altross
+Hippogriff
+Behemoth
 ヒデリガニ
-Ｆボム
-Ｎインプ
-Ｆファントム
-Ｎゴーレム
-Ｆ火のエレメント
-Ｆフローラ
-Ｎグレムリン
+Bomb F
+Imp N
+Phantom F
+Golem N
+Fire Fiend F
+Flora F
+Gremlin N
 Ｎブッカブー
-ゴールドナイト
-Ｆラミア
-ソルジャー
-ヘビーナイト
-アーチャー
-メイジ
-プリースト
-バンディット
-モンク
-シュバリエ
+Golden Knight
+Millia F
+Soldier
+Heavy Knight
+Archer
+Mage
+Priest
+Bandit
+Monk
+Shivalee
 ヒコピン
 ヤコピン
 フコピン
@@ -665,19 +665,19 @@ Silver Blaze
 ニコピン
 キコピン
 はぐれコピン
-Ｆラビリア
-Ｆギガス
-Ｆエルフ
-Ｆユニコーン
-Ｆマーメイド
-Ｆピクシー
-Ｆアーケロン
-魔女
-魔女
-魔女
-魔女
-魔女
-魔女
+Rhabylia F
+Gigas F
+Elf F
+Unicorn F
+Mermaid F
+Pixie F
+Archeon F
+Witch
+Witch
+Witch
+Witch
+Witch
+Witch
 ■
 ■
 ■
@@ -747,89 +747,89 @@ Silver Blaze
 ■
 ■
 ■
-Ｎボガート
+Bogart N
 Ｎリザードロード
-Ｎオーク
+Ork N
 Ｎデスミノッピー
 Ｎインスマス
-Ｎバジリスク
-Ｎガルム
-Ｎグリフォン
-キングベヒモス
+Basilisk N
+Garm N
+Griffon N
+King Behemoth
 Ｎダイオウガニ
 Ｎガスト
-Ｎガーゴイル
+Gargoyle N
 Ｆレイス
-Ｎデュラハン
-Ｆ水のエレメント
-Ｆ地のエレメント
-Ｆ風のエレメント
-Ｆサキュバス
-Ｎケルヌンノス
-Ｔナイトシャドウ
-シルバーナイト
-Ｎスキュラ
-ファイター
-Ｔマゼルナイト
-スナイパー
-ウィザード
-ビショップ
-シーフ
+Dullahan N
+Water Fiend F
+Earth Fiend F
+Wind Fiend F
+Succubus F
+Cernunnos N
+Knight Shadow T
+Silver Knight 
+Scylla N
+Fighter
+Messer Knight T
+Sniper
+Wizard
+Bishop
+Thief
 セスタス
-ロイヤルナイト
+Royal Knight
 Ｎラビネス
-Ｔゴールドコピン
+Golden Kopin T
 Ｆアース
 Ｎフォモール
-Ｆハイエルフ
-Ｎダークエルフ
-Ｆケルピー
-Ｎスレイプニル
-Ｆニンフ
-Ｎバンシー
-Ｆスプリガン
-Ｎチェルノボグ
-Ｆアースガルド
-Ｎゲンブ
-天使の影
-影コピン
+High Elf F
+Dark Elf N
+Kelpie F
+Sleipnir N
+Nyph F
+Banshee N
+Spriggan F
+Chernobog N
+Asgard F
+Genbu N
+Angel's Shadow
+Shadow Kopin
 ■
 ■
 ■
-？？？
-？？？
+???
+???
 ■
-レフィ
-グレン
-ディーノ
-ハイネ
+Rephy
+Glen
+Dino
+Heine
 ユウ
-エルル
-アシュレイ
-イナルナ
-シオン
-サラ
-ライラ
-オルモルディ
-アーノギア
-レフィ
+Elle
+Ashley
+Inaluna
+Shion
+Sara
+Lyra
+Aulmorde
+Arnogia
+Rephy
 ■
 ■
 ■
 ■
 ■
 ■
-リーンハルト
-スミルサフ
-ヴァレリ
+Reinhart
+Smirzof
+Valerie
 ■
 ■
-ヨルグ
-ミリア
+Georg
+Milia
 ■
 ■
-神のコア
-神
+God's Core
+God
 ■
 ■
 ■
@@ -868,19 +868,19 @@ Silver Blaze
 ■
 ■
 ■
-ボナパルト
+Bonaparte
 ■
 ■
 ■
 ■
 ■
 ■
-アルティ
-ファティマ
-ディア
-ルナルナ
-サティ
-ポプリ
+Althea
+Fatima
+Dia
+Luna Luna
+Sadie
+Potpurri
 ■
 ■
 ■
@@ -980,7 +980,7 @@ Silver Blaze
 ■
 ■
 ■
-レオナルド
+Leonard
 ■
 ■
 ■
@@ -999,118 +999,118 @@ Silver Blaze
 ■
 ■
 ■
-タル
-宝箱
+Barrel
+Treasure Box
 ■
-爆砕斬り
-パワーチャージ
-弧光の一閃
-ソリッドレギオン
-天翔連刃撃
+Explosive Cut
+Power Charge
+Arc Slash
+Solid Legion
+Heavenly Assault
 フレイムチェスト
-チューニング
-ノヴァインパクト
-フレイムピラー
-バーニングロード
-心眼投射
-スピードアップ
-毒砕牙
+Tunning
+Nova Impact
+Flame Pillar
+Burning Lord
+Projection
+Speed Up
+Poison Fang
 バッシュストーム
-三界麻痺蜂針
-ガードブースト
-クロスガード
-重撃破
-ランドスティング
-金剛力破
-プロテクトダウン
-ダークボア
-ナイトスクリーム
-ナイトドレイン
-ダークスフィア
-キュアー
-アクアハンマー
-キュアラー
-リヴァイブ
+Deadly Stinger
+Guard Boost
+Cross Guard
+Power Wave
+Land Stinger
+Herculean Wave
+Protect Down
+Dark Boa
+Night Scream
+Night Drain
+Dark Sphere
+Cure
+Aqua Hammer
+Ra Cure
+Revive
 リキッドスコール
-双針刺突
-トリート
-散華十字斬り
-ナイトスクリーム
+Twin Needles
+Treat
+Cross Petals
+Night Scream
 咲夜連舞
-明光の加護
-ブライトアロウ
-閃光の加速
-鏡光の結界
-フォトンアクシス
-レストア
-ウィンドスライサ
-トリートキュアラ
-ピアースショット
-エアロツイスター
-ウッドウィップ
-キュアラー
+Dawn's Blessing
+Bright Arrow
+Light Speed
+Mirror Barrier
+Photon Axis
+Restore
+Wind Slicer
+Treat Cure
+Pierce Shoot
+Aero Twister
+Wood Whip
+Ra Cure
 怠惰参投下
 リジェネイタン
 剣帝樹の審判
 どん打とっ！
 集中っす～
 如意っと棒っす～
-ウェーブスフィア
-リヴァイバル
+Web Staff
+Revival
 フィジカルモア
-ファイアバレット
-ドレインタッチ
+Fire Bullet
+Drain Touch
 灼熱の吐息
-イグニスブレイズ
-崩牙衝
-アタックシフト
+Ignis Blaze
+Rending Shock
+Attack Shift
 一輝当閃
-シャインバレット
-光陰双流閃
-新・爆砕斬り
-アームシフト
-真・弧光の一閃
-ロスライトニング
+Shining Bullet
+Ambivalent Flash
+True Explosive Cut
+Arm Shift
+True Arc Flash
+Lost Lightning
 心・天翔連刃撃
 頑張るみょ！
 氷塊招来
 究極だみょー！！
-アタックアップ
-大爆発
-ＡＯ速度ダウン
-超爆発
+Attack Up
+Great Explosion
+AO Speed Down
+Super Explosion
 ふれいむぴら～
-ヒートストーム
-アタックダウン
+Heat Storm
+Attack Down
 きゅあ～
 うぇーぶすふぃあ
 戦士の高揚
-スプラッシュ
-パラライズ
-テクニックダウン
+Splash
+Paralyze
+Technique Down
 らんどすてぃんぐ
-ジャングルコンボ
-テクニックアップ
+Jungle Combo
+Technique Up
 ばっしゅすとーむ
-スラッシュゲイル
-マジックバレット
+Gale Slash
+Magic Bullet
 しゃいんばれっと
-フォトンブラスト
-マジックダウン
-グラビティアイス
+Photon Blast
+Magic Down
+Gravity Eyes
 ぐらびてぃあいす
-パニック
-パラライズ
-氷結のキス
-ブリーズダスト
+Panic
+Paralyze
+Freezing Kiss
+Freeze Dust
 ラインパニック
-クライシスアイズ
-アタックバリア
-マジックバリア
-キュアラル
+Crisis Eyes
+Attack Barrier
+Magic Barrier
+Ral Cure
 ろすらいとにんぐ
 グリーバスクライ
-インフィニティ
+Infinity
 －
 －
 －
@@ -1122,57 +1122,57 @@ Silver Blaze
 －
 －
 －
-アクアカッター
-カブト割り
-強撃
-強撃
-強撃
-クロスアタック
-疾風斬り
-スラスター
+Aqua Cutter
+Helm Splitter
+Power Attack
+Power Attack
+Power Attack
+Cross Attack
+Gale Slash
+Thruster
 叩き割り
 デコピン
-螺旋突き
-フルアタック
-フルアタック
-フルアタック
-フルアタック
-フルスイング
-フルスイング
-ポイズンブレス
-ボイドスティング
+Spiral Thrust
+Full Attack
+Full Attack
+Full Attack
+Full Attack
+Full Swing
+Full Swing
+Poison Breath
+Void String
 耳乱舞
-ヘビィタックル
+Heavy Attack
 一閃
 一本刺し
 ウォータブレス
-ターンクラッシュ
+Tank Rush
 コアクラッシュ
-剛斬撃
-ゴールデンパンチ
-毒角撃
-クリーンヒット
-バッシュソード
-パニックタックル
-パラライズクロー
-フルスイング
-フルスイング
-フルスイング
-フルスイング
-ポイズンブレス
+Solid Slash
+Golden Punch
+Poison Horn
+Clean Hit
+Sword Bash
+Panic Tackle
+Paralyze Claw
+Full Swing
+Full Swing
+Full Swing
+Full Swing
+Poison Breath
 ラインブレイク
-アクアスライダー
+Aqua Slider
 ブラックダイア
-サイレントアロー
-ハードアロー
+Silent Arrow
+Hard Arrow
 ターンアロー
-ヒットアロー
+Hit Arrow
 ブラッドドレイン
-ポイズンシュート
-サイレントアロー
-サクリファイス
-ファイアブレス
-ダークブレス
+Poison Shoot
+Silent Arrow
+Sacrifice
+Fire Breath
+Dark Breath
 －
 －
 －
@@ -1214,112 +1214,112 @@ Silver Blaze
 －
 
 【ＴＡＢＬＥ２】
-味方の全滅
-主人公の行動不能
-%sの行動不能
-指定場所に敵が到達
-敵をすべて倒せ
-指定場所に到達せよ
-敵を%s体以下にせよ
-%sを倒せ
-%sもしくは%sを倒せ
-%s、%sを倒せ
-%sに隣接せよ
-%sの体力を減らせ
-%sを%s体倒せ
-無
-牙
-角
-爪
-鱗
-繊維
-結晶体
-骨
-皮
-羽根
-粉末
-鉱石
-毛
-尻尾
+Allies Defeated
+Protagonist Down
+%s Down
+ Enemy reach the target
+Defeat all enemies
+Reach the target
+Reduce enemies to %s or less
+Defeat %s
+Defeat %s or %s
+Defeat %s and %s
+Get close to %s
+Reduce %s HP
+%s defeats %s
+N/A
+Fang
+Horn
+Claw
+Scale
+Thread
+Crystal
+Bone
+Pelt
+Feather
+Powder
+Ore
+Fur
+Tail
 今日はなにかな？
-いらっしゃいませ～
+Welcome～
 あたしに用だったりして～
 会いたかったよ。
-レフィ！
+Rephy!
 いつもにこにこ現金払い～
-ヒヨちゃんのお店に$n新しい武器が増えたよ～
+There are new weapons $n in Hiyo's shop～
 ヒヨちゃん絶好調みたい～$n武器が増えたよ～
-また来てね！　待ってるよ～！
+Come again～！
 頑張ってね。
 なかなか良かったよ☆またね。
 もういっちゃうの～
-見たい武器のカテゴリーを選んでね。
-練成に必要な素材はこれらだよ。
+Choose the category you want to see.
+Those are the required materials.
 素材が溜まっているみたいだね。$n早く素材が欲しいな♪
-ヒヨちゃんのお店で買ってね。
+Buy at Hiyo's shop.
 情報が溜まってるみたいね。$n早く情報を教えてよ♪
 その素材を持っているのはコイツらだよ。
 %sの練成情報が$nあと、戦闘%s回分欲しいな～♪
-素材練成リストが更新されました。
+Synthesis list updated.
 熟練練成リストが更新されました。
 この武器を練成する為に、素材を渡しますか？
 熟練練成の情報を報告しますか？
-これを売りますか？
+Are you selling this?
 素材を売りました。
-所持している素材を全て売りますか？
-このカテゴリーの素材を全て売りますか？
-購入可能武器が増えました。
-素材練成リスト
-必要素材
-熟練練成リスト
+Sell all materials?
+Sell all materials in this category?
+A new weapon can be bought.
+Synthesis
+Required
+Proficiency
 素材を出すキャラクター
-素材換金リスト
-？？？
-戦闘回数
-素材を用意してくれれば、$n新しい武器を創れるようになるよ～
-決まった武器で戦闘に参加すれば、$n強くなった武器を創れるようになるよ～
+Material Exchange
+???
+Battle Count
+I can create new weapons、$n if you have the right materials～
+By using certain weapons in combat, $n a stronger weapon can be created ～
 いらない素材は買い取っちゃうよ♪
-%sを取得した
-%sがＬＶＵＰ！
-物理攻撃力を示す数値
-物理防御力を示す数値
-魔法攻撃力を示す数値
-魔法防御力を示す数値
-命中率を示す数値
-回避率を示す数値
-現在の状態をセーブします$nよろしいですか？
-セーブしています$n電源を切らないで下さい
-セーブが完了しました$nゲームを続けますか？
-リトライしますか？
-増援が現れた！
-移動やマップ確認ができます
-武器で攻撃をします
-スキルを使います
-アイテムを使います
-フラッシュドライブを使います
-ユニゾンを使います
-行動を決定します
-ステータスアップ選択
+%s acquired
+%s Leveled UP!
+Physical Attack Power
+Physical Defense Power
+Magical Attack Power
+Magical Defense Power
+Accuracy Rate
+Evasion Rate
+Do you wish to $n save now?
+Saving…$n Don't turn off the power
+Save Complete $n Continue playing?
+Retry?
+Enemy reinforcements!
+Move and Navigate the map
+Weapon Attack 
+Use Skill
+Use Item
+Use Flash Drive
+Use Unison
+Confirm movement
+Stats Up Select
 ■
 ■
 通信待ち
-属性相関図を確認できます
-勝利敗北条件を確認できます
-設定を変更できます
-中断セーブができます
+Check elemental chart
+Confirm Battle Conditions
+Change Settings
+Quick Save
 ■
 神の瞳が目を開く
-マップ確認やキャラクター配置の変更ができます
-勝利条件変更！
-所持金が足りません！
-情報料を頂きますがよろしいですか？
-ストップボタンを押してコピンを止めて下さい。
+Check the map and place characters
+Battle Conditions have changed!
+Not enough money!
+I'll be taking the fee, proceed?
+Press the stop button and stop Kopin.
 ■
-ＢＡＤ状態が解除された
-ＡＤＤ状態が解除された
-ステータス変化が解除された
+BAD status removed
+ADD status removed
+Stats change dispelled
 ■
-ダミー
+Dummy
 体の治癒力を高める飲み物です。$n飲むとＨＰを回復します。
 体の治癒力を高める飲み物です。$nＨＰを大幅に回復します。
 体の治癒力を高める飲み物です。$nＨＰをかなり回復します。
@@ -1370,255 +1370,255 @@ Silver Blaze
 －$n－
 
 【ＴＡＢＬＥ３】
-皮のヘルメット
-バンダナ
-見習いの兜
-古びた兜
-ブロンズヘルム
-ヘッドギア
-アイアンヘルム
-チタンヘルム
-ルミナスヘルム
-虹のバンダナ
-アーミットヘルム
+Leather Helmet
+Bandana
+Apprentice Helm
+Old Helm
+Bronze Helm
+Headgear
+Iron Helm
+Titanium Helm
+Luminous Helm
+Rainbow Bandana
+アーミット Helm
 オーガメット
-シルバーヘルム
+Silver Helm
 ウォークラウン
-ゴールドヘルム
-鱗のバンダナ
-ティタンヘルム
-白銀の兜
-ルーンヘルム
-アウラの兜
-ぼうし
-羽根付きぼうし
-見習いキャップ
-テンガロンハット
-バトルキャップ
-うさみみぼうし
-グリーンベレー
-シルクハット
-ルミナスキャップ
+Gold Helm
+Scale Bandana
+Titan Helm
+Platinum Helm
+Runic Helm
+Aura Helmet
+Hat
+Feather Hat
+Apprentice Cap
+Ten Gallon Hat
+Battle Cap
+Bunny Hat
+Green Beret
+Silk Hat
+Luminous Cap
 ペイントベレー
-ラウンドハット
-ねこみみぼうし
-アーミーキャップ
-風のぼうし
-ディストキャップ
-七色のぼうし
-ミラクルハット
-太陽のぼうし
-ルーンキャップ
+Round Hat
+Cat Hat
+Army Cap
+Wind Hat
+ディスト Cap
+Rainbow Hat
+Miracle Hat
+Sun Hat
+Runic Cap
 マーリンのぼうし
-フード
-手作りフード
-むぎわら頭巾
-シルキーフード
-バトルフード
-うさみみフード
+Hood
+Handmade Hood
+Straw Hat
+Silky Hood
+バトル Hood
+Bunny Hood
 三角頭巾
-サテンフード
-ルミナスフード
-黒頭巾
-フェザーフード
-ねこみみフード
-エクスフード
-賢者の頭巾
-メタルゴアフード
-マギサフード
-マジカルフード
-天使の頭巾
-ルーンフード
-ケイロンフード
-リボン
-石の髪飾り
-皮のリボン
-カチューシャ
-貝の髪飾り
-ティアラ
-黄色リボン
-銅のカチューシャ
-真珠の髪飾り
-シルバーティアラ
-青色リボン
-銀のカチューシャ
-乙女の髪飾り
-サークレット
-赤色リボン
-精霊のティアラ
-金のカチューシャ
-人魚の髪飾り
-ルーンリボン
+サテン Hood
+Luminous Hood
+Black Hood
+Feather Hood
+Cat Hood
+X Hood
+Sage Hood
+メタルゴア Hood
+マギサ Hood
+Magical Hood
+Angel's Hood
+Runic Hood
+ケイロン Hood
+Ribbon
+Stone Hairpin
+Leather Ribbon
+Hairband
+Shell Hairpin
+Tiara
+Yellow Ribbon
+Bronze Headband
+Pearl Hairpin
+Silver Tiara
+Blue Ribbon
+Silver Headband
+Maiden Hairpin
+Circlet
+Red Ribbon
+Spirit Tiara
+Golden Hairband
+Merfolk Hairpin
+Runic Ribbon
 ニケのティアラ
-レザーアーマー
-スケイルメイル
-リングメイル
-プレスプレート
-チェインメイル
-ヘビープレート
-スプリントメイル
-守護騎士の鎧
-ルミナスメイル
-フルプレート
-ピュールアーマー
-コーラルプレート
+Leather Armor
+Scale Mail
+Ring Mail
+Breastplate
+チェイン Mail
+Heavy Plate
+Sprint Mail
+Praetor Armor
+Luminous Mail
+Full Plate
+ピュール Armor
+Coral Plate
 聖林の鎧
-ワイズマンメイル
-鳳凰の鎧
-レイブンチェスト
-リフレクター
+ワイズマン Mail
+Phoenix Armor
+Raven Breastplate
+Reflector
 シンフォスター
-ルーンプレート
+Runic Plate
 アウラディバイン
-服
-麻の服
-皮の服
-シルクの服
-レザージャケット
+Clothes
+Hemp Clothes
+Leather Clothes
+Silk Clothes
+Leather Jacket
 リーガルスーツ
-戦士のベスト
-アブナイ服
-司教の法服
-ボディスーツ
-ダンシングスーツ
+Warrior Vest
+アブナイ Clothes
+Priest Clothes
+Bodysuit
+Dashing Suit
 ウインジャケット
-朝霧の秘服
-古代の服
-審判者の黒服
+Mist Clothes
+Ancient Clothes
+Judge Clothes
 ハイロードスーツ
-預言者の聖服
-ミラージュベスト
-ルーンの服
-幻神の服
-ローブ
-毛皮のローブ
+Prophet Clothes
+Mirage Vest
+Runic Clothes
+Illusion Clothes
+Robe
+Fur Robe
 木綿の衣
-シルクローブ
-コーネリアローブ
-ウィッチローブ
-魔法の衣
-サテンローブ
-ルミナスローブ
-聖人の衣
-西風のローブ
-シャインローブ
-賢者の衣
-メンタルローブ
-シルバーローブ
-マギサローブ
-神秘の衣
-イノセントローブ
-ルーンローブ
-聖魔女のローブ
-コート
-レザーマント
-フェザーマント
-シルキーコート
-厚手のマント
-バトルコート
-ヒーローマント
+Silk Robe
+Cornelia Robe
+Witch Robe
+Magic Robe
+サテン Robe
+Luminous Robe
+Holy Robe
+Zephyr Robe
+Shine Robe
+Sage Robe
+Mental Robe
+Silver Robe
+マギサ Robe
+Divine Robe
+Innocent Robe
+Runic Robe
+Saint Robe
+Coat
+Leather Mantle
+Feather Mantle
+Silky Coat
+Fabric Mantle
+Battle Coat
+Hero Mantle
 サテンコート
-ルミナスコート
-騎士団のマント
-アーマーコート
-ビロードマント
-ブレイブコート
-メンタルコート
-シルバーコート
+Luminous Coat
+Knight's Mantle
+Armor Coat
+Byrod Mantle
+Brave Coat
+Mental Coat
+Silver Coat
 マギサコート
 モリガンコート
-精霊のマント
-ルーンコート
-エターナルコート
-グレートソード
-テックブレード
-テックブレード改
-ディフェンダー
-ジャッジメント
-ダマスカスソード
-バスターブレード
-ジャッジメント改
-クリスタルソード
-バルムンク
-ラグナブレード
-ニルヴァーナ
-アウラブレード
-ブロンズスピア
-スティンガー
-ブラッドランス
-トライデント
-クリムゾンスピア
-羅刹の槍
-ゲイボルグ
-アグニスランス
-槍予備枠＿１
-槍予備枠＿２
-スティレット
-ソニックダガー
-スナイプダガー
+Spirit Mantle
+Runic Coat
+Eternal Coat
+Greatsword
+Thick Blade
+Thick Blade II
+Defender
+Judgment
+Damascus Sword
+Buster Blade
+Judgment II
+Crystal Sword
+Balmung
+Ragna Blade
+Nirvana
+Aura Blade
+Bronze Spear
+Stinger
+Blood Lance
+Trident
+Crimson Spear
+Rakshasa Spear
+Gae Bolg
+Agnis Lance
+Reserve Spear 1
+Reserve Spear 2
+Stiletto
+Sonic Dagger
+Snipe Dagger
 マインゴーシュ
-シャドウナイフ
-切火の短剣
-スパークナイフ
-シルフィード
-フラガラッハ
-エウロスダガー
-ナイフ予備枠＿１
-ナイフ予備枠＿２
-ナイフ予備枠＿３
-バックラー
-スパイクシールド
-バスターシールド
-タワーシールド
+Shadow Knife
+Fire Dagger
+Spark Knife
+Sylphid
+Fragarach
+Euros Dagger
+Reserve Knife
+Reserve Knife 2
+Reserve Knife 3
+Buckler
+Spike Shield
+Buster Shield
+Tower Shield
 ナイツガード
-ゴーレムの盾
-ロイヤルガード
-海亀の盾
-ミラーシールド
-ブリトウェンの盾
-プリンセスガード
-オハンの盾
-ユグドラの大盾
-古の石版
-魔女の教典
-天使の教典
-死者の石版
+Golem Shield
+Royal Guard
+Turtle Shield
+Mirror Shield
+ブリトウェン Shield
+Princess Guard
+オハン Shield
+Yggdra's Shield
+Old Tablet
+Witch Book
+Angel Book
+Necro Tablet
 風葬の書
-賢者の石版
+Sage's Tablet
 永劫業火の書
 エイボンの石版
-アポカリプス
-アカシックの書
-石版予備枠＿１
-石版予備枠＿２
-石版予備枠＿３
-貝殻のフルート
-ハミングホルン
-プリズムフルート
-ハーモニーホルン
-黒猫のリコーダー
-千年樹のホルン
-海鳴りのフルート
+Apocalypse
+Akashic Record
+Reserve Tablet
+Reserve Tablet 2
+Reserve Tablet 3
+Shell Flute
+Humming Horn
+Prism Flute
+Harmony Horn
+Black Cat Recorder
+Millenary Flute
+Ocean Flute
 妖精のピッコロ
-天鳴りのフルート
-ミラージュホルン
-虹のフルート
-ローレライホルン
-セラフィムホルン
-クロスセイバー
-ウィンドサーベル
+Heaven Flute
+Mirage Horn
+Rainbow Flute
+Lorelay Horn
+Seraphic Horn
+Cross Saber
+Wind Saber
 ニードルエッジ
-ローズセイバー
+Rose Saber
 ノワールローズ
-ミネルヴァエッジ
-蜘蛛切
-フランベルジュ
+Minerva Edge
+Spider Cutter
+Flamberge
 オートクレール
-スルトの剣
-十六夜
-デュランダル
-フレイヤセイバー
-レザーウィップ
+Surt's Sword
+Sixteen Nights
+Durandal
+Freya Saber
+Leather Whip
 スパイクウィップ
 プリンセステイル
 ハリセンテイル
@@ -1700,7 +1700,7 @@ Silver Blaze
 水扇マーキュリア
 虹管イーリス
 戦槌エヴァグリス
-ノーマルブレード
+ノーマル Blade
 ノーマルスピア
 ノーマルセイバー
 ノーマルボウ
@@ -1727,12 +1727,12 @@ Silver Blaze
 異界
 出現キャラクター
 　
-地域
+Regions
 道具
-歴史
+History
 組織
 生命
-魔法
+Magic
 　
 　
 占いの館へようこそ。$n誰との仲を深めたいの？
@@ -1749,16 +1749,16 @@ Silver Blaze
 ……。
 今の私にできることはないわね。
 　
-買う
-売る
-装備
-武器
-頭防具
-胴防具
-アイテム
-ラピス
-もどる
-これを買いますか？
+Buy
+Sell
+Equip
+Weapon
+Head
+Body
+Item
+Lapis
+Return
+Buy this?
 購入した装備品を装備しますか？
 装備するキャラクターを選んでください
 装備品の変更を終了しました。
@@ -1775,14 +1775,14 @@ Silver Blaze
 お前に売るもんはねえ！
 　
 　
-セーブします。よろしいですか？
-ロードします。よろしいですか？
-最終章
-第%s章
-ノーマル
-ハード
-このデータから再開しますか？
-データなし
+Save the data?
+Load the data?
+Final Chapter
+Chapter %s
+Normal
+Hard
+Continue from this data?
+No data
 　
 ＢＧＭの音量を設定します
 ＳＥの音量を設定します
