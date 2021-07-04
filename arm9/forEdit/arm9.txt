@@ -35,7 +35,7 @@ Rod
 Axe
 Feather Staff
 Ice Whip
-教鞭
+Cane
 Fan
 ラッパ
 Hammer
@@ -74,7 +74,7 @@ Silver Blaze
 －
 ■
 Grand Break
-Efreet's Roa
+Efreet's Roar
 多方裂剣
 Land Napalm
 スカルグレイス
@@ -111,8 +111,8 @@ Ignis Wing
 風陰襲撃剣
 Wood Hurricane
 Giant Stamp
-バブルカンターレ
-Twin Petals
+Bubble Cantare
+Dual Rose
 プリンセスノック
 Rain Breeze
 メイト＝アイス
@@ -139,25 +139,25 @@ Rising Cluster
 －
 －
 ■
-Vitalum
-Vitalum Soda
-Vitalum X
-Vitalum All
-Mentalum
-Mentalum Soda
-Mentalum X
-Mentalum All
-リフレオール
-ウゴケ草
-ドクキエ草
-ヌクヌク草
-トナエ草
-オチツキ草
-スバヤ草
-バンノウ薬
+VitaMint
+ViTonic
+VitaTea
+Vita-Max
+MagiMint
+MagiSoda
+MagiTea
+MagiMax
+Elixir
+Liniment
+Antidote
+Warmer
+Lozenge
+Deaddler
+Accelerator
+Panacea
 Boost Drink
 Divine Blessing
-Holy Water
+Cleanser
 Attack+
 Guard+
 Magic+
@@ -171,16 +171,16 @@ Drive X
 Drive Soda
 Revive Bottle
 Revive All
-Fire Pellet
-Crash Bomb
+Squib
+Bomb
 Flare Bomb
-炸裂爆弾改
-ビリリ石
-ブクブク石
-カチコチ石
-ダンマリ石
-ピヨリ石
-ノロノロ石
+Dynamite
+ParalyStone
+PoizStone
+FreezeStone
+SilenStone
+ConfuStone
+SlowStone
 －
 －
 －
@@ -188,11 +188,11 @@ Flare Bomb
 －
 －
 ■
-Training Hall(Outside)
+Training Hall(Outter)
 Lest Church
 Valetta Waterfall
 Sandal Forest
-Royal Courtyard
+Royal Garden
 Audience Hall
 Mt. Mavel
 Star Memory S1
@@ -209,42 +209,42 @@ Angel's Cage
 Infereim
 Feyheim
 Fairy Castle
-合成ラピス研究所
+Lapis Research Lab
 Castle City Linden
 Royal Valley
 Flame Cavern
 Altar of Time
-River
+River of Rebirth
 Nox Fortress
 Tenebrum
 Nox Castle
-ジラード火焔帯
+Sillad Flame Belt
 God's Seat
-Istan Dessert
+Ishtan Dessert
 Remono Beach
 Xarena Ruins
 Nagal Ridge
-Training Hall（Inside）
-Star Memory「S2」
-Star Memory「S3」
+Training Hall（Inner）
+Star Memory S2
+Star Memory S3
 Chapel
-Battle Map－－４１
-Battle Map－－４２
-Battle Map－－４３
-Battle Map－－４４
-Battle Map－－４５
-Battle Map－－４６
-Battle Map－－４７
-Battle Map－－４８
-Battle Map－－４９
-Battle Map－－５０
+Battle Map－－41
+Battle Map－－42
+Battle Map－－42
+Battle Map－－44
+Battle Map－－45
+Battle Map－－46
+Battle Map－－47
+Battle Map－－48
+Battle Map－－49
+Battle Map－－50
 ■
 School BF1
 Oracle's Parlor
 騎士倶楽部
 大浴場
 転移の間
-School F1
+School 1F
 Lest Church
 錬金工房
 Infirmary
@@ -258,16 +258,16 @@ Courtyard
 Courtyard
 School 2F
 Classroom
-特務科教室
-教官室
-鍛錬場
+S.C. Classroom
+Faculty Office
+Training Hall
 Library
 Dormitory 1F
-迷いコピンの部屋
-キリカの部屋
-ボナパルトの部屋
+Kopin's Room
+Kilika's Room
+Bonaparte's Room
 Dino's Room
-ユウの部屋
+Yuu's Room
 Heine's Room
 Glen's Room
 Rephy's Room
@@ -354,15 +354,15 @@ Unique
 ■
 ■
 ■
-グレンのマント布
+Glen's Mantle
 Aulmorde's Horn
 Arnogia's Scale
-Reinhart's Heml Piece
+Reinhart's Heml
 Smirzof's Pelt
 Valerie's Hair
 Georg's Petal
 Angel's Gem
-神核
+God's Seed
 Goblin Fang
 Lizard Scale
 Minotaur Horn
@@ -373,7 +373,7 @@ Altross Fur
 Hippogriff Feather
 Behemoth Gem
 ヒデリガニ鱗
-ボム残り火
+Lingering Fire
 Imp Fang
 Phantom Bone
 Golem Fragment
@@ -381,16 +381,16 @@ Fire Fiend Claw
 Flora's Hair
 Gremlin Gem
 ブッカブー角
-Golden Knight's Helm
+Gold Knight Helm
 Lamia's Pelt
-Soldier Armor Piece
-Heavy Knight's Shield
+Soldier Armor
+Heavy Knight Shield
 Archer's Hat
 Mage Staff
 Priest's Jewel
 Bandit Axe Hilt
 Monk's Bracelet
-シュバリエ Shoes
+Shivalee's Shoes
 ヒコピン Horn
 ヤコピン Sprout
 フコピン Claw
@@ -419,7 +419,7 @@ Orc Horn
 Basilisk Pelt
 Garm' Fur
 Griffon's Feather
-King Behemoth's Gem
+King Behemoth Gem
 ダイオウガニ鱗
 ガスト残り火
 ガーゴイル牙
@@ -431,16 +431,16 @@ Wind Fiend Fang
 Succubus Hair
 Cernunnos's Gem
 Knight Shadow Horn
-Silver Knight's Helm
+Silver Knight Helm
 Scylla Pelt
 Fighter Armor
-Messer Knight's Shield
+Master Knight Shield
 Sniper's Hat
 Wizard's Staff
 Bishop's Jewel
 Thief Axe Hilt
-セスタス腕輪
-Royal Knight's Shoes
+Cestus's Bracelet
+Royal Knight Shoes
 Gold Kopin's Fang
 アース鱗
 フォモール粉末
@@ -448,12 +448,12 @@ High Elf's Horn
 Dark Elf's Hair
 Kelpie's Feather
 Sleipnir's Hoof
-ニンフ珠
+Nyph Gem
 Banshee Ore
 Spriggan Bone
 Chernobog's Thread
-アースガルド皮
-ゲンブ牙
+Asgard's Pelt
+Genbu's Fang
 ■
 ATK+5
 ATK+10
@@ -479,20 +479,20 @@ REG+5
 REG+10
 REG+20
 REG+20%
-Warrior's Will
-Paladin's Will
-Hero's Will
-Berserk's Will
-Witch's Heart
-Oracle's Heart
-Magician's Heart
-Priestess's Heart
-会心の心得
-Inner Eye
-Jump Shoes
-Wing Shoes
-隼之衣
-韋駄天之衣
+Warrior Spirit
+Paladin Spirit
+Hero Spirit
+Berserk Spirit
+Witch Heart
+Oracle Heart
+Wizard Heart
+Priestess Heart
+Wolf's Eye
+Tiger's Eye
+Leap Gem
+Jump Gem
+Hawk Garmet
+Skanda Garment
 HP+50
 HP+10%
 HP+20%
@@ -511,44 +511,44 @@ Inferno Crystal
 Snail Crystal
 Coral Crystal
 Perl Crystal
-Tree Crystal
+Leaf Crystal
 Verdant Crystal
 Harvest Crystal
-Whirlwind Crystal
+Gale Crystal
 Storm Crystal
 Tempest Crystal
-Sun Crystal
-Thunder Crystal
-Dawn Crystal
-Night Crystal
+Dazzle Crystal
+Radiant Crystal
+Star Crystal
+Dusk Crystal
 Onyx Crystal
 Hades Crystal
-Flame Amulet
-Crimson Amulet
-Inferno Amulet
-Snail Amulet
-Coral Amulet
-Perl Amulet
-Tree Amulet
-Verdant Amulet
-Harvest Amulet
-Whirlwind Amulet
-Storm Amulet
-Tempest Amulet
-Sun Amulet
-Thunder Amulet
-Dawn Amulet
-Night Amulet
-Onyx Amulet
-Hades Amulet
+Flame Charm
+Crimson Charm
+Inferno Charm
+Snail Charm
+Coral Charm
+Perl Charm
+Leaf Charm
+Verdant Charm
+Harvest Charm
+Gale Charm
+Storm Charm
+Tempest Charm
+Dazzle Charm
+Radiant Charm
+Star Charm
+Dusk Charm
+Onyx Charm
+Hades Charm
 DP+5
 DP+10
 EXP+20%
 EXP+40%
 Treasure 25%
 Treasure 50%
-せせらぎの衣
-防御の極意
+Bouyant
+Stone Wall
 Cursed Dagger
 Healing Expert
 Soul of Destruction
@@ -556,37 +556,37 @@ Healing Aura
 Charity Aura
 Vitality Aura
 Magic Aura
-Focus Aura
-Meditation Aura
+Focus
+Meditation
 Paralysis Ward
 Poison Ward
 Confusion Ward
 Freeze Ward
 Silence Ward
-Delay Ward
+Slow Ward
 White Flame Orb
-慈水の宝玉
+Spring Orb
 Green Orchid Orb
 Dancing Wind Orb
 Glitter Orb
 Frost Shadow Orb
 Impact Plus
-Firm Spike
-ドレインピース
-ドレインフォーム
+Unmovable
+Leech
+Vampyr
 MP Drain 10%
 MP Drain 20%
 Auto Medic
-Paralyze Crystal
+Paralysis Crystal
 Poison Crystal
 Chaos Crystal
 Freeze Crystal
 Silence Crystal
-Delay Crystal
+Slow Crystal
 Time Tablet
 Void Tablet
 Lapis 131
-Lapis132
+Lapis 132
 LapiS 133
 Lapis 134
 Lapis 135
@@ -606,7 +606,7 @@ Valkyrie
 Ishtar
 Venus
 Pandora
-道士
+Taoist
 Titania
 Siegfried
 Ragnarok
@@ -770,12 +770,12 @@ Knight Shadow T
 Silver Knight 
 Scylla N
 Fighter
-Messer Knight T
+Master Knight T
 Sniper
 Wizard
 Bishop
 Thief
-セスタス
+Cestus
 Royal Knight
 Ｎラビネス
 Golden Kopin T
@@ -1002,7 +1002,7 @@ Leonard
 Barrel
 Treasure Box
 ■
-Explosive Cut
+Explosive Slash
 Power Charge
 Arc Slash
 Solid Legion
@@ -1015,7 +1015,7 @@ Burning Lord
 Projection
 Speed Up
 Poison Fang
-バッシュストーム
+Bash Storm
 Deadly Stinger
 Guard Boost
 Cross Guard
@@ -1023,13 +1023,13 @@ Power Wave
 Land Stinger
 Herculean Wave
 Protect Down
-Dark Boa
+Dark Ball
 Night Scream
 Night Drain
 Dark Sphere
 Cure
 Aqua Hammer
-Ra Cure
+Curall
 Revive
 リキッドスコール
 Twin Needles
@@ -1048,28 +1048,28 @@ Treat Cure
 Pierce Shoot
 Aero Twister
 Wood Whip
-Ra Cure
+Curer
 怠惰参投下
 リジェネイタン
 剣帝樹の審判
 どん打とっ！
-集中っす～
+Focus～
 如意っと棒っす～
 Web Staff
 Revival
 フィジカルモア
 Fire Bullet
 Drain Touch
-灼熱の吐息
+灼熱の吐息cxsx
 Ignis Blaze
 Rending Shock
 Attack Shift
 一輝当閃
 Shining Bullet
 Ambivalent Flash
-True Explosive Cut
+True Explosive Slash
 Arm Shift
-True Arc Flash
+True Arc Slash
 Lost Lightning
 心・天翔連刃撃
 頑張るみょ！
@@ -1160,7 +1160,7 @@ Full Swing
 Full Swing
 Full Swing
 Poison Breath
-ラインブレイク
+Lineal Break
 Aqua Slider
 ブラックダイア
 Silent Arrow
@@ -1232,7 +1232,7 @@ Fang
 Horn
 Claw
 Scale
-Thread
+Timber
 Crystal
 Bone
 Pelt
@@ -1241,44 +1241,44 @@ Powder
 Ore
 Fur
 Tail
-今日はなにかな？
+What will be today?
 Welcome～
-あたしに用だったりして～
-会いたかったよ。
+Yes?～
+Good to see you.
 Rephy!
-いつもにこにこ現金払い～
+Thanks for preferring Us～
 There are new weapons $n in Hiyo's shop～
-ヒヨちゃん絶好調みたい～$n武器が増えたよ～
+Hiyo is on fire～$n A new weapon is available～
 Come again～！
-頑張ってね。
-なかなか良かったよ☆またね。
-もういっちゃうの～
+Hang in there.
+That came out pretty good☆.
+One more time～
 Choose the category you want to see.
 Those are the required materials.
-素材が溜まっているみたいだね。$n早く素材が欲しいな♪
+Your materials are pilling up.$n I'll give you a good price for them♪
 Buy at Hiyo's shop.
-情報が溜まってるみたいね。$n早く情報を教えてよ♪
-その素材を持っているのはコイツらだよ。
-%sの練成情報が$nあと、戦闘%s回分欲しいな～♪
+Looks you have some data.$n Give it to me♪
+This one has that material.
+%s's data.$n %s more battles until analysis♪
 Synthesis list updated.
-熟練練成リストが更新されました。
-この武器を練成する為に、素材を渡しますか？
-熟練練成の情報を報告しますか？
+Proficiency list updated.
+I'll be taking these materials, OK?
+Report proficiency data?
 Are you selling this?
-素材を売りました。
+Materials sold.
 Sell all materials?
 Sell all materials in this category?
 A new weapon can be bought.
 Synthesis
 Required
 Proficiency
-素材を出すキャラクター
+Drop's from
 Material Exchange
 ???
 Battle Count
 I can create new weapons、$n if you have the right materials～
 By using certain weapons in combat, $n a stronger weapon can be created ～
-いらない素材は買い取っちゃうよ♪
+I'll buy anything you don't need♪
 %s acquired
 %s Leveled UP!
 Physical Attack Power
@@ -1298,17 +1298,17 @@ Use Skill
 Use Item
 Use Flash Drive
 Use Unison
-Confirm movement
+End Turn
 Stats Up Select
 ■
 ■
-通信待ち
+Signal
 Check elemental chart
 Confirm Battle Conditions
 Change Settings
 Quick Save
 ■
-神の瞳が目を開く
+Open God's Eye
 Check the map and place characters
 Battle Conditions have changed!
 Not enough money!
@@ -1320,48 +1320,48 @@ ADD status removed
 Stats change dispelled
 ■
 Dummy
-体の治癒力を高める飲み物です。$n飲むとＨＰを回復します。
-体の治癒力を高める飲み物です。$nＨＰを大幅に回復します。
-体の治癒力を高める飲み物です。$nＨＰをかなり回復します。
-体の治癒力を高める飲み物です。$nＨＰが全回復します。
-集中力を回復させる飲み物です。$n飲むとＭＰを回復します。
-集中力を回復させる飲み物です。$nＭＰを大幅に回復します。
-集中力を回復させる飲み物です。$nＭＰをかなり回復します。
-集中力を回復させる飲み物です。$nＭＰが全回復します。
-生命と集中を極限まで高める飲み物です。$nＨＰとＭＰを全快します。
-解麻痺効果のある薬草です。$n麻痺状態を回復します。
-解毒効果のある薬草です。$n毒状態を回復します。
-体がポカポカ温まる薬草です。$n氷結状態を回復します。
-喉によく効く薬草です。$n沈黙状態を回復します。
-心を落ち着かせる匂いのする薬草です。$n混乱状態を回復します。
-重い体がスッキリする薬草です。$n減速状態を回復します。
-どんな病にも効くと言われる薬草です。$nすべての状態異常を回復します。
-体に塗るとぬるぬる素早く動ける液体です。$n加速状態にします。
-天の加護を受けたお守りです。$n毎ターン少量のＨＰが回復します。
-何でも浄化してしまうと言われる水です。$n低下中の全ステータスを元に戻します。
-一時的に筋力が付くクスリです。$n攻撃力が上昇します。
-一時的に硬くなるクスリです。$n防御力が上昇します。
-一時的に魔力が強くなるクスリです。$n魔法攻撃力が上昇します。
-一時的に抵抗力が上がるクスリです。$n魔法防御力が上昇します。
-一時的に手先が器用になるクスリです。$n器用さが上昇します。
-一時的に身軽になるクスリです。$n素早さが上昇します。
-攻撃面に定評のある剣士を参考にしました。$n攻撃力と魔法攻撃力が少しずつ上昇します。
-防御面に定評のある剣士を参考にしました。$n防御力と魔法防御力が少しずつ上昇します。
-曲芸に定評のある人を参考にしました。$n器用さと素早さが少しずつ上昇します。
-飲むと気合が入る飲み物です。$n使うとＤＰが少量溜まります。
-飲むと気合が入る飲み物です。$n使うとＤＰがある程度溜まります。
-生命力をふるい立たせる飲み物です。$n行動不能を回復します。
-生命力がみなぎってくる飲み物です。$n行動不能を完全回復します。
-花火の素材として使われる火薬の塊です。$n相手に少量のダメージを与えます。
-爆弾の素材として使われる火薬の塊です。$n相手に中程度のダメージを与えます。
-爆発し高熱を発する爆弾です。$n相手に大きなダメージを与えます。
-当たると弾けて爆発する爆弾です。$n相手にかなり大きなダメージを与えます。
-常に電撃を帯びた石です。$n当たった相手を麻痺させます。
-強力な毒がこびりついた石です。$n当たった相手を毒にします。
-とても冷たい石です。$n当たった相手を氷結させます。
-相手の集中力を乱す音が出る石です。$n当たった相手を沈黙させます。
-めまいがするほど臭い石です。$n当たった相手を混乱させます。
-ものすごく重い石です。$n当たった相手を減速させます。
+Drink it to recover a small $n amount of HP.
+Drink it to recover a moderate $n amount of HP
+Drink it to recover a large $n amount of HP
+Drink it to recover all HP
+Drink it to recover a small $n amount of MP.
+Drink it to recover a moderate $n amount of MP
+Drink it to recover a large $n amount of MP
+Drink it to recover all MP
+Recover all HP/MP.
+Removes Paralysis.
+Removes Poison.
+Removes Freezing.
+Removes Silence.
+Removes Confusion.
+Removes Slow.
+Removes all ailments.
+Grants Accelerated status.
+Recover HP every turn.
+Dispels all Status reductions.
+Raise Attack temporally.
+Raise Defense temporally.
+Raise Magic temporally.
+Raise Resist temporally.
+Raise Technique temporally.
+Raise Speed temporally.
+Raise Attack and Magic slightly.
+Raise Defense and Resist slightly.
+Raise Technique and Speed slightly.
+Receive a little DP.
+Receive some DP.
+Revives an ally with a little HP.
+Revives an ally with all HP.
+Deals slight damage to the target.
+Deals moderate damage to the target.
+Deals high damage to the target.
+Deals serious damage to the target.
+Paralyzes the target.
+Poisons the target.
+Freezes the target.
+Silences the target.
+Confuses the target.
+Slows down the target.
 －$n－
 －$n－
 －$n－
@@ -1414,9 +1414,9 @@ Hood
 Handmade Hood
 Straw Hat
 Silky Hood
-バトル Hood
+Battle Hood
 Bunny Hood
-三角頭巾
+Triangular Hood
 サテン Hood
 Luminous Hood
 Black Hood
@@ -1429,7 +1429,7 @@ Sage Hood
 Magical Hood
 Angel's Hood
 Runic Hood
-ケイロン Hood
+Chiron Hood
 Ribbon
 Stone Hairpin
 Leather Ribbon
@@ -1449,7 +1449,7 @@ Spirit Tiara
 Golden Hairband
 Merfolk Hairpin
 Runic Ribbon
-ニケのティアラ
+Nike's Taira
 Leather Armor
 Scale Mail
 Ring Mail
@@ -1475,9 +1475,9 @@ Hemp Clothes
 Leather Clothes
 Silk Clothes
 Leather Jacket
-リーガルスーツ
+Regal Suit
 Warrior Vest
-アブナイ Clothes
+アブナイ服
 Priest Clothes
 Bodysuit
 Dashing Suit
@@ -1492,7 +1492,7 @@ Runic Clothes
 Illusion Clothes
 Robe
 Fur Robe
-木綿の衣
+Cotton Robe
 Silk Robe
 Cornelia Robe
 Witch Robe
@@ -1526,7 +1526,7 @@ Brave Coat
 Mental Coat
 Silver Coat
 マギサコート
-モリガンコート
+Morgan Coat
 Spirit Mantle
 Runic Coat
 Eternal Coat
@@ -1556,7 +1556,7 @@ Reserve Spear 2
 Stiletto
 Sonic Dagger
 Snipe Dagger
-マインゴーシュ
+Main Gauche
 Shadow Knife
 Fire Dagger
 Spark Knife
@@ -1570,14 +1570,14 @@ Buckler
 Spike Shield
 Buster Shield
 Tower Shield
-ナイツガード
+Knight Guard
 Golem Shield
 Royal Guard
 Turtle Shield
 Mirror Shield
-ブリトウェン Shield
+Britwen Shield
 Princess Guard
-オハン Shield
+Johan Shield
 Yggdra's Shield
 Old Tablet
 Witch Book
@@ -1607,56 +1607,56 @@ Lorelay Horn
 Seraphic Horn
 Cross Saber
 Wind Saber
-ニードルエッジ
+Needle Edge
 Rose Saber
-ノワールローズ
+Noir Rose
 Minerva Edge
 Spider Cutter
 Flamberge
-オートクレール
+Hauteclaire
 Surt's Sword
 Sixteen Nights
 Durandal
 Freya Saber
 Leather Whip
-スパイクウィップ
-プリンセステイル
+Spike Whip
+Princess Tail
 ハリセンテイル
-トネリコの鞭
-クイーンズテイル
-ダイアモンドの鞭
-アダマステイル
-海女の鞭
-グレイプニル
-雷公鞭
-玉藻の鞭
-鞭予備枠＿３
-ロングボウ
-スワンアロー
-紅炎の弓
-常闇の弓
-フェザーボウ
-烏合の弓
-妖精の弓
-アルテミスの弓
-テレプシコーラ
-アマテラスの弓
-弓予備枠＿１
-弓予備枠＿２
-弓予備枠＿３
+Tonelic Whip
+Queen's Tail
+Diamond Whip
+Adamas Tail
+Undine Whip
+Gleipnir
+Thunder Whip
+Tamamo Whip
+Reserve Whip 3
+Longbow
+Swan Arrow
+Crimson Bow
+Onyx Bow
+Feather Bow
+Winged Bow
+Faeric Bow
+Artemis Bow
+Terpsichora
+Amaterasu Bow
+Reserve Bow 1
+Reserve Bow 2
+Reverve Bow 3
 カブ爆弾
 モーリュボム
 水玉袋ボンバー
-キラキラ星ボム
+Sparkling Bomb
 マンドラボム
 ポックリ爆弾零式
 ポックリ爆弾百式
 鳳仙花爆弾
 魔女の大鍋爆弾
-アップルボム
-セフィロトボム
-ボム予備枠＿２
-ボム予備枠＿３
+Apple Bomb
+Sephiroth Bomb
+Reserve Bomb 2
+Reserve Bomb 3
 流々転々の巻物
 七耀星宿の巻物
 東珍漢の巻物
@@ -1664,90 +1664,90 @@ Leather Whip
 黄帝の巻物
 四霊獣の巻物
 太極の巻物
-巻物予備枠＿１
-巻物予備枠＿２
-巻物予備枠＿３
-巻物予備枠＿４
-巻物予備枠＿５
-巻物予備枠＿６
+R. Scroll 1
+R. Scroll 2
+R. Scroll 3
+R. Scroll 4
+R. Scroll 5
+R. Scroll 6
 胡蝶の竪琴
-エクリプスハープ
-アポロンの竪琴
-ミストラルハープ
-オルフェの竪琴
-フェイルノート
-星々の竪琴
-ハープ予備枠＿１
-ハープ予備枠＿２
-ハープ予備枠＿３
-ハープ予備枠＿４
-ハープ予備枠＿５
-ハープ予備枠＿６
-カ・ジャルグ
-グングニル
+Eclipse Harp
+Apllon's Lyre
+Mistral Harp
+Orpheus's Lyre
+Failnaught
+Star Lyre
+R. Harp 1
+R. Harp 2
+R. Harp 3
+R. Harp 4
+R. Harp 5
+R. Harp 6
+Gae Dearg
+Gungnir
 □
-ブリューナク
+Brionac
 □
-デッドリーサイズ
-鎌予備枠＿２
-フォルテッシモ
-アイアンソード
-ルビースタッフ
-アイアンアックス
-炎杖エクリシス
+Deadly Scythe
+R. Scythe 2
+Fortissimo
+Iron Sword
+Ruby Staff
+Iron Axe
+Flame Rod Eclipse
 冥鞭メノエイデス
-陽鞭ソルヘリオス
+Sol Helios
 水扇マーキュリア
 虹管イーリス
 戦槌エヴァグリス
-ノーマル Blade
-ノーマルスピア
-ノーマルセイバー
-ノーマルボウ
-ノーマルランス
-ノーマルソード
-ノーマルスタッフ
-ノーマルワンド
-ノーマルアクス
+Normal Blade
+Normal Spear
+Normal Saber
+Normal Bow
+Normal Lance
+Normal Sword
+Normal Staff
+Normal Wand
+Normal Axe
 だみだみだみだみ
 
 【ＴＡＢＬＥ４】
-武器なし
-頭防具なし
-胴防具なし
-アイテムなし
-ラピスなし
-行きたい場所を選択して下さい。
-参加する戦闘を選択して下さい。
-戦闘に勝利しました。
-行きたい場所を選択して下さい。
-こちらの戦闘に参加しますか？
-成功報酬を受け取って下さい。
-シルベリム
-異界
-出現キャラクター
+None
+None
+None
+None
+None
+Select the location
+Select the battle
+Victory!
+Select the location
+Are you sure?
+Here is your reward.
+Silverin
+Otherworld
+Enemies
 　
 Regions
-道具
+Objects
 History
-組織
+Organizations
 生命
 Magic
 　
 　
-占いの館へようこそ。$n誰との仲を深めたいの？
-私の手助けは、１人に１度だけよ。$nあとは、自分の力で何とかなさい。
-そんなに仲が良いのなら、$nもう私が手助けする必要はなさそうね。
-この子との仲を深めたいのね。$n相談料がかかるけどいいかしら？
-相談料は頂くわよ
-ラッキープレゼントを$nこの中から１つ選んでちょうだい。
-お金が足りないようね。
-うまくいったようね。
-私が手助けできるのはここまで。$nあとは、自力でがんばりなさい。
-あら残念…$nラッキープレゼントが違ったみたいね。
-またチャレンジするなら、$n声をかけてね。
-……。
-今の私にできることはないわね。
+Welcome, Who would you $n like to become closer with?
+I can only do so such. $n The rest will be up to you.
+If you are so close,$n you don't require my help anymore.
+A little invest is required, $n do you agree?
+I'm taking the fee
+Please choose one of $n the Lucky Presents.
+You don't have enough money.
+Looks it went good.
+This is all i can do.$n Now is up to you.
+What a pity…$n Wrong present this time.
+Come to me when $n you want try again.
+…….
+There is nothing i can do right now…
 　
 Buy
 Sell
@@ -1759,143 +1759,143 @@ Item
 Lapis
 Return
 Buy this?
-購入した装備品を装備しますか？
-装備するキャラクターを選んでください
-装備品の変更を終了しました。
-これを売りますか？
-いらっしゃいませ！
-多くの商品を取り揃えてます！
-どちらを譲っていただけますか？
-他に御用はございませんか？
-ありがとうございました！
-もうこれ以上持てませんよ
-所持金が足りないようですね
-何を売ろうってんだい？
-売っていただける物がないみたいですね
-お前に売るもんはねえ！
+Equip purchased equipment?
+Select character
+Equip change complete.
+Are you sure?
+Welcome!
+Please look at our goods!
+What do you wish to sell?
+Anything else?
+Thank you for you patronage!
+You can't hold more of this
+You don't have enough money
+What will be?
+You have nothing left to sell
+I have nothing to sell to you
 　
 　
 Save the data?
 Load the data?
 Final Chapter
-Chapter %s
+       Chapter %s
 Normal
 Hard
 Continue from this data?
-No data
+Empty
 　
-ＢＧＭの音量を設定します
-ＳＥの音量を設定します
-ＶＯＩＣＥのあり／なしを設定します
-再生方式を設定します
-　
-　
-はじめて遊ぶ方に推奨の戦闘難易度です。
-戦いなれた方はこちらにチャレンジしてみては？
+Change BGM Volume
+Change SE Volume
+Turn Voices ON/OFF
+Change sound mode
 　
 　
-ワイヤレス対戦
-Ｗｉ－Ｆｉ対戦
-ゲームを作る
-ゲームを探す
-フレンド設定
-Ｗｉ－Ｆｉ設定
-友達と対戦
-誰とでも対戦
-フレンドリスト編集
-フレンドコード登録
-フレンドコード確認
-フレンド名
-対戦日
-友達
-削除しますか？
-あなたのフレンドコード
+Recommended for first timers
+A more challenging mode for veterans 
 　
 　
-Ｗｉ－Ｆｉコネクションに接続でき$nません。詳しくはガイドブックをご$n覧ください。
-Ｗｉ－Ｆｉコネクションが混み合っ$nているかサービスが停止しているた$nめに接続できません。しばらく待っ$nてやり直してください。
-お客様の　　　　　　　　　　　　$nＷｉ－ＦｉコネクションＩＤは長い$n間使用されなかったため削除されま$nした。詳しくはガイドブックをご覧$nください。
-このソフトの　　　　　　　　　　$nＷｉ－Ｆｉコネクションサービスは$n終了しました。ご利用ありがとうご$nざいました。
-アクセスポイントが混み合っている$nため接続できません。しばらく待っ$nてやり直してください。
-アクセスポイントが見つかりませ　$nん。アクセスポイントに近づいても$nう一度おためしください。
-接続できるアクセスポイントが見つ$nかりません。　　　　　　　　　　$nＷｉ－Ｆｉコネクション設定で接続$n先の設定をご確認ください。
-ニンテンドーＷｉ－Ｆｉコネクタに$n接続できません。　　　　　　　　$nＷｉ－Ｆｉコネクション設定で　　$nニンテンドーＷｉ－Ｆｉコネクタの$n接続をご確認ください。
-Ｗｉ－Ｆｉコネクションに接続でき$nません。　　　　　　　　　　　　$nＷｉ－Ｆｉコネクション設定で接続$n先の設定をご確認ください。
-相手からの応答がありません。既に$n相手がＷｉ－Ｆｉコネクションに接$n続していないか、相手の　　　　　$nフレンドリストから登録がなくなっ$nた可能性があります。
-通信エラーが発生しました。
-エラーが発生したため、　　　　　$nＷｉ－Ｆｉコネクションの機能を使$n用できません。電源を切ってやり直$nしてください。
+Wireless Mode
+Nintendo Wi-Fi Connection
+Create a game
+Look for a game
+Friend Settings
+Wi-Fi Setting
+Friend
+Random
+Edit Friend Roster
+Register Friend Code
+Check Friend Code
+Name
+Last Battle
+Friend
+Delete?
+Your Friend Code
+　
+　
+Wi-Fi connection failed. $n Please consult the $n Guide Book。
+Wi-Fi connection is weak or $n the service is stopped.$n Please try again $n later.
+Your Wi-Fi Connection ID is $n too long and can't be used. $n Please consult the $n Guide Book.$n 
+This software's Wi-Fi Connection $n Service has ended.$n Thank you for $n using us.
+Access point is unstable and $n couldn't connect $n Please try again later
+Couldn't find access point$nPlease get closer and try $n again.
+Couldn't find available access point. $nPlease check the $n Wi-Fi Connection settings$n 
+Couldn't Connect to Nintendo $n Network.Please check the $n Nintendo Connect Wi-Fi $n settings in Wi-Fi Settings $n 
+Couldn't establish Wi-Fi connection.$nPlease check the Wi-Fi $n Connection settings.
+There is no response. $nTarget may not be connected $nor your are not$nregistered in it's Friend List.
+Connection Error.
+Wi-Fi function stopped due error.$nRestart the console $nand try again
 本体のＷｉ－Ｆｉユーザー情報が消$nえた可能性があります。　　　　　$nＷｉ－Ｆｉコネクション設定で接続$n先の設定をご確認ください。
-Ｗｉ－Ｆｉコネクションに接続しま$nすか？
+Connect to Wi-Fi?
 Ｗｉ－Ｆｉコネクションでは、　　$nＤＳカードと本体をセットで扱いま$nす。ＤＳカードに本体の　　　　　$nＷｉ－Ｆｉユーザー情報を保存し　$nて、Ｗｉ－Ｆｉコネクションに接続$nしますか？
 この本体のＷｉ－Ｆｉユーザー情報$nをＤＳカードに保存しました。今後$nのＷｉ－Ｆｉコネクションへの接続$nは、この本体をお使いください。
 本体とＤＳカードの　　　　　　　$nＷｉ－Ｆｉユーザー情報がちがうた$nめＷｉ－Ｆｉコネクションに接続で$nきません。
-ＤＳカードに保存されている　　　$nＷｉ－Ｆｉユーザー情報を更新しま$nすか？Ｗｉ－Ｆｉユーザー情報を更$n新するとＷｉ－Ｆｉコネクションで$nこれまでお使いになっていたデータ$nは失われてしまいます。
-Ｗｉ－Ｆｉコネクションに接続し　$nて、Ｗｉ－Ｆｉユーザー情報を更新$nします。本当に更新してもよろしい$nですか？
-Ｗｉ－Ｆｉコネクションに接続して$nいます。しばらくお待ちください。
-お使いのニックネームでは　　　　$nＷｉ－Ｆｉコネクションを利用でき$nません。ニックネームを変更して接$n続しなおしてください。
-Ｗｉ－Ｆｉコネクションから切断し$nてもよろしいですか？
-Ｗｉ－Ｆｉコネクションから切断し$nています。
-Ｗｉ－Ｆｉコネクションから切断し$nました。
-現在フレンドリストに登録されてい$nる友達とＷｉ－Ｆｉ対戦をするに　$nは、あなたの新しいフレンドコード$nをもう一度友達のフレンドリストに$n登録してもらう必要があります。
-対戦相手を探しています。しばらく$nお待ちください。
-一度もＷｉ－Ｆｉコネクションに接$n続していないため、フレンドコード$nを表示できません。
-この友達をフレンドリストから削除$nしますか？
-フレンドコードがまちがっていま　$nす。
-フレンドリストに空きがありませ　$nん。「フレンドリスト編集」で　　$nフレンドリストに空きを作ってくだ$nさい。
-その友達は既にフレンドリストに登$n録されています。
-フレンドリストに登録しました。
-対戦相手の出撃編成を待っていま　$nす。しばらくお待ちください。
-ゲームデータをセーブしますか？
-今回のＷｉ－Ｆｉ対戦で獲得した　$nアイテムが失われますがよろしいで$nすか？
-データを読めませんでした。電源を$n切って、カードを差し込み直してく$nださい。
-データを書けませんでした。電源を$n切って、カードを差し込み直してく$nださい。
-ＤＳカードに保存されている　　　$nＷｉ－Ｆｉユーザー情報が破損して$nいます。
-フレンドリストが破損しているた　$nめ、フレンドリストが失われまし　$nた。
-ＤＳワイヤレス通信を行うことがで$nきません。
-対戦相手に接続できませんでした。
-対戦相手との接続が切れました。
-対戦相手の接続を待っています。し$nばらくお待ちください。
-対戦相手との同期に失敗しました。$n対戦を継続できません。
-電源を切って、ゲームを終了してく$nださい。
+Update Wi-Fi user information $n in the DS Card? $nAll data from Wi-Fi $nconnection will be lost.
+Connecting to Wi-Fi and　$n updating user information.$n Are you sure? $n 
+Connection to Wi-Fi.$nWait a moment please…
+Your nickname can't be $n used for Wi-Fi connection $n Change it and $n try again.
+Disconnect from $n Wi-Fi?
+Disconnecting… $n 
+Disconnected from Wi-Fi.$n 
+In order to have a Wi-Fi battle with a$n friend, your new friend code must $n be registered in $n your friend's $n Friend List.
+Looking for opponents.$n Wait a moment please…
+There is no friend code because$you have never connected to$nNintendo Wi-Fi Connection.
+Remove from Friend List$n ?
+Invalid Friend Code.
+Friend list full　$n Please make space using　$n Manage Friend List $n 
+That friend is in Friend $n List already.
+Register Complete.
+Waiting for the opponent　$n formation to finish…
+Save game data?
+The obtained items　will be lost.$n Are you sure? $n 
+Couldn't read the data. Turn OFF the console, $n reinsert the Card$n and try again.
+Couldn't write the data. Turn OFF the console $n reinsert the Card$n and try again.
+The Wi-Fi user data being　$n written in the DS card$n is corrupted.
+Friend List was corrupted　$n and lost　$n 
+DS Wireless $n connection failed.
+Could not connect to you opponent.
+Connection with opponent lost.
+Wait for opponent to connect$n wait moment please.
+Sync with opponent failed$n the battle will stop.
+End the game by turning OFF $n the power please.
 　
 　
-再戦しますか？
+Fight Again?
 　
 　
-？？？
-%sとの、$nエンディングを見ますか？
-セーブせずに終了しますが、$n本当によろしいですか？
+???
+Watch %s's Ending?$n 
+Do you want to exit$n without saving?
 　
 　
-ようこそなのです
-武器…好きですか？
-何が欲しいのですか
-な、なにか…
-…レフィさん…
-御用件は何ですか
-大丈夫。だってヒヨが創ったのです
-また来てくださいなのです
-大切にしてください
-これはいい錬る錬るです
-かたじけないのです
-どの武器を錬る錬るするのです？
-はうっ…錬る錬るできるものが$nないのですよ～
-はうっ…お金が足りないのです$nお金は大事なのです
-他に御用はないのです？
-何を売っていただけるのです？
-はうっ…売っていただける物が、$nないみたいなのです～
-はうっ…もうこれ以上持てないのです～
+Welcome
+Do you… like weapons?
+What would you like?
+Wh,what do you…
+…Rephy…
+What is it?
+Hiyo made it, so it's fine 
+Please come again
+Please, take care of it
+Good Forge, Good Forge
+Thank you very much
+Which do you want?
+Umn…, there is nothing$n left to forge
+Oh, you don't have enough money.$n Come back later.
+Anything else?
+What will you sell?
+You have nothing left $n to sell.
+You can't hold more of this
 　
-じゃあ、さっそく何をプレゼントしたら$n良いか、占ってみるわね
-占いの結果…３つまで絞られたわ
-これが私ができる精一杯。$nここから先は、あなたの運次第
+Then, let's find a good $n present
+The result shows… 3 possible presents…
+From now on is $n up to you luck
 　
 　
-ギャラリーが開放されました
-シーン再生が開放されました
-サウンドテストが開放されました
-エンディング再生が開放されました
-コピン劇場が開放されました
-プロフィールが開放されました
-プロフィールに風呂着が追加されました
-全員クリアのご褒美絵が追加されました
+Gallery unlocked
+Scene Theater unlocked
+Sound Test unlocked
+Ending Theater unlocked
+Kopin Theater unlocked
+Profile unlocked
+New Profile entry added
+All clear reward added to Gallery
