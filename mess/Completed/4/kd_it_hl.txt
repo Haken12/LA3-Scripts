@@ -1,0 +1,49 @@
+048 message 044
+Restore 100 HP
+Restore 200 HP
+Restore 400 HP
+Restore All HP
+Restore 50 MP
+Restore 100 MP
+Restore 150 MP
+Restore All MP
+Restore All HP/MP
+Cures Paralysis
+Cures Poison
+Cures Frozen
+Cures Silence
+Cures Confusion
+Cures Slow
+Cures All Ailments
+Grants Accel
+Grants Regen
+Removes Stat Reductions
+Increase ATK
+Increase DEF
+Increase MAG
+Increase REG
+Increase TEC
+Increase SPD
+Increase ATK and MAG
+Increase DEF and REG
+Increase TEC and SPD
+Charge a little DP
+Charge some DP
+Revives ally with little HP
+Revives ally with all HP
+Deals 50 damage
+Deals 100 damage
+Deals 250 damage
+Deals 400 damage
+Inflicts Paralysis
+Inflicts Poison
+Inflicts Frozen
+Inflicts Silence
+Inflicts Confusion
+Inflicts Slow
+Å|
+Å|
+Å|
+Å|
+Å|
+Å|

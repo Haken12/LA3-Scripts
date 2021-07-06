@@ -37,18 +37,18 @@ Feather Staff
 Ice Whip
 Cane
 Fan
-ラッパ
+Trumpet
 Hammer
 ■
 Edge Strike
 Crimson Bite
-神速疾葬剣
+Divine Blade
 Seal Flash
 Evil Hand
 Siren Song
-紅花瞬乱斬
-Queen's Judgement
-Amor Storm
+Crimson Flash
+Queen's Judgment
+Amour Storm
 メイト＝アソート
 災厄招来・天降撃
 Flare Carnival
@@ -75,14 +75,14 @@ Silver Blaze
 ■
 Grand Break
 Efreet's Roar
-多方裂剣
+Mirage Strike
 Land Napalm
-スカルグレイス
+Skull Grace
 Aqua Melody
-Tempest Dance
+Tornado Dance
 Bright Whip
-フローシュート
-メイト＝フレア
+Flowing Shoot
+Pyro Lantern
 災厄招来・夢幻灯
 Fire March
 Sphere Cross
@@ -108,12 +108,12 @@ Materia Bomber
 ■
 Rising Smash
 Ignis Wing
-風陰襲撃剣
+Tempest Raid
 Wood Hurricane
 Giant Stamp
 Bubble Cantare
-Dual Rose
-プリンセスノック
+Tempest Waltz
+Princess Knock
 Rain Breeze
 メイト＝アイス
 災厄招来・漂流魂
@@ -206,23 +206,23 @@ Courtyard
 Courtyard
 Angel's Cloister
 Angel's Cage
-Infereim
-Feyheim
-Fairy Castle
-Lapis Research Lab
+幽界
+妖精界
+妖精城
+合成ラピス研究所
 Castle City Linden
 Royal Valley
 Flame Cavern
 Altar of Time
 River of Rebirth
-Nox Fortress
-Tenebrum
-Nox Castle
-Sillad Flame Belt
+夜魔砦
+夜魔界
+夜魔城
+Gillard Flame Belt
 God's Seat
-Ishtan Dessert
+Isthan Dessert
 Remono Beach
-Xarena Ruins
+Xalena Ruins
 Nagal Ridge
 Training Hall（Inner）
 Star Memory S2
@@ -241,12 +241,12 @@ Battle Map－－50
 ■
 School BF1
 Oracle's Parlor
-騎士倶楽部
-大浴場
-転移の間
-School 1F
+Knight's Lounge
+Bath
+Teleport Chamber
+Main Hall 1F
 Lest Church
-錬金工房
+Workshop
 Infirmary
 Shop
 Cafeteria
@@ -256,7 +256,7 @@ Courtyard
 Courtyard
 Courtyard
 Courtyard
-School 2F
+Main Hall 2F
 Classroom
 S.C. Classroom
 Faculty Office
@@ -264,7 +264,7 @@ Training Hall
 Library
 Dormitory 1F
 Kopin's Room
-Kilika's Room
+Kirika's Room
 Bonaparte's Room
 Dino's Room
 Yuu's Room
@@ -357,54 +357,54 @@ Unique
 Glen's Mantle
 Aulmorde's Horn
 Arnogia's Scale
-Reinhart's Heml
-Smirzof's Pelt
+Reinhart's Helm
+Smirnov's Skin
 Valerie's Hair
-Georg's Petal
-Angel's Gem
+Yorg's Petal
+Angel Orb
 God's Seed
 Goblin Fang
 Lizard Scale
 Minotaur Horn
-Minopy Herb
-Floger Ore
-Cockatrice Pelt
-Altross Fur
-Hippogriff Feather
-Behemoth Gem
-ヒデリガニ鱗
-Lingering Fire
+Minopy Leaf
+Froger Crystal
+Cockatrice Skin
+Orthros Fur
+Hippogryph Feather
+Behemoth Ore
+Sunny Crab Shell
+Bomb Embers
 Imp Fang
 Phantom Bone
 Golem Fragment
 Fire Fiend Claw
 Flora's Hair
 Gremlin Gem
-ブッカブー角
+Buccaboo Horn
 Gold Knight Helm
-Lamia's Pelt
+Lamia Skin
 Soldier Armor
 Heavy Knight Shield
-Archer's Hat
+Archer Hat
 Mage Staff
-Priest's Jewel
+Priest Orb
 Bandit Axe Hilt
 Monk's Bracelet
-Shivalee's Shoes
-ヒコピン Horn
-ヤコピン Sprout
-フコピン Claw
-ミコピン Ore
-ニコピン Tail
-キコピン Bark
-Rouge Kopin's Fang
+Siville's Shoes
+L Kopin Horn
+D Kopin Sprout
+A Kopin Claw
+W Kopin Crystal
+F Kopin Tail
+N Kopin Bark
+R Kopin Teeth
 Bonaparte's Tail
-Gigas's Scale
-Elf's Horn
+Gigas Scale
+Elf Horn
 Unicorn Wing
-Mermaid Gem
+Mermaid Orb
 Pixie Bone
-アーケロン皮
+Archeron Skin
 Fire Fragment
 Dark Fragment
 Light Fragment
@@ -412,48 +412,48 @@ Aqua Fragment
 Wind Fragment
 Wood Fragment
 Bogart Fang
-リザードロード鱗
+Lizard Lord Scale
 Orc Horn
 デスミノッピー葉
 インスマス鉱石
-Basilisk Pelt
-Garm' Fur
-Griffon's Feather
-King Behemoth Gem
-ダイオウガニ鱗
-ガスト残り火
-ガーゴイル牙
-レイス骨
-Dullahan's Fragment
+Basilisk Skin
+Garm Fur
+Griffon Feather
+K. Behemoth Orb
+Great Crab Scale
+Ghast Ember
+Gargoyle Fang
+Wraith Bone
+Dullahan Fragment
 Water Fiend Fang
 Wood Fiend Fang
 Wind Fiend Fang
 Succubus Hair
-Cernunnos's Gem
-Knight Shadow Horn
-Silver Knight Helm
-Scylla Pelt
+Cernunnos Crystal
+K. Shadow Horn
+S. Knight Helm
+Scylla Skin
 Fighter Armor
-Master Knight Shield
-Sniper's Hat
-Wizard's Staff
-Bishop's Jewel
+M. Knight Shield
+Sniper Hat
+Wizard Staff
+Bishop Crystal
 Thief Axe Hilt
-Cestus's Bracelet
+Cestus Bracelet
 Royal Knight Shoes
-Gold Kopin's Fang
+G. Kopin Fang
 アース鱗
 フォモール粉末
-High Elf's Horn
-Dark Elf's Hair
-Kelpie's Feather
-Sleipnir's Hoof
-Nyph Gem
-Banshee Ore
+High Elf Horn
+Dark Elf Hair
+Kelpie Feather
+Sleipnir Hoof
+Nyph Orb
+Banshee Crystal
 Spriggan Bone
-Chernobog's Thread
-Asgard's Pelt
-Genbu's Fang
+Chernobog Thread
+Asgard Pelt
+Genbu Fang
 ■
 ATK+5
 ATK+10
@@ -491,7 +491,7 @@ Wolf's Eye
 Tiger's Eye
 Leap Gem
 Jump Gem
-Hawk Garmet
+Hawk Garment
 Skanda Garment
 HP+50
 HP+10%
@@ -547,10 +547,10 @@ EXP+20%
 EXP+40%
 Treasure 25%
 Treasure 50%
-Bouyant
+Buoyant
 Stone Wall
 Cursed Dagger
-Healing Expert
+Healer
 Soul of Destruction
 Healing Aura
 Charity Aura
@@ -565,11 +565,11 @@ Freeze Ward
 Silence Ward
 Slow Ward
 White Flame Orb
-Spring Orb
+Tide Orb
 Green Orchid Orb
 Dancing Wind Orb
-Glitter Orb
-Frost Shadow Orb
+Flash Orb
+Shadow Frost Orb
 Impact Plus
 Unmovable
 Leech
@@ -634,12 +634,12 @@ Goblin F
 Lizardman F
 Minotaur F
 Minopy F
-Floger F
+Froger F
 Cockatrice
-Altross
-Hippogriff
+Orthros
+Hippogryph
 Behemoth
-ヒデリガニ
+Sunny Crab
 Bomb F
 Imp N
 Phantom F
@@ -657,14 +657,14 @@ Mage
 Priest
 Bandit
 Monk
-Shivalee
-ヒコピン
-ヤコピン
-フコピン
-ミコピン
-ニコピン
-キコピン
-はぐれコピン
+Siville
+Light Kopin
+Dark Kopin
+Air Kopin
+Water Kopin
+Fire Kopin
+Golden Kopin
+Wild Kopin
 Rhabylia F
 Gigas F
 Elf F
@@ -748,18 +748,18 @@ Witch
 ■
 ■
 Bogart N
-Ｎリザードロード
-Ork N
+Lizard Lord N
+Orc N
 Ｎデスミノッピー
 Ｎインスマス
 Basilisk N
 Garm N
-Griffon N
+Gryphon N
 King Behemoth
-Ｎダイオウガニ
-Ｎガスト
+Great Crab N
+Ghast N
 Gargoyle N
-Ｆレイス
+Wraith F
 Dullahan N
 Water Fiend F
 Earth Fiend F
@@ -785,7 +785,7 @@ High Elf F
 Dark Elf N
 Kelpie F
 Sleipnir N
-Nyph F
+Nymph F
 Banshee N
 Spriggan F
 Chernobog N
@@ -803,7 +803,7 @@ Rephy
 Glen
 Dino
 Heine
-ユウ
+Yuu
 Elle
 Ashley
 Inaluna
@@ -820,15 +820,15 @@ Rephy
 ■
 ■
 Reinhart
-Smirzof
+Smirnov
 Valerie
 ■
 ■
-Georg
+Yorg
 Milia
 ■
 ■
-God's Core
+God's Seed
 God
 ■
 ■
@@ -880,7 +880,7 @@ Fatima
 Dia
 Luna Luna
 Sadie
-Potpurri
+Potpourri
 ■
 ■
 ■
@@ -1007,8 +1007,8 @@ Power Charge
 Arc Slash
 Solid Legion
 Heavenly Assault
-フレイムチェスト
-Tunning
+Flame Slash
+Tuning
 Nova Impact
 Flame Pillar
 Burning Lord
@@ -1031,36 +1031,36 @@ Cure
 Aqua Hammer
 Curall
 Revive
-リキッドスコール
+Liquid Squall
 Twin Needles
 Treat
 Cross Petals
 Night Scream
-咲夜連舞
-Dawn's Blessing
+Rose Waltz
+Radiant Blessing
 Bright Arrow
 Light Speed
 Mirror Barrier
 Photon Axis
 Restore
 Wind Slicer
-Treat Cure
+Mending Breeze
 Pierce Shoot
 Aero Twister
 Wood Whip
 Curer
-怠惰参投下
-リジェネイタン
+Lazy Bomber
+Regenerate
 剣帝樹の審判
 どん打とっ！
 Focus～
 如意っと棒っす～
 Web Staff
 Revival
-フィジカルモア
+Physical Boost
 Fire Bullet
 Drain Touch
-灼熱の吐息cxsx
+Scorching Breath
 Ignis Blaze
 Rending Shock
 Attack Shift
@@ -1084,31 +1084,31 @@ Heat Storm
 Attack Down
 きゅあ～
 うぇーぶすふぃあ
-戦士の高揚
+Warrior's Rally
 Splash
 Paralyze
 Technique Down
-らんどすてぃんぐ
+Land String
 Jungle Combo
 Technique Up
-ばっしゅすとーむ
+Bash Storm
 Gale Slash
 Magic Bullet
-しゃいんばれっと
+Shine Bullet
 Photon Blast
 Magic Down
 Gravity Eyes
-ぐらびてぃあいす
+Gravity Eyes
 Panic
 Paralyze
 Freezing Kiss
 Freeze Dust
-ラインパニック
+Linear Panic
 Crisis Eyes
 Attack Barrier
 Magic Barrier
-Ral Cure
-ろすらいとにんぐ
+Curall
+Lost Lightning
 グリーバスクライ
 Infinity
 －
@@ -1129,8 +1129,8 @@ Power Attack
 Power Attack
 Cross Attack
 Gale Slash
-Thruster
-叩き割り
+Thrust
+Smash
 デコピン
 Spiral Thrust
 Full Attack
@@ -1143,11 +1143,11 @@ Poison Breath
 Void String
 耳乱舞
 Heavy Attack
-一閃
-一本刺し
+Blitz
+Impale
 ウォータブレス
 Tank Rush
-コアクラッシュ
+Quake Rush
 Solid Slash
 Golden Punch
 Poison Horn
@@ -1167,7 +1167,7 @@ Silent Arrow
 Hard Arrow
 ターンアロー
 Hit Arrow
-ブラッドドレイン
+Blood Drain
 Poison Shoot
 Silent Arrow
 Sacrifice
@@ -1215,11 +1215,11 @@ Dark Breath
 
 【ＴＡＢＬＥ２】
 Allies Defeated
-Protagonist Down
-%s Down
- Enemy reach the target
+Protagonist Defeated
+%s Defeated
+ Enemy reaches the target
 Defeat all enemies
-Reach the target
+Reach the Exit
 Reduce enemies to %s or less
 Defeat %s
 Defeat %s or %s
@@ -1228,17 +1228,17 @@ Get close to %s
 Reduce %s HP
 %s defeats %s
 N/A
-Fang
+Teeth
 Horn
-Claw
+Nail
 Scale
 Timber
 Crystal
 Bone
-Pelt
+Skin
 Feather
 Powder
-Ore
+Mineral
 Fur
 Tail
 What will be today?
@@ -1247,20 +1247,20 @@ Yes?～
 Good to see you.
 Rephy!
 Thanks for preferring Us～
-There are new weapons $n in Hiyo's shop～
-Hiyo is on fire～$n A new weapon is available～
+There are new weapons $nin Hiyo's shop～
+Hiyo is on fire～$nA new weapon is available～
 Come again～！
 Hang in there.
 That came out pretty good☆.
 One more time～
 Choose the category you want to see.
 Those are the required materials.
-Your materials are pilling up.$n I'll give you a good price for them♪
+Your materials are pilling up.$nI'll give you a good price for them♪
 Buy at Hiyo's shop.
-Looks you have some data.$n Give it to me♪
+Looks you have some data.$nGive it to me♪
 This one has that material.
 %s's data.$n %s more battles until analysis♪
-Synthesis list updated.
+Recipe list updated.
 Proficiency list updated.
 I'll be taking these materials, OK?
 Report proficiency data?
@@ -1269,15 +1269,15 @@ Materials sold.
 Sell all materials?
 Sell all materials in this category?
 A new weapon can be bought.
-Synthesis
+Forge
 Required
 Proficiency
 Drop's from
 Material Exchange
 ???
 Battle Count
-I can create new weapons、$n if you have the right materials～
-By using certain weapons in combat, $n a stronger weapon can be created ～
+I can create new weapons、$nif you have the right materials～
+By using certain weapons in combat,$na stronger weapon can be created ～
 I'll buy anything you don't need♪
 %s acquired
 %s Leveled UP!
@@ -1292,12 +1292,12 @@ Saving…$n Don't turn off the power
 Save Complete $n Continue playing?
 Retry?
 Enemy reinforcements!
-Move and Navigate the map
-Weapon Attack 
+Move and navigate the map
+Attack with weapon
 Use Skill
 Use Item
 Use Flash Drive
-Use Unison
+Use Unison Strike
 End Turn
 Stats Up Select
 ■
@@ -1320,13 +1320,13 @@ ADD status removed
 Stats change dispelled
 ■
 Dummy
-Drink it to recover a small $n amount of HP.
-Drink it to recover a moderate $n amount of HP
-Drink it to recover a large $n amount of HP
+Drink it to recover a small$namount of HP.
+Drink it to recover a moderate$namount of HP
+Drink it to recover a large$namount of HP
 Drink it to recover all HP
-Drink it to recover a small $n amount of MP.
-Drink it to recover a moderate $n amount of MP
-Drink it to recover a large $n amount of MP
+Drink it to recover a small$namount of MP.
+Drink it to recover a moderate$namount of MP
+Drink it to recover a large$namount of MP
 Drink it to recover all MP
 Recover all HP/MP.
 Removes Paralysis.
@@ -1342,7 +1342,7 @@ Dispels all Status reductions.
 Raise Attack temporally.
 Raise Defense temporally.
 Raise Magic temporally.
-Raise Resist temporally.
+Raise Resistance temporally.
 Raise Technique temporally.
 Raise Speed temporally.
 Raise Attack and Magic slightly.
@@ -1380,10 +1380,10 @@ Iron Helm
 Titanium Helm
 Luminous Helm
 Rainbow Bandana
-アーミット Helm
-オーガメット
+Armet
+Barbute
 Silver Helm
-ウォークラウン
+War Crown
 Gold Helm
 Scale Bandana
 Titan Helm
@@ -1399,17 +1399,17 @@ Bunny Hat
 Green Beret
 Silk Hat
 Luminous Cap
-ペイントベレー
+Paint Beret
 Round Hat
 Cat Hat
 Army Cap
 Wind Hat
-ディスト Cap
+Dist Cap
 Rainbow Hat
 Miracle Hat
 Sun Hat
 Runic Cap
-マーリンのぼうし
+Merlin's Hat
 Hood
 Handmade Hood
 Straw Hat
@@ -1417,17 +1417,17 @@ Silky Hood
 Battle Hood
 Bunny Hood
 Triangular Hood
-サテン Hood
+Satin Hood
 Luminous Hood
 Black Hood
 Feather Hood
 Cat Hood
 X Hood
 Sage Hood
-メタルゴア Hood
-マギサ Hood
+Metal Hood
+Magisa Hood
 Magical Hood
-Angel's Hood
+Angelic Hood
 Runic Hood
 Chiron Hood
 Ribbon
@@ -1454,22 +1454,22 @@ Leather Armor
 Scale Mail
 Ring Mail
 Breastplate
-チェイン Mail
+Chainmail
 Heavy Plate
-Sprint Mail
+Spring Mail
 Praetor Armor
 Luminous Mail
 Full Plate
-ピュール Armor
+Pure Armor
 Coral Plate
-聖林の鎧
-ワイズマン Mail
+Holy Armor
+Wiseman Mail
 Phoenix Armor
 Raven Breastplate
 Reflector
 シンフォスター
 Runic Plate
-アウラディバイン
+Divine Aura
 Clothes
 Hemp Clothes
 Leather Clothes
@@ -1481,11 +1481,11 @@ Warrior Vest
 Priest Clothes
 Bodysuit
 Dashing Suit
-ウインジャケット
+Wing Jacket
 Mist Clothes
 Ancient Clothes
 Judge Clothes
-ハイロードスーツ
+Hyrod Suit
 Prophet Clothes
 Mirage Vest
 Runic Clothes
@@ -1497,7 +1497,7 @@ Silk Robe
 Cornelia Robe
 Witch Robe
 Magic Robe
-サテン Robe
+Satin Robe
 Luminous Robe
 Holy Robe
 Zephyr Robe
@@ -1505,7 +1505,7 @@ Shine Robe
 Sage Robe
 Mental Robe
 Silver Robe
-マギサ Robe
+Magisa Robe
 Divine Robe
 Innocent Robe
 Runic Robe
@@ -1517,7 +1517,7 @@ Silky Coat
 Fabric Mantle
 Battle Coat
 Hero Mantle
-サテンコート
+Satin Coat
 Luminous Coat
 Knight's Mantle
 Armor Coat
@@ -1525,7 +1525,7 @@ Byrod Mantle
 Brave Coat
 Mental Coat
 Silver Coat
-マギサコート
+Magisa Coat
 Morgan Coat
 Spirit Mantle
 Runic Coat
@@ -1583,10 +1583,10 @@ Old Tablet
 Witch Book
 Angel Book
 Necro Tablet
-風葬の書
+Erosion Book
 Sage's Tablet
-永劫業火の書
-エイボンの石版
+Hellfire Book
+Avon's Tablet
 Apocalypse
 Akashic Record
 Reserve Tablet
@@ -1596,10 +1596,10 @@ Shell Flute
 Humming Horn
 Prism Flute
 Harmony Horn
-Black Cat Recorder
+Noire Recorder
 Millenary Flute
 Ocean Flute
-妖精のピッコロ
+Faeric Piccolo
 Heaven Flute
 Mirage Horn
 Rainbow Flute
@@ -1621,7 +1621,7 @@ Freya Saber
 Leather Whip
 Spike Whip
 Princess Tail
-ハリセンテイル
+Needle Whip
 Tonelic Whip
 Queen's Tail
 Diamond Whip
@@ -1643,36 +1643,36 @@ Terpsichora
 Amaterasu Bow
 Reserve Bow 1
 Reserve Bow 2
-Reverve Bow 3
-カブ爆弾
-モーリュボム
-水玉袋ボンバー
+Reserve Bow 3
+Turnip Bomb
+Moly Bomb
+Torpedo
 Sparkling Bomb
-マンドラボム
-ポックリ爆弾零式
-ポックリ爆弾百式
-鳳仙花爆弾
-魔女の大鍋爆弾
+Mandra Bomb
+Pokkuri Bomb T-I
+Pokkuri Bomb T-2
+Balsam Bomb
+Witch's Cauldron
 Apple Bomb
 Sephiroth Bomb
 Reserve Bomb 2
 Reserve Bomb 3
-流々転々の巻物
-七耀星宿の巻物
-東珍漢の巻物
-天地人の巻物
-黄帝の巻物
-四霊獣の巻物
-太極の巻物
+Scroll of Life
+Seven Star Scroll
+Mystic Scroll
+Divine Decree
+Imperial Scroll
+Quad Scroll
+Eternity Scroll
 R. Scroll 1
 R. Scroll 2
 R. Scroll 3
 R. Scroll 4
 R. Scroll 5
 R. Scroll 6
-胡蝶の竪琴
+Butterfly Harp
 Eclipse Harp
-Apllon's Lyre
+Apollo's Lyre
 Mistral Harp
 Orpheus's Lyre
 Failnaught
@@ -1694,12 +1694,12 @@ Fortissimo
 Iron Sword
 Ruby Staff
 Iron Axe
-Flame Rod Eclipse
-冥鞭メノエイデス
-Sol Helios
-水扇マーキュリア
-虹管イーリス
-戦槌エヴァグリス
+Eclipse
+Hades
+Helios
+Mercuria
+Iris
+Evergreen
 Normal Blade
 Normal Spear
 Normal Saber
@@ -1709,7 +1709,7 @@ Normal Sword
 Normal Staff
 Normal Wand
 Normal Axe
-だみだみだみだみ
+Dummy
 
 【ＴＡＢＬＥ４】
 None
@@ -1722,8 +1722,8 @@ Select the battle
 Victory!
 Select the location
 Are you sure?
-Here is your reward.
-Silverin
+Mission Reward.
+Silverain
 Otherworld
 Enemies
 　
@@ -1778,7 +1778,7 @@ I have nothing to sell to you
 Save the data?
 Load the data?
 Final Chapter
-       Chapter %s
+           Chapter %s
 Normal
 Hard
 Continue from this data?
@@ -1799,7 +1799,7 @@ Nintendo Wi-Fi Connection
 Create a game
 Look for a game
 Friend Settings
-Wi-Fi Setting
+Wi-Fi Settings
 Friend
 Random
 Edit Friend Roster
@@ -1892,7 +1892,7 @@ From now on is $n up to you luck
 　
 　
 Gallery unlocked
-Scene Theater unlocked
+Scene Replay unlocked
 Sound Test unlocked
 Ending Theater unlocked
 Kopin Theater unlocked

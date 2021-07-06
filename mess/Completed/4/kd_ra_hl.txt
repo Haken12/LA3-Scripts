@@ -1,0 +1,141 @@
+140 message 044
+Raises ATK by 5
+Raises ATK by 10
+Raises ATK by 20
+Raises ATK by 20%
+Raises GRD by 5
+Raises GRD by 10
+Raises GRD by 20
+Raises GRD by 20%
+Raises SPD by 5
+Raises SPD by 10
+Raises SPD by 20
+Raises SPD by 20%
+Raises TEC by 5
+Raises TEC by 10
+Raises TEC by 20
+Raises TEC by 20%
+Raises MAG by 5
+Raises MAG by 10
+Raises MAG by 20
+Raises MAG by 20%
+Raises REG by 5
+Raises REG by 10
+Raises REG by 20
+Raises REG by 20%
+Raises ATK, GRD and TEC by 3
+Raises ATK, GRD and TEC by 5
+Raises ATK, GRD and TEC by 10
+Raises ATK, GRD and TEC by 20
+Raises MAG, GRD and SPD by 3
+Raises MAG, REG and SPD by 5
+Raises MAG, REG and SPD by 10
+Raises MAG, REG and SPD by 20
+Critical Rate +15%
+Critical Rate +30%
+JMP increases by 1
+JMP increases by 2
+AO increases by 1
+AO increases by 2
+Max HP increases by 50
+Max HP increases by 10%
+Max HP increases by 20%
+Max HP increases by 30%
+Max MP increases by 25
+Max MP increases by 10%
+Max MP increases by 20%
+Max MP increases by 30%
+Max HP/MP increases by 5%
+Max HP/MP increases by 10%
+Max HP/MP increases by 15%
+Max HP/MP increases by 20%
+Dealt Fire Damage +10%
+Dealt Fire Damage +20%
+Dealt Fire Damage +30%
+Dealt Water Damage +10%
+Dealt Water Damage +20%
+Dealt Water Damage +30%
+Dealt Earth Damage +10%
+Dealt Earth Damage +20%
+Dealt Earth Damage +30%
+Dealt Wind Damage +10%
+Dealt Wind Damage +20%
+Dealt Wind Damage +30%
+Dealt Light Damage +10%
+Dealt Light Damage +20%
+Dealt Light Damage +30%
+Dealt Dark Damage +10%
+Dealt Dark Damage +20%
+Dealt Dark Damage +30%
+Received Fire Damage -15%
+Received Fire Damage -25%
+Greatly reduces Fire Damage
+Received Water Damage -15%
+Received Water Damage -25%
+Greatly reduces Water Damage
+Received Earth Damage -15%
+Received Earth Damage -25%
+Greatly reduces Earth Damage
+Received Wind Damage -15%
+Received Wind Damage -25%
+Greatly reduces Wind Damage
+Received Light Damage -15%
+Received Light Damage -25%
+Greatly reduces Light Damage
+Received Dark Damage -15%
+Received Dark Damage -25%
+Greatly reduces Dark Damage
+Gain 5DP extra
+Gain 10DP extra
+Acquired EXP+20%
+Acquired EXP+40%
+Acquired Rico +25%
+Acquired Rico +50%
+Allows to walk in the water
+Receive 20% less damage
+Raises all Stats, butÅÖ
+Recover double HP from items
+Rises damage greatly when near death
+Recover 5% HP every turn
+Recover 10% HP every turn
+Recover 20% HP every turn
+Recover 5% MP every turn
+Recover 10% MP every turn
+Recover 15% MP every turn
+Prevents Paralysis
+Prevents Poison
+Prevents Confusion
+Prevents Freezing
+Prevents Silence
+Prevents Slow
+Fire Magic ignores REG
+Water Magic ignores REG
+Earth Magic ignores REG
+Wind Magic ignores REG
+Light Magic ignores REG
+Dark Magic ignores REG
+Pushes enemy back when attacking
+Can't be pushed back
+Recover 10% of dealt damage as HP
+Recover 20% of dealt damage as HP
+Recover 10% of dealt damage as MP
+Recover 20% of dealt damage as MP
+Prevents Status Reductions
+Attacks may inflict Paralysis
+Attacks may inflict Poison
+Attacks may inflict Confusion
+Attacks may inflict Frozen
+Attacks may inflict Silence
+Attacks may inflict Slow
+Block AO damage
+Block terrain damage
+Å°
+Å°
+Å°
+Å°
+Å°
+Å°
+Å°
+Å°
+Å°
+Å°
