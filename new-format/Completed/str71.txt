@@ -1,14 +1,14 @@
 0064 M 00000000
 Oracle
 ----0001----
-Fufu…
+Fufu.#
 You came after all
 
 ~---------------------------------------
-Levi
+Rephy
 ----0002----
-After telling me that of
-course i would be interested
+After telling me that of course i would
+be interested
 
 ~---------------------------------------
 Oracle
@@ -18,8 +18,8 @@ I apologize
 ~---------------------------------------
 Oracle
 ----0004----
-You are different from anyone
-i have seen until now
+You are different from anyone i have 
+seen until now
 
 ~---------------------------------------
 Oracle
@@ -29,105 +29,101 @@ So you picked my interest
 ~---------------------------------------
 Oracle
 ----0006----
-I will ask again. May i 
-read you fortune?
+I will ask again. May i read you future?
+
 ~---------------------------------------
-Levi
+Rephy
 ----0007----
-No, thanks.
-I don't believe in that
+No, thanks. I don't believe in that.
 
 ~---------------------------------------
 Oracle
 ----0008----
-Oh…, what a pity
+Oh.#, what a pity
 
 ~---------------------------------------
 Oracle
 ----0009----
-But i am always here…
-I you change your mind
+But i am always here.#If you change your
+mind
 
 ~---------------------------------------
-Levi
+Rephy
 ----0010----
-Well…, see you
+Well.#, see you.
 
 ~---------------------------------------
-Levi
+Rephy
 ----0011----
-If it could explain
-anything
+If it could explain anything
 
 ~---------------------------------------
 Oracle
 ----0012----
-Fufu…, thank you
+Fufu.#, thank you
 
 ~---------------------------------------
 Oracle
 ----0013----
-Then, without delay…
+Then, without delay.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0014----
-Ey! Won't you use 
-that Crystal Ball?
+Ey! Won't you use  that Crystal Ball?
 
 ~---------------------------------------
 Oracle
 ----0015----
-That is for seeing the future
-or far away places
+That is for seeing into the future or
+far away places
 
 ~---------------------------------------
 Oracle
 ----0016----
-When you are right here,
-it's better to use my eyes
+When you are right here, it's better
+to use my eyes
 
 ~---------------------------------------
 Oracle
 ----0017----
-Or do you use tools to
-see the people around you?
+Or do you use tools to see the people
+around you?
 
 ~---------------------------------------
-Levi
+Rephy
 ----0018----
-No… but…
+No.#but.#
 
 ~---------------------------------------
 Oracle
 ----0019----
-Relax…, look me in
-the eyes
+Relax.#, look me in the eyes
 
 ~---------------------------------------
 Oracle
 ----0020----
-Pupils with such color…
-It's a first
+Pupils with such color.#It's a first
+
 
 ~---------------------------------------
 Oracle
 ----0021----
-Colorless yet so colorful
-at the same time…
+Colorless yet so colorful at the same
+time.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0022----
-……
+.#.#
 
 ~---------------------------------------
 Oracle
 ----0023----
-Beautiful, could stare forever
+Beautiful.# Could stare at them forever
 
 ~---------------------------------------
-Levi
+Rephy
 ----0024----
 （To close!, not yet?）
 
@@ -137,19 +133,19 @@ Oracle
 I am satisfied. Thank you
 
 ~---------------------------------------
-Levi
+Rephy
 ----0026----
-I see
+I see.#
 
 ~---------------------------------------
 Oracle
 ----0027----
-Well, here is what is saw…
+Well, here is what is saw.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0028----
-Aa…
+Aa.#
 
 ~---------------------------------------
 Oracle
@@ -159,58 +155,57 @@ Really beautiful Pupils
 ~---------------------------------------
 Oracle
 ----0030----
-Those Pupils sure
-attract a lot things
+Those Pupils surely will attract a lot
+of things
 
 ~---------------------------------------
-Levi
+Rephy
 ----0031----
 Is that so?
 
 ~---------------------------------------
 Oracle
 ----0032----
-Yes, i guarantee it
+Yes, i'am certain.
 
 ~---------------------------------------
 Oracle
 ----0033----
-Good and bad things
-altogether
+Good and bad things altogether.
+
 
 ~---------------------------------------
-Levi
+Rephy
 ----0034----
-Bad ones too!?
-What's with this fortune…
+Bad ones too!? What's with this fortune.#
 
 ~---------------------------------------
 Oracle
 ----0035----
-What happens depends of you.
-Feel free to consult me anytime.
+What happens depends of you. Feel free
+to consult me anytime.
 
 ~---------------------------------------
 Oracle
 ----0036----
-Such interesting destiny…
-What a troubled child.
+Such interesting destiny.# What a 
+troubled child.
 
 ~---------------------------------------
 Oracle
 ----0037----
-I'll look forward to
-what you'll become e3
+I'll look forward to see what you'll
+become e3
 ~---------------------------------------
-Levi
+Rephy
 ----0038----
-Sorry, but i am just interested
-in destroying the Ferxia
+Sorry, but i am just interested in 
+destroying the Felicia
 
 ~---------------------------------------
-Levi
+Rephy
 ----0039----
-I might not live up to your expectations
+I might not live up to your expectations.
 
 ~---------------------------------------
 Oracle
@@ -220,125 +215,123 @@ Is that so?
 ~---------------------------------------
 Oracle
 ----0041----
-Well, one can never see
-his own destiny…
+Well, one can never see his own destiny.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0042----
 Who needs it anyway?
 
 ~---------------------------------------
-Levi
+Rephy
 ----0043----
-No matter what, my
-will won't change
+No matter what, my will won't change
+
 
 ~---------------------------------------
 Oracle
 ----0044----
-Is that so?…, But don't
-skip morning training
+Is that so? But don't skip morning
+training
 
 ~---------------------------------------
-Levi
+Rephy
 ----0045----
-Wha…?
+Wha.#!?
 
 ~---------------------------------------
 Oracle
 ----0046----
-So cute…
-Come over anytime
+So cute.# Come over anytime.
 
 ~---------------------------------------
 Oracle
 ----0047----
-Such brilliant future…
+Such brilliant future.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0048----
-Is it that interesting?
-Well, do as you wish
+Is it that interesting? Well, do as 
+you wish.
 
 ~---------------------------------------
 Oracle
 ----0049----
-So i shall
+I'll take your word.
 
 ~---------------------------------------
-Levi
+Rephy
 ----0050----
-What a strange woman…
-I should go back now
+What a strange woman.# I should go back
+now.
 
 ~---------------------------------------
 Oracle
 ----0051----
-Come again soon, and
-show me those radiant Pupils
+Come again soon, and show me those 
+radiant Pupils again.
 
 ~---------------------------------------
-Levi
+Rephy
 ----0052----
-If i feel like it…
+If i feel like it.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0053----
-I don't have time to 
-spend in fortune telling…
+I don't have time to  spend in fortune
+telling.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0054----
-There are some guys i have
-to destroy
+There is a guy i have to destroy
+
 
 ~---------------------------------------
-Levi
+Rephy
 ----0055----
-But I'll welcome any
-good fortune
+But I'll welcome any good fortune.
+
 
 ~---------------------------------------
 Oracle
 ----0056----
-Poor thing…
+Poor thing.#
 
 ~---------------------------------------
 Oracle
 ----0057----
-But…, stay true to your path
-and you'll realize your wish  
+But.#, stay true to your path and you'll
+accomplish you goal.
 
 ~---------------------------------------
-Levi
+Rephy
 ----0058----
 Really!?
 
 ~---------------------------------------
 Oracle
 ----0059----
-That will be for another time.
-Go back for tonight
+That will be for another time. Go back 
+for tonight.
 
 ~---------------------------------------
-Levi
+Rephy
 ----0060----
 Does she really know something?
 
 ~---------------------------------------
 Oracle
 ----0061----
-Fufu…
-Good night Levi
+Fufu.# Good night Rephy
+
 
 ~---------------------------------------
 Oracle
 ----0062----
-Looking forward to your future…
+Looking forward to your future.#
 
 ~---------------------------------------
 Oracle
@@ -348,6 +341,6 @@ A really interesting child
 ~-------------------------------
 Oracle
 ----0064----
-Fufufu…
+Fufufu.#
 
 ~-------------------------------

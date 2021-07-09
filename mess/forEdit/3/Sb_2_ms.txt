@@ -1,0 +1,401 @@
+080 txtform 096
+
+----0001----
+Armor made of overlapped leather layers.
+Standard issue for novice knights.
+~---------------------------------------
+
+----0002----
+Made of connected scale like metal
+plates. Good shock absorption.
+~---------------------------------------
+
+----0003----
+Made of interconnected metal rings. 
+Simple but effective.
+~---------------------------------------
+
+----0004----
+Breastplate made of metal. Minimizes
+weight without loosing defense.
+~---------------------------------------
+
+----0005----
+Made from interconnected metal chains.
+Light yet reliable.
+~---------------------------------------
+
+----0006----
+Made by joining large iron plates.
+Raises stamina slightly.
+~---------------------------------------
+
+----0007----
+Designed for being easy to move with
+while protecting all vital spots. 
+~---------------------------------------
+
+----0008----
+Armor passed down in the royal family.
+Raises stamina and speed slightly.
+~---------------------------------------
+
+----0009----
+Armor decorated with a faint light.
+Raises magic resistance and speed.
+~---------------------------------------
+
+----0010----
+Full body armor with small joints know
+for it's good defense.
+~---------------------------------------
+
+----0011----
+Armor with good magical affinity.
+Raises magic power.
+~---------------------------------------
+
+----0012----
+Armor created from a special coral.
+Raises stamina and magic resistance.
+~---------------------------------------
+
+----0013----
+Armor protected by a holy forest.
+Good protection for arms and legs.
+~---------------------------------------
+
+----0014----
+Said to be used by a sage. Reinforces
+it's wearer's magic.
+~---------------------------------------
+
+----0015----
+Blessed armor with a flame pattern.
+ 
+~---------------------------------------
+
+----0016----
+A pitch-black armor. It's lightness
+allows fast movements.
+~---------------------------------------
+
+----0017----
+Armor made with magic. Raises stamina
+and magic power greatly.
+~---------------------------------------
+
+----0018----
+Said to contain stardust inside. Raises
+speed greatly.
+~---------------------------------------
+
+----0019----
+Armor engraved with runes to help
+concentration.
+~---------------------------------------
+
+----0020----
+Armor with Aura-Lur's blessing. Guards
+from nearly any threat.
+~---------------------------------------
+
+----0021----
+Plain everyday vest made of cloth.
+ 
+~---------------------------------------
+
+----0022----
+Sturdy clothes made of braid hemp.
+Easy to breathe and comfortable.
+~---------------------------------------
+
+----0023----
+Made of slim tanned leather.
+Sturdier compared to cloth.
+~---------------------------------------
+
+----0024----
+Beautiful clothes made of silken 
+threads. Girls love it.
+~---------------------------------------
+
+----0025----
+Made with sturdy leather. It's luster
+gives it an adult feeling.
+~---------------------------------------
+
+----0026----
+Strong ceremonial clothes.
+Helps concentration.
+~---------------------------------------
+
+----0027----
+Short clothes without sleeves.
+East to move with.
+~---------------------------------------
+
+----0028----
+Wrong in a various meanings.
+Raises stamina slightly.
+~---------------------------------------
+
+----0029----
+Black robe filled with magic. Used
+in special events.
+~---------------------------------------
+
+----0030----
+Protective clothes made with cloth
+reinforced with iron.
+~---------------------------------------
+
+----0031----
+Made by overlapping cloth. Stylish and
+easy to move with.
+~---------------------------------------
+
+----0032----
+Clothes said to bring victory just by
+wearing it.
+~---------------------------------------
+
+----0033----
+Clothes light as mist. Good magic 
+affinity.
+~---------------------------------------
+
+----0034----
+Blessed clothes passed down from ancient
+times. Raises speed greatly.
+~---------------------------------------
+
+----0035----
+Clothes black as the night.
+High magic resistance.
+~---------------------------------------
+
+----0036----
+Special made ceremonial clothes.
+Valued for it's high defense.
+~---------------------------------------
+
+----0037----
+Clothes shinning like the sun.
+Greatly reinforces magic.
+~---------------------------------------
+
+----0038----
+Clothes with a flame pattern. Has high
+defenses and reinforces magic.
+~---------------------------------------
+
+----0039----
+Clothes with runes embroidered to help
+concentration.
+~---------------------------------------
+
+----0040----
+Clothes harboring a long lost power.
+Protected by a powerful blessing.
+~---------------------------------------
+
+----0041----
+Loose clothes with a long hem. Used by
+students in the magic academy.
+~---------------------------------------
+
+----0042----
+Slightly resistant robe made of fur.
+ 
+~---------------------------------------
+
+----0043----
+Comfortable robe made of soft cotton. 
+Good impact absorption.
+~---------------------------------------
+
+----0044----
+Robe made from abundant silk. Provides
+some resistance against magic.
+~---------------------------------------
+
+----0045----
+Flower patterned robe. It's multiple
+layers give it good shock absorption.
+~---------------------------------------
+
+----0046----
+Black robe preferred by witches. Makes
+easier to usage of magic.
+~---------------------------------------
+
+----0047----
+Robe made with magical threads with 
+a rare hue.
+~---------------------------------------
+
+----0048----
+Smooth and brilliant robe. Raises magic
+resistance and stamina.
+~---------------------------------------
+
+----0049----
+Robe decorated with a faint light.
+Makes the usage of magic easier.
+~---------------------------------------
+
+----0050----
+Pristine robe with great defense.
+Raises speed.
+~---------------------------------------
+
+----0051----
+Provides support to the vital functions.
+Raises speed greatly.
+~---------------------------------------
+
+----0052----
+Robe with the light's blessing.
+Helps with magic reserves.
+~---------------------------------------
+
+----0053----
+Robe used by a sage.
+Raises stamina.
+~---------------------------------------
+
+----0054----
+Made with using magic as a priority.
+ 
+~---------------------------------------
+
+----0055----
+Robe made with silver threads.
+High magic resistance.
+~---------------------------------------
+
+----0056----
+Robe made with special threads.
+Exceptionally high defense.
+~---------------------------------------
+
+----0057----
+Robe made with advanced technology.
+Helps focus when using magic.
+~---------------------------------------
+
+----0058----
+Pure white robe with divine protection.
+Raises stamina greatly.
+~---------------------------------------
+
+----0059----
+Robe engraved with runes.
+Provides extreme defense.
+~---------------------------------------
+
+----0060----
+Said to be used by the Holy Witch.
+Raises magic defense and speed greatly.
+~---------------------------------------
+
+----0061----
+A completely normal long coat.
+Simple and easy to use.
+~---------------------------------------
+
+----0062----
+Mantle made from leather.
+Slightly durable.
+~---------------------------------------
+
+----0063----
+Mantle with feathers embedded into it.
+Good shock absorption.
+~---------------------------------------
+
+----0064----
+Coat made from silken threads. Slightly
+improves the use of magic.
+~---------------------------------------
+
+----0065----
+Mantle made from thick fabric.
+Good defense.
+~---------------------------------------
+
+----0066----
+Mantle made to allow freedom of 
+movement and assist with magic.
+~---------------------------------------
+
+----0067----
+Short but robust mantle with
+inspiring colors.
+~---------------------------------------
+
+----0068----
+Smooth and brilliant coat. Raises speed
+and stamina.
+~---------------------------------------
+
+----0069----
+Coat decorated with a faint light.
+Raises magic resistance and focus.
+~---------------------------------------
+
+----0070----
+Standard issue mantle for knights.
+Strong and durable.
+~---------------------------------------
+
+----0071----
+Coat with metallic parts. Good
+durability and stability.
+~---------------------------------------
+
+----0072----
+Coat with shinny feathers int he front.
+Good magic resistance.
+~---------------------------------------
+
+----0073----
+Coat with a deep crimson color. Raises
+stamina.
+~---------------------------------------
+
+----0074----
+Prioritizes the use of magic. 
+Increases magic reserves.
+~---------------------------------------
+
+----0075----
+Coat made from silver threads. High
+resistance against magic.
+~---------------------------------------
+
+----0076----
+Coat made with special threads.
+Exceptionally high defense.
+~---------------------------------------
+
+----0077----
+Coat with ghost embroidered.
+Exceptionally high magic defense.
+~---------------------------------------
+
+----0078----
+Mantle blessed by the spirits.
+Increases speed.
+~---------------------------------------
+
+----0079----
+Coat with runes engraved into ti.
+Exceptionally high defense.
+~---------------------------------------
+
+----0080----
+Coat with a solemn ornament. 
+Said to be unbreakable.
+~---------------------------------------

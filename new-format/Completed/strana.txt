@@ -11,7 +11,7 @@ Glen in the courtyard
 
 ----0003----
 Get ready and rendezvous with
-Kilika in the courtyard
+Kirika in the courtyard
 ~---------------------------------------
 
 ----0004----
@@ -31,7 +31,7 @@ Inaluna in the courtyard
 
 ----0007----
 Get ready and rendezvous with
-Sion in the courtyard
+Shion in the courtyard
 ~---------------------------------------
 
 ----0008----
@@ -46,7 +46,7 @@ Elle in the courtyard
 
 ----0010----
 Get ready and rendezvous with
-Layla in the courtyard
+Lyra in the courtyard
 ~---------------------------------------
 
 ----0011----
@@ -56,17 +56,17 @@ Glen in 1F hall
 
 ----0012----
 Get ready and head
-to the cathedral
+to the Chapel
 ~---------------------------------------
 
 ----0013----
 Get ready and rendezvous with
-Glen at the cathedral
+Glen at the Chapel
 ~---------------------------------------
 
 ----0014----
 Look for the hidden
-Keyboard of the Seal
+Clovis Seal
 ~---------------------------------------
 
 ----0015----
@@ -174,7 +174,7 @@ Unison Strike can be used now
 ~---------------------------------------
 
 ----0040----
-Levi learned a FD
+Rephy learned a FD
 ~---------------------------------------
 
 ----0041----
@@ -202,11 +202,11 @@ Inaluna learned a FD
 ~---------------------------------------
 
 ----0047----
-Sion learned a FD
+Shion learned a FD
 ~---------------------------------------
 
 ----0048----
-Sarah learned a FD
+Sara learned a FD
 ~---------------------------------------
 
 ----0049----
@@ -238,15 +238,15 @@ Inaluna became an ally
 ~---------------------------------------
 
 ----0056----
-Sion became an ally
+Shion became an ally
 ~---------------------------------------
 
 ----0057----
-Sarah became an ally
+Sara became an ally
 ~---------------------------------------
 
 ----0058----
-Layla became an ally
+Lyra became an ally
 ~---------------------------------------
 
 ----0059----
@@ -314,23 +314,23 @@ Inaluna is back to the party
 ~---------------------------------------
 
 ----0075----
-Sion left. Equipment retrieved
+Shion left. Equipment retrieved
 ~---------------------------------------
 
 ----0076----
-Sion is back to the party
+Shion is back to the party
 ~---------------------------------------
 
 ----0077----
-Sarah left. Equipment retrieved
+Sara left. Equipment retrieved
 ~---------------------------------------
 
 ----0078----
-Sarah is back to the party
+Sara is back to the party
 ~---------------------------------------
 
 ----0079----
-Vital Soda received
+ViTonic received
 ~---------------------------------------
 
 ----0080----
@@ -338,39 +338,39 @@ TECH UP received
 ~---------------------------------------
 
 ----0081----
-Defense Potion received
+Wall Drug received
 ~---------------------------------------
 
 ----0082----
-Vital Soda received
+ViTonic received
 ~---------------------------------------
 
 ----0083----
-SPEED UP received
+Speed+ received
 ~---------------------------------------
 
 ----0084----
-Accuracy Potion received
+Celerity Drug received
 ~---------------------------------------
 
 ----0085----
-Vital Soda received
+ViTonic received
 ~---------------------------------------
 
 ----0086----
-GUARD UP received
+Guard+ received
 ~---------------------------------------
 
 ----0087----
-Defense Potion received
+Wall Drug received
 ~---------------------------------------
 
 ----0088----
-Mental Soda received
+MagiSoda received
 ~---------------------------------------
 
 ----0089----
-MAGIC UP received
+Magic+ received
 ~---------------------------------------
 
 ----0090----
@@ -378,11 +378,11 @@ Revive Bottle received
 ~---------------------------------------
 
 ----0091----
-Mental Soda received
+MagiSoda received
 ~---------------------------------------
 
 ----0092----
-RESIST UP received
+Resist+ received
 ~---------------------------------------
 
 ----0093----
@@ -390,35 +390,35 @@ Revive Bottle received
 ~---------------------------------------
 
 ----0094----
-Vital Soda received
+ViTonic received
 ~---------------------------------------
 
 ----0095----
-ATTACK UP received
+Attack+ received
 ~---------------------------------------
 
 ----0096----
-Attack Potion received
+Power Drug received
 ~---------------------------------------
 
 ----0097----
-Mental Soda received
+MagiSoda received
 ~---------------------------------------
 
 ----0098----
-RESIST UP received
+Resist+ received
 ~---------------------------------------
 
 ----0099----
-Heaven's Blessing received
+Divine Blessing received
 ~---------------------------------------
 
 ----0100----
-Mental Soda received
+MagiSoda received
 ~---------------------------------------
 
 ----0101----
-SPEED UP received
+Speed+ received
 ~---------------------------------------
 
 ----0102----
@@ -426,11 +426,11 @@ Drive Soda received
 ~---------------------------------------
 
 ----0103----
-Mental Soda received
+MagiSoda received
 ~---------------------------------------
 
 ----0104----
-MAGIC UP received
+Magic+ received
 ~---------------------------------------
 
 ----0105----
@@ -438,15 +438,15 @@ Flare Bomb received
 ~---------------------------------------
 
 ----0106----
-ATTACK UP received
+Attack+ received
 ~---------------------------------------
 
 ----0107----
-Accuracy Potion received
+Celerity Drug received
 ~---------------------------------------
 
 ----0108----
-TECH UP received
+Technique+ received
 ~---------------------------------------
 
 ----0109----
@@ -454,7 +454,7 @@ Drive Soda received
 ~---------------------------------------
 
 ----0110----
-Attack Potion received
+Power Drug received
 ~---------------------------------------
 
 ----0111----
@@ -470,7 +470,7 @@ Equip again, please
 ~---------------------------------------
 
 ----0114----
-Training is now available at Dojo
+Training is now available 
 ~---------------------------------------
 
 ----0115----
@@ -546,15 +546,15 @@ Inaluna powered up by the Witch's power
 ~---------------------------------------
 
 ----0133----
-Sion powered up by the Witch's power
+Shion powered up by the Witch's power
 ~---------------------------------------
 
 ----0134----
-Sarah powered up by the Witch's power
+Sara powered up by the Witch's power
 ~---------------------------------------
 
 ----0135----
-Layla powered up by the Witch's power
+Lyra powered up by the Witch's power
 ~---------------------------------------
 
 ----0136----
@@ -566,5 +566,5 @@ Arnogia powered up by the Witch's power
 ~---------------------------------------
 
 ----0138----
-Vital Rune received
+VitaMint received
 ~---------------------------------------

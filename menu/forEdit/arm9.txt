@@ -17,7 +17,7 @@ Arnogia
 Void
 Greatsword
 Spear
-Throwing Knives
+Dagger
 Shield
 Lithography
 Flute Staff
@@ -42,15 +42,15 @@ Hammer
 ■
 Edge Strike
 Crimson Bite
-Divine Blade
-Seal Flash
+Mirage Strike
+Shield Flash
 Evil Hand
 Siren Song
-Crimson Flash
+Black Requiem
 Queen's Judgment
-Amour Storm
-メイト＝アソート
-災厄招来・天降撃
+Amor Storm
+Lantern Fusion
+Divine Punishment
 Flare Carnival
 Soul Break
 Silver Blaze
@@ -75,15 +75,15 @@ Silver Blaze
 ■
 Grand Break
 Efreet's Roar
-Mirage Strike
+Triple Illusion
 Land Napalm
-Skull Grace
+Skull Gaze
 Aqua Melody
 Tornado Dance
 Bright Whip
-Flowing Shoot
+Flow Shoot
 Pyro Lantern
-災厄招来・夢幻灯
+Soul Barrage
 Fire March
 Sphere Cross
 Stella Shine
@@ -94,8 +94,8 @@ Luna Strike
 －
 Eternal Hole
 End Requiem
-ワールドゲイズ
-烈火爆炎弾みょ！
+World Gaze
+Explosion！
 Fearful Flare
 Frozen Vein
 リーヴル＝レイ
@@ -108,16 +108,16 @@ Materia Bomber
 ■
 Rising Smash
 Ignis Wing
-Tempest Raid
+Sword Rain
 Wood Hurricane
 Giant Stamp
 Bubble Cantare
 Tempest Waltz
 Princess Knock
 Rain Breeze
-メイト＝アイス
-災厄招来・漂流魂
-バーニングサルサ
+Jack Frost
+Spirit Blaze
+Burning Salsa
 Lord's Blaze
 Rising Cluster
 －
@@ -190,7 +190,7 @@ SlowStone
 ■
 Training Hall(Outter)
 Lest Church
-Valetta Waterfall
+Valetta Falls
 Sandal Forest
 Royal Garden
 Audience Hall
@@ -204,25 +204,25 @@ Beria Village
 Witch's Creek
 Courtyard
 Courtyard
-Angel's Cloister
+Angel'S Cloister
 Angel's Cage
-幽界
-妖精界
-妖精城
-合成ラピス研究所
+Spirit World
+Alfheim
+Fairy Castle
+Lapis Fusion Facility
 Castle City Linden
 Royal Valley
-Flame Cavern
+Flame Grotto
 Altar of Time
-River of Rebirth
-夜魔砦
-夜魔界
-夜魔城
-Gillard Flame Belt
+Samsara River
+Nox Fortress
+Dark World
+Nefiria Castle
+Gillard Volcano
 God's Seat
 Isthan Dessert
 Remono Beach
-Xalena Ruins
+Xarena Ruins
 Nagal Ridge
 Training Hall（Inner）
 Star Memory S2
@@ -239,9 +239,9 @@ Battle Map－－48
 Battle Map－－49
 Battle Map－－50
 ■
-School BF1
+School BF
 Oracle's Parlor
-Knight's Lounge
+Knight Club
 Bath
 Teleport Chamber
 Main Hall 1F
@@ -257,12 +257,12 @@ Courtyard
 Courtyard
 Courtyard
 Main Hall 2F
-Classroom
-S.C. Classroom
+Classroom A
+Classroom B
 Faculty Office
 Training Hall
 Library
-Dormitory 1F
+Male Dormitory
 Kopin's Room
 Kirika's Room
 Bonaparte's Room
@@ -271,10 +271,10 @@ Yuu's Room
 Heine's Room
 Glen's Room
 Rephy's Room
-Dormitory 2F
+Female Dormitory
 Valerie's Room
 Fran's Room
-Layra's Room
+Lyra's Room
 Shion's Room
 Sara's Room
 Inaluna's Room
@@ -362,7 +362,7 @@ Smirnov's Skin
 Valerie's Hair
 Yorg's Petal
 Angel Orb
-God's Seed
+God's Core
 Goblin Fang
 Lizard Scale
 Minotaur Horn
@@ -370,7 +370,7 @@ Minopy Leaf
 Froger Crystal
 Cockatrice Skin
 Orthros Fur
-Hippogryph Feather
+Hippogryph Plume
 Behemoth Ore
 Sunny Crab Shell
 Bomb Embers
@@ -378,26 +378,26 @@ Imp Fang
 Phantom Bone
 Golem Fragment
 Fire Fiend Claw
-Flora's Hair
+Flora Hair
 Gremlin Gem
 Buccaboo Horn
-Gold Knight Helm
+G. Knight Helm
 Lamia Skin
 Soldier Armor
-Heavy Knight Shield
+H. Knight Shield
 Archer Hat
 Mage Staff
 Priest Orb
 Bandit Axe Hilt
 Monk's Bracelet
-Siville's Shoes
-L Kopin Horn
-D Kopin Sprout
-A Kopin Claw
-W Kopin Crystal
-F Kopin Tail
-N Kopin Bark
-R Kopin Teeth
+Shivalee's Shoes
+F. Kopin Horn
+D. Kopin Sprout
+A. Kopin Claw
+W. Kopin Crystal
+L. Kopin Tail
+N. Kopin Bark
+S. Kopin Teeth
 Bonaparte's Tail
 Gigas Scale
 Elf Horn
@@ -414,13 +414,13 @@ Wood Fragment
 Bogart Fang
 Lizard Lord Scale
 Orc Horn
-デスミノッピー葉
-インスマス鉱石
+Treant Leaf
+Merrow Crystal
 Basilisk Skin
 Garm Fur
-Griffon Feather
+Gryphon Feather
 K. Behemoth Orb
-Great Crab Scale
+G. Crab Shell
 Ghast Ember
 Gargoyle Fang
 Wraith Bone
@@ -440,15 +440,15 @@ Wizard Staff
 Bishop Crystal
 Thief Axe Hilt
 Cestus Bracelet
-Royal Knight Shoes
+R. Knight Shoes
 G. Kopin Fang
 アース鱗
-フォモール粉末
+Atlas Powder
 High Elf Horn
 Dark Elf Hair
 Kelpie Feather
 Sleipnir Hoof
-Nyph Orb
+Nymph Orb
 Banshee Crystal
 Spriggan Bone
 Chernobog Thread
@@ -647,9 +647,9 @@ Golem N
 Fire Fiend F
 Flora F
 Gremlin N
-Ｎブッカブー
+Buccaboo N
 Golden Knight
-Millia F
+Lamia F
 Soldier
 Heavy Knight
 Archer
@@ -657,14 +657,14 @@ Mage
 Priest
 Bandit
 Monk
-Siville
-Light Kopin
-Dark Kopin
-Air Kopin
-Water Kopin
+Shivalee
 Fire Kopin
+Dark Kopin
+Aero Kopin
+Water Kopin
+Light Kopin
 Golden Kopin
-Wild Kopin
+Stray Kopin
 Rhabylia F
 Gigas F
 Elf F
@@ -750,8 +750,8 @@ Witch
 Bogart N
 Lizard Lord N
 Orc N
-Ｎデスミノッピー
-Ｎインスマス
+Treant N
+Merrow N
 Basilisk N
 Garm N
 Gryphon N
@@ -780,7 +780,7 @@ Royal Knight
 Ｎラビネス
 Golden Kopin T
 Ｆアース
-Ｎフォモール
+Atlas N
 High Elf F
 Dark Elf N
 Kelpie F
@@ -828,7 +828,7 @@ Yorg
 Milia
 ■
 ■
-God's Seed
+God's Core
 God
 ■
 ■
@@ -1019,7 +1019,7 @@ Bash Storm
 Deadly Stinger
 Guard Boost
 Cross Guard
-Power Wave
+Shield Bash
 Land Stinger
 Herculean Wave
 Protect Down
@@ -1051,11 +1051,11 @@ Wood Whip
 Curer
 Lazy Bomber
 Regenerate
-剣帝樹の審判
-どん打とっ！
+Gaia Blade
+Smash!
 Focus～
-如意っと棒っす～
-Web Staff
+Wishful Bash～
+Web Sphere
 Revival
 Physical Boost
 Fire Bullet
@@ -1064,22 +1064,22 @@ Scorching Breath
 Ignis Blaze
 Rending Shock
 Attack Shift
-一輝当閃
+Shining Blade
 Shining Bullet
 Ambivalent Flash
-True Explosive Slash
+Demolition Cut
 Arm Shift
-True Arc Slash
+Crescent Shine
 Lost Lightning
-心・天翔連刃撃
+Aura Strike
 頑張るみょ！
-氷塊招来
+Ice Cluster
 究極だみょー！！
 Attack Up
 Great Explosion
 AO Speed Down
 Super Explosion
-ふれいむぴら～
+Flame Pillar～
 Heat Storm
 Attack Down
 きゅあ～
@@ -1131,7 +1131,7 @@ Cross Attack
 Gale Slash
 Thrust
 Smash
-デコピン
+Kopin Attack
 Spiral Thrust
 Full Attack
 Full Attack
@@ -1145,7 +1145,7 @@ Void String
 Heavy Attack
 Blitz
 Impale
-ウォータブレス
+Water Blaze
 Tank Rush
 Quake Rush
 Solid Slash
@@ -1165,7 +1165,7 @@ Aqua Slider
 ブラックダイア
 Silent Arrow
 Hard Arrow
-ターンアロー
+Delay Arrow
 Hit Arrow
 Blood Drain
 Poison Shoot
@@ -1214,13 +1214,13 @@ Dark Breath
 －
 
 【ＴＡＢＬＥ２】
-Allies Defeated
-Protagonist Defeated
-%s Defeated
- Enemy reaches the target
+All Allies Defeated
+Main Character Defeated
+Defeat %s 
+Enemy reaches the exit
 Defeat all enemies
 Reach the Exit
-Reduce enemies to %s or less
+%s or less enemies left
 Defeat %s
 Defeat %s or %s
 Defeat %s and %s
@@ -1253,13 +1253,13 @@ Come again～！
 Hang in there.
 That came out pretty good☆.
 One more time～
-Choose the category you want to see.
+Select weapon type.
 Those are the required materials.
-Your materials are pilling up.$nI'll give you a good price for them♪
+You have enough materials.$nGive'em the me♪
 Buy at Hiyo's shop.
-Looks you have some data.$nGive it to me♪
+Looks you have enough data.$nGive it to me♪
 This one has that material.
-%s's data.$n %s more battles until analysis♪
+%s's data.$n%s more battles until analysis♪
 Recipe list updated.
 Proficiency list updated.
 I'll be taking these materials, OK?
@@ -1273,10 +1273,10 @@ Forge
 Required
 Proficiency
 Drop's from
-Material Exchange
+Materials
 ???
 Battle Count
-I can create new weapons、$nif you have the right materials～
+We can create new weapons,$nif you have the right materials～
 By using certain weapons in combat,$na stronger weapon can be created ～
 I'll buy anything you don't need♪
 %s acquired
@@ -1288,7 +1288,7 @@ Magical Defense Power
 Accuracy Rate
 Evasion Rate
 Do you wish to $n save now?
-Saving…$n Don't turn off the power
+Saving.#$n Don't turn off the power
 Save Complete $n Continue playing?
 Retry?
 Enemy reinforcements!
@@ -1339,15 +1339,15 @@ Removes all ailments.
 Grants Accelerated status.
 Recover HP every turn.
 Dispels all Status reductions.
-Raise Attack temporally.
-Raise Defense temporally.
-Raise Magic temporally.
-Raise Resistance temporally.
-Raise Technique temporally.
-Raise Speed temporally.
-Raise Attack and Magic slightly.
-Raise Defense and Resist slightly.
-Raise Technique and Speed slightly.
+Raises Attack temporally.
+Raises Defense temporally.
+Raises Magic temporally.
+Raises Resistance temporally.
+Raises Technique temporally.
+Raises Speed temporally.
+Raises Attack and Magic slightly.
+Raises Defense and Resist slightly.
+Raises Technique and Speed slightly.
 Receive a little DP.
 Receive some DP.
 Revives an ally with a little HP.
@@ -1477,7 +1477,7 @@ Silk Clothes
 Leather Jacket
 Regal Suit
 Warrior Vest
-アブナイ服
+Suspicious Clothes
 Priest Clothes
 Bodysuit
 Dashing Suit
@@ -1531,8 +1531,8 @@ Spirit Mantle
 Runic Coat
 Eternal Coat
 Greatsword
-Thick Blade
-Thick Blade II
+Tech Blade
+Tech Blade II
 Defender
 Judgment
 Damascus Sword
@@ -1548,7 +1548,7 @@ Stinger
 Blood Lance
 Trident
 Crimson Spear
-Rakshasa Spear
+Carnage Spear
 Gae Bolg
 Agnis Lance
 Reserve Spear 1
@@ -1561,7 +1561,7 @@ Shadow Knife
 Fire Dagger
 Spark Knife
 Sylphid
-Fragarach
+Fragranch
 Euros Dagger
 Reserve Knife
 Reserve Knife 2
@@ -1577,18 +1577,18 @@ Turtle Shield
 Mirror Shield
 Britwen Shield
 Princess Guard
-Johan Shield
+Johann Shield
 Yggdra's Shield
 Old Tablet
 Witch Book
 Angel Book
-Necro Tablet
+Necronomicon
 Erosion Book
 Sage's Tablet
 Hellfire Book
 Avon's Tablet
 Apocalypse
-Akashic Record
+Akashic Records
 Reserve Tablet
 Reserve Tablet 2
 Reserve Tablet 3
@@ -1611,7 +1611,7 @@ Needle Edge
 Rose Saber
 Noir Rose
 Minerva Edge
-Spider Cutter
+Spider Thread
 Flamberge
 Hauteclaire
 Surt's Sword
@@ -1634,7 +1634,7 @@ Reserve Whip 3
 Longbow
 Swan Arrow
 Crimson Bow
-Onyx Bow
+Obsidian Bow
 Feather Bow
 Winged Bow
 Faeric Bow
@@ -1744,10 +1744,10 @@ Please choose one of $n the Lucky Presents.
 You don't have enough money.
 Looks it went good.
 This is all i can do.$n Now is up to you.
-What a pity…$n Wrong present this time.
+What a pity.#$n Wrong present this time.
 Come to me when $n you want try again.
-…….
-There is nothing i can do right now…
+.#.#.
+There is nothing i can do right now.#
 　
 Buy
 Sell
@@ -1778,7 +1778,7 @@ I have nothing to sell to you
 Save the data?
 Load the data?
 Final Chapter
-           Chapter %s
+                 Chapter %s
 Normal
 Hard
 Continue from this data?
@@ -1831,20 +1831,20 @@ Connect to Wi-Fi?
 本体とＤＳカードの　　　　　　　$nＷｉ－Ｆｉユーザー情報がちがうた$nめＷｉ－Ｆｉコネクションに接続で$nきません。
 Update Wi-Fi user information $n in the DS Card? $nAll data from Wi-Fi $nconnection will be lost.
 Connecting to Wi-Fi and　$n updating user information.$n Are you sure? $n 
-Connection to Wi-Fi.$nWait a moment please…
+Connection to Wi-Fi.$nWait a moment please.#
 Your nickname can't be $n used for Wi-Fi connection $n Change it and $n try again.
 Disconnect from $n Wi-Fi?
-Disconnecting… $n 
+Disconnecting.# $n 
 Disconnected from Wi-Fi.$n 
 In order to have a Wi-Fi battle with a$n friend, your new friend code must $n be registered in $n your friend's $n Friend List.
-Looking for opponents.$n Wait a moment please…
+Looking for opponents.$n Wait a moment please.#
 There is no friend code because$you have never connected to$nNintendo Wi-Fi Connection.
 Remove from Friend List$n ?
 Invalid Friend Code.
 Friend list full　$n Please make space using　$n Manage Friend List $n 
 That friend is in Friend $n List already.
 Register Complete.
-Waiting for the opponent　$n formation to finish…
+Waiting for the opponent　$n formation to finish.#
 Save game data?
 The obtained items　will be lost.$n Are you sure? $n 
 Couldn't read the data. Turn OFF the console, $n reinsert the Card$n and try again.
@@ -1868,18 +1868,18 @@ Do you want to exit$n without saving?
 　
 　
 Welcome
-Do you… like weapons?
+Do you.# like weapons?
 What would you like?
-Wh,what do you…
-…Rephy…
+Wh,what do you.#
+Rephy.#
 What is it?
 Hiyo made it, so it's fine 
 Please come again
 Please, take care of it
 Good Forge, Good Forge
 Thank you very much
-Which do you want?
-Umn…, there is nothing$n left to forge
+What will you buy?
+Umn.#, there is nothing$n left to forge
 Oh, you don't have enough money.$n Come back later.
 Anything else?
 What will you sell?
@@ -1887,7 +1887,7 @@ You have nothing left $n to sell.
 You can't hold more of this
 　
 Then, let's find a good $n present
-The result shows… 3 possible presents…
+The result shows.# 3 possible presents.#
 From now on is $n up to you luck
 　
 　

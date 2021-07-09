@@ -1,0 +1,401 @@
+080 txtform 096
+
+----0001----
+Hat made from tanned leather.
+Standard issue for Novice Knights.
+~---------------------------------------
+
+----0002----
+A iron plate warped in a bandanna. 
+Rolled up in the head to protect it.
+~---------------------------------------
+
+----0003----
+Helm made from a combination of iron
+and leather.
+~---------------------------------------
+
+----0004----
+Old helm worn out by usage. Scratched
+but filled with magic.
+~---------------------------------------
+
+----0005----
+Sturdy helmet made of Bronze.
+It will surely last 10 years. 
+~---------------------------------------
+
+----0006----
+Headgear made from a combination of iron
+and leather. Even protects the chin.
+~---------------------------------------
+
+----0007----
+Sturdy helmet made of Iron.
+Made to last.
+~---------------------------------------
+
+----0008----
+Iron Helm reinforced with titanium.
+Both sturdy and flexible.
+~---------------------------------------
+
+----0009----
+A part of it it's made from a shinny
+material. Rises Accuracy.
+~---------------------------------------
+
+----0010----
+Flashy rainbow colored bandanna made
+with a special threads.
+~---------------------------------------
+
+----0011----
+Helmet with an inspiring decoration.
+Made with offense in mind.
+~---------------------------------------
+
+----0012----
+Helmet with a big horn adorning it.
+Worn tightly to the head.
+~---------------------------------------
+
+----0013----
+A part of it it's made of silver to
+increase magic affinity.
+~---------------------------------------
+
+----0014----
+Crown used by a king who liked battles.
+ 
+~---------------------------------------
+
+----0015----
+Beautiful helmet made of gold.
+ 
+~---------------------------------------
+
+----0016----
+This bandanna made from hard scales can
+increase you concentration.
+~---------------------------------------
+
+----0017----
+Abnormally big helmet with a fierce
+design.
+~---------------------------------------
+
+----0018----
+This platinum made helmet can increase
+you concentration greatly.
+~---------------------------------------
+
+----0019----
+Helmet with runes engraved into it to
+boost it's wearer's magic.
+~---------------------------------------
+
+----0020----
+Legendary helmet said to avert disaster.
+Gives powerful blessing to it's wearer.
+~---------------------------------------
+
+----0021----
+Hat made of cloth.
+Not very protective.
+~---------------------------------------
+
+----0022----
+Hat adorned with feathers.
+Good design and functionality.
+~---------------------------------------
+
+----0023----
+Hat made from sturdy cloth.
+Very resistant.
+~---------------------------------------
+
+----0024----
+Large hat with a distinctive 
+wide brim.
+~---------------------------------------
+
+----0025----
+This hat made specially for battle
+won't come off easily.
+~---------------------------------------
+
+----0026----
+Hat adorned with bunny ears.
+Warm and helps you focus.
+~---------------------------------------
+
+----0027----
+A green colored beret. Wide field of
+vision while keeps a good defense. 
+~---------------------------------------
+
+----0028----
+Amazing cylindrical shaped hat for
+gentlemen.
+~---------------------------------------
+
+----0029----
+Hat with a shinny decoration. It's 
+softness makes focusing easier.
+~---------------------------------------
+
+----0030----
+Hat with various colors of paint on it
+to respond to any situation.
+~---------------------------------------
+
+----0031----
+Wide and flat that. It's shape helps
+to absorb impacts better.
+~---------------------------------------
+
+----0032----
+This hat adorned with cat ears isn't just
+cute but also useful.
+~---------------------------------------
+
+----0033----
+Sturdy hat with camouflage pattern.
+Made with offense in mind.
+~---------------------------------------
+
+----0034----
+Hat blessed by the Wind. Increases
+accuracy by reading the wind.
+~---------------------------------------
+
+----0035----
+Hat containing a iron plate inside.
+High defense against physical attacks.
+~---------------------------------------
+
+----0036----
+Comfortable hat painted with seven colors.
+ 
+~---------------------------------------
+
+----0037----
+Mysterious hat that fills it's wearer
+with courage.
+~---------------------------------------
+
+----0038----
+Hat blessed by the Sun.
+Keeps you warm.
+~---------------------------------------
+
+----0039----
+Hat engraved with runes into it to
+boost it's wearer's magic.
+~---------------------------------------
+
+----0040----
+Hat containing a sage's wisdom.
+Makes you stronger when calmed.
+~---------------------------------------
+
+----0041----
+Loosely wore hood.
+For novice magicians.
+~---------------------------------------
+
+----0042----
+Carefully hand woven hood with quality 
+threads.
+~---------------------------------------
+
+----0043----
+Comfortable hat made with soft cloth
+inside and adorned with straw.
+~---------------------------------------
+
+----0044----
+Hat woven with silken threads.
+Soft and slippery at touch.
+~---------------------------------------
+
+----0045----
+Sturdy made hood that won't come off
+even during intense activities.
+~---------------------------------------
+
+----0046----
+Hood adorned with bunny ears.
+Good impact absorption.
+~---------------------------------------
+
+----0047----
+Hood with a triangular shaped peak.
+Used in ceremonial places.
+~---------------------------------------
+
+----0048----
+Look looking and functional hood with
+a lustrous finish.
+~---------------------------------------
+
+----0049----
+Hood with a shinny decoration. It's 
+softness makes focusing easier.
+~---------------------------------------
+
+----0050----
+Hood made from black threads. Improves
+accuracy by blocking light reflection.
+~---------------------------------------
+
+----0051----
+Light hood adorned with feathers. Easy
+to move with.
+~---------------------------------------
+
+----0052----
+This hood adorned with cat ears isn't 
+just cute but also useful.
+~---------------------------------------
+
+----0053----
+Hood made from different threads. Raises
+stamina to help movement.
+~---------------------------------------
+
+----0054----
+Hood made from knowledge from different
+persons. Greatly reinforces magic.
+~---------------------------------------
+
+----0055----
+Hood with an iron plate inside. High
+defense against physical attacks.
+~---------------------------------------
+
+----0056----
+Hood woven with an special thread.
+High protection against magic.
+~---------------------------------------
+
+----0057----
+Used by magicians to increase their
+magic affinity.
+~---------------------------------------
+
+----0058----
+Mysterious feather adorned hood. Has
+many blessings bestowed upon it.
+~---------------------------------------
+
+----0059----
+Hood engraved with runes. Reinforces
+not just magic but defense too.
+~---------------------------------------
+
+----0060----
+Hood with a powerful blessing bestowed
+upon. Also increases concentration.
+~---------------------------------------
+
+----0061----
+Simple and small ribbon.
+Very popular.
+~---------------------------------------
+
+----0062----
+Hairpin made from a beautiful stone.
+Weak protection against magic.
+~---------------------------------------
+
+----0063----
+Ribbon made from leather.
+ 
+~---------------------------------------
+
+----0064----
+This popular headband it's easy to
+move with.
+~---------------------------------------
+
+----0065----
+Hairpin decorated with a seashell.
+Protects against magic.
+~---------------------------------------
+
+----0066----
+Hairpin with a small jewel encrusted.
+Cute and simple design.
+~---------------------------------------
+
+----0067----
+Ribbon with a vivid yellow color.
+Very comfortable.
+~---------------------------------------
+
+----0068----
+Headband made from copper refined with
+magic.
+~---------------------------------------
+
+----0069----
+Hairpin with a pearl encrusted on it.
+High protection.
+~---------------------------------------
+
+----0070----
+Tiara made from silver. High resistance
+against magic.
+~---------------------------------------
+
+----0071----
+Light blue colored ribbon. Increases
+accuracy.
+~---------------------------------------
+
+----0072----
+Headband made with abundant silver. Has
+both cuteness and high protection.
+~---------------------------------------
+
+----0073----
+Hairpin adorned with a pretty flower.
+ 
+~---------------------------------------
+
+----0074----
+Ring shaped head piece with high
+protection.
+~---------------------------------------
+
+----0075----
+Ribbon with a captivating red color.
+Improves your mood.
+~---------------------------------------
+
+----0076----
+Tiara made by the Fairies. A mysterious
+gives it magic protection.
+~---------------------------------------
+
+----0077----
+Headband made of gold.
+Extremely defense. 
+~---------------------------------------
+
+----0078----
+Hairpin used by Mermaids.
+Improves concentration.
+~---------------------------------------
+
+----0079----
+Ribbon with runes encrusted into it to
+reinforce it's wearer's magic.
+~---------------------------------------
+
+----0080----
+Tiara blessed by the Goddess of Victory.
+Extremely high magic resistance.
+~---------------------------------------

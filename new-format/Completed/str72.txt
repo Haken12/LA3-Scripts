@@ -1,154 +1,154 @@
 0078 K 82C282AF
-Levi
+Rephy
 ----0001----
 Hey, I'm back
 
 ~-------------------------------
-Diviner
+Oracle
 ----0002----
-This is…
+This is.#
 
 ~-------------------------------
-Levi
+Rephy
 ----0003----
 What's it?
 
 ~-------------------------------
 Oracle
 ----0004----
-You came in a good moment.
-Just heading out to HQ.
+You came in a good moment. Just
+heading out to HQ.
 
 ~---------------------------------------
-Levi
+Rephy
 ----0005----
 Did something happened?
 
 ~---------------------------------------
 Oracle
 ----0006----
-Ferxia have shown in the
-crystal ball
+Felicia have shown in the crystal ball
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0007----
-Looks like a nearby village is under attack
+Looks like a nearby village is under
+attack
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0008----
-Levi, won't you check out this village? $e3
+Rephy, won't you check out this village? $e3
 ~---------------------------------------
-Levi
+Rephy
 ----0009----
 Is this vision trustworthy?
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0010----
-Yes…
+Yes.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0011----
 Even if the high precision detection 
 barrier didn't detect anything?
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0012----
-I see…
-So you don't trust my visions
+I see.# So you don't trust my visions.
+
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0013----
-I'll ask someone else…
+I'll ask someone else.#
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0014----
-Since you have just arrived i am sorry,
-but can you let me pass?
+Sorry to leave you when you have just
+arrived. Mind letting me pass?
 
 ~---------------------------------------
-Levi
+Rephy
 ----0015----
-Y-yes
+Y-Yes.
 
 ~---------------------------------------
-Levi
+Rephy
 ----0016----
 What happened?
 
 ~-------------------------------
-Levi
+Rephy
 ----0017----
-A vision huh…
-No matter how small the chance
+A vision huh.# No matter how 
+small the chance.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0018----
-i can't stay put if
-Ferxia may be involved
+I can't stay put if Felicia may be
+involved
 
 ~---------------------------------------
-Levi
+Rephy
 ----0019----
 Tell me the details
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0020----
-Thank you, Levi
+Thank you, Rephy
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0021----
-What i saw was…
-A quiet village with a beautiful river…
+I the vision i saw.# A quiet village 
+with a beautiful river.#
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0022----
-A fish like Ferxia appeared
-and started attacking the villagers
+Fish-like Felicia appeared and started
+attacking the villagers.
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0023----
-Did you came here just to…
+You didn't came here just to.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0024----
-see the suffering villagers?…
+see the suffering villagers?
 
 ~---------------------------------------
-Levi
+Rephy
 ----0025----
 An emergency call!　I'm going!
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0026----
-Please be careful
+Please be careful.
 
 ~---------------------------------------
-Levi
+Rephy
 ----0027----
-I pristine river huh…
+I beautiful river huh.#
 
 ~-------------------------------
-Levi
+Rephy
 ----0028----
-I'll laugh if a fish like 
-Ferxia comes out of there
+I'll laugh if a fish-like 
+Felicia comes out of there
 
 ~-------------------------------
-Levi
+Rephy
 ----0029----
 Th-that is!
 
@@ -168,10 +168,10 @@ Glen
 Let's go!
 
 ~-------------------------------
-Levi
+Rephy
 ----0033----
-Hum, there aren't any
-Ferxia left
+Huh. There aren't any Felicia
+left
 
 ~-------------------------------
 ???
@@ -181,7 +181,7 @@ Rika!
 ~-------------------------------
 Rika
 ----0035----
-Mo…Mom!
+Mo-Mom!
 
 ~-------------------------------
 Rika's mother
@@ -192,49 +192,48 @@ Are you alright?
 ~---------------------------------------
 Rika
 ----0037----
-Yes!　You see…
-these misters helped me.
+Yes!　You see.# These misters helped me.
 
 ~---------------------------------------
 Rika's mother
 ----0038----
-You are…
+You are.#
 
 ~---------------------------------------
 Rika's mother
 ----0039----
-Thank you very much.
-Wh…what can i do to repay you…
+Thank you very much. Wh-what can i do
+to repay you.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0040----
 It was our duty as Knights
 
 ~---------------------------------------
 Rika's mother
 ----0041----
-Rika.
-Say your thanks too 
+Rika. Say your thanks too.
+
 
 ~---------------------------------------
 Rika
 ----0042----
-Thank you misters
+Thank you misters.
 
 ~---------------------------------------
-Levi
+Rephy
 ----0043----
-Yeah
+Yeah.
 
 ~---------------------------------------
 Glen
 ----0044----
-We are done here.
-Let's head back.
+We are done here. Let's head back.
+
 
 ~---------------------------------------
-Levi
+Rephy
 ----0045----
 Yeah, let's go.
 
@@ -245,9 +244,9 @@ We'll go to that refuge
 over there 
 
 ~---------------------------------------
-Levi
+Rephy
 ----0047----
-Be careful
+Be careful.
 
 ~---------------------------------------
 Glen
@@ -256,167 +255,167 @@ I'll report to Instructor Valerie.
 You are dismissed.
 
 ~-------------------------------
-Levi
+Rephy
 ----0049----
 Yeah.
-Also have to report the Diviner…
+Oh yes, let's report the Oracle.#
 
 ~-------------------------------
-Diviner
+Oracle
 ----0050----
 Good work. I don't even need
-to listen how it went
+to listen the report.
 
 ~---------------------------------------
-Levi
+Rephy
 ----0051----
-Yeah
+I see.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0052----
-That said, your divination is sure
-something, almost everything was right
+That said, your visions are sure
+something. It was just as you said.
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0053----
-Fufu, thanks for you complements
+Fufu, thanks for you complements.
 
 ~---------------------------------------
-Levi
+Rephy
 ----0054----
-I don't really gave it much
-credit to divination…
+I don't really gave it much credit to
+divination.#
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0055----
 A little more interested now?
 
 ~---------------------------------------
-Levi
+Rephy
 ----0056----
-That's right…
-Seems useful for Ferxia hunting $e3
+That's right.# Seems useful for Felicia
+hunting $e3
 ~---------------------------------------
-Levi
+Rephy
 ----0057----
-Please tell if
-something happens again
+Let me know if when something happens
+again.
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0058----
-Fufu…, i could do some 
-divination right now…
+Fufu.#, i could do predict something else
+ right now.#
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0059----
-For you that's it…
+Something like.#Your destiny
 
 ~---------------------------------------
-Levi
+Rephy
 ----0060----
 （So it comes to that?）
 
 ~---------------------------------------
-Levi
+Rephy
 ----0061----
-I'll pass
+I'll pass.
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0062----
-I see, a pity…
+I see, a pity.#
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0063----
-Come again when you feel like
+Come again anytime you like.
 
 ~---------------------------------------
-Levi
+Rephy
 ----0064----
-Say, that divining…
-Can i do it too?
+Say, that prediction thing.# Could i do
+it too?
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0065----
 Oh, interested?
 
 ~---------------------------------------
-Levi
+Rephy
 ----0066----
-Well, you detected the Ferxia
-before than the barrier, didn't you?
+Well, you detected the Felicia faster
+than the barrier, didn't you?
 
 ~---------------------------------------
-Levi
+Rephy
 ----0067----
-If i could just do that…
+If i could just do that.#
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0068----
-…I am sorry, but i can't teach 
-it to you as you are now
+.#I am sorry, but i can't teach  it to
+you as you are now
 
 ~---------------------------------------
-Levi
+Rephy
 ----0069----
 Say what?
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0070----
 Right now, you are not looking around
-you. You just won't see anything…
+you. You just won't see anything.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0071----
-……
+.#.#
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0072----
-But it makes me happy 
-you are interested
+But it makes me happy you are interested.
 
 ~---------------------------------------
-Levi
+Rephy
 ----0073----
-……
+.#.#
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0074----
-Anger, sadness, worry…
-All that cloud your Pupils…
+Anger, sadness, worry.# All that clouds
+your eyes.#
 
 ~---------------------------------------
-Levi
+Rephy
 ----0075----
 !?
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0076----
-Fufu…, Don't forget that sparkle in your Eyes
+Fufu.#, Don't forget that sparkle in
+your Eyes.
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0077----
-Pay more attention to others,
-it should open your Eyes…
+Pay more attention to others, it should
+open your Eyes.#
 
 ~---------------------------------------
-Diviner
+Oracle
 ----0078----
-If something happens. Please
-come here for advice
+If something happens. Please come here
+for advice
 
 ~---------------------------------------
