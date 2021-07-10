@@ -1,361 +1,901 @@
 180 txtform 096
 
-Common Sword. Strike enemies$nwith brute force. Non Elemental.
-
-Sword focused on precision rather $nthan power. Non Elemental.
-
-Sword with extreme precision.$nNon Elemental.
-
-Sword with a guard protecting the$nholding hand. Non Elemental.
-
-A sword that sees through the heart.$nNon Elemental.
-
-Sword Forged with various$nmetals. Non Elemental
-
-Single Edge Colossal Sword.$nNon Elemental.
-
-Enhanced Version of Judgment.$nNon Elemental
-
-Sword made from crystals.$nSilver Element.
-
-Sword with a blue gem in the hilt.$nSilver Element.
-
-Sword with a lion's might.$nSilver Element.
-
-Sword that can split the skies$nin two. Silver Element.
-
-Sword with Aura Lur's blessing.$nSilver Element.
-
-Common Spear.Pierce through$n2 enemies in row. Fire Element.
-
-Spear specialized in thrusting.$nFire Element.
-
-Spear marked by bloodbath.$nDark Element.
-
-Spear with a tip forked in$nthree. Fire Element.
-
-Deep crimson spear.$nFire Element.
-
-Spear with demon like power.$nFire Element.
-
-Spear with a lighting fast$nthrust. Wind Element.
-
-A spear spouting fiery flames.$nFire Element.
-
-Å|$nPierce through2 enemies.
-
-Å|$nPierce through 2 enemies.
-
-Dagger specialized in piercing$nrather than cutting. Wind Element
-
-Dagger for delivering high speed$nattacks. Wind Element.
-
-Throwing with a extremely sharp$ntip. Wind Element.
-
-Dagger used for parrying attacks.$nWind Element.
-
-Special dagger for hidden$nattacks. Wind Element.
-
-Dagger imbued with fiery flames.$nFire Element.
-
-This dagger hits it's target in$nan instant. Wind Element.
-
-Dagger blessing by the Wind God.$nWind Element.
-
-A dagger for a relentless avenger.$nDark Element.
-
-This dagger it's the very embodiment of$nthe Wind. Wind Element.
-
-Å|$nCan attack distant enemies.
-
-Å|$nCan attack distant enemies.
-
-Å|$nCan attack distant enemies.
-
-Light, easy to handle Shield.$nNature Element.
-
-A shield with spikes on the front.$nNature Element.
-
-Shield make of special forged Steel.$nNature Element.
-
-Completely protects the one behind. $nNature Element.
-
-Large shield used by Knights.$nNature Element.
-
-Shield hard as a Golem.$nNature Element.
-
-Impenetrable shield that protects$nthe royal family. Nature Element.
-
-Shield made from a millenary turtle's$nshell. Water Element.
-
-Shield protected by holy light.$nLight Element.
-
-Shield perfected by Alchemy.$nNature Element.
-
-A shield that has surpassed countless$ntrials. Nature Element.
-
-Shield that repels all evil.$nNature Element.
-
-Shield blessed by the very earth.$nNature Element.
-
-Tablet with ancient glyph engraved.$nDark Element.
-
-Codex containing a secret Witch Ritual.$nDark Element.
-
-Codex recording the Angel's Miracles.$nDark Element.
-
-Tablet engraved with the Archmages's wisdom.$nDark Element.
-
-Codex with a forbidden ritual of the death.$nWind Element.
-
-Tablet engraved with a Sage's wisdom.$nDark Element.
-
-Codex with power of the World Cleansing $nFlame. Fire Element.
-
-Tablet with the taboo words of $na mad Prophet. Dark Element.
-
-Ancient Tablet with the power$nof Destruction. Dark Element.
-
-Codex recording both past and future.$nDark Element.
-
-Å|$nReleases magic in the pointed direction.
-
-Å|$nReleases magic in the pointed direction.
-
-Å|$nReleases magic in the pointed direction.
-
-Flute made from a seashell.$nWater Element.
-
-Flute that emits clear sounds.$nWater Element.
-
-Flute with the Light's blessing.$nLight Element.
-
-Produces a beautiful melody with $ncolorful tunes. Water Element.
-
-Flute that makes you want to dance. $nWater Element.
-
-Flute made from a millenary tree.$nNature Element.
-
-This flute imitates the sound of $nthe waves. Water Element.
-
-This flute creates a magic echo.$nWater Element.
-
-Makes you feel peaceful as$nthe serene skies. Water Element.
-
-Creates a solemn melody.$nWater Element.
-
-It's seven tunes paint a rainbow$nin you heart. Water Element.
-
-It's said to posses the golden tune.$nWater Element.
-
-Resounds with an angelic melody.$nWater Element.
-
-Common Twin Swords.$nDark Element.
-
-Twin Swords light as the Wind.$nWind Element.
-
-Twin Sword resembling giant needles.$nDark Element.
-
-Twin Swords with a rose decorated hilt.$nDark Element.
-
-These swords acquired a dark shine$nafter countless battles. Dark Element.
-
-Twin Swords that uphold justice.$nDark Element.
-
-An eastern warrior's beloved swords. $nDark Element.
-
-A pair of beautiful refined swords.$nDark Element.
-
-Swords representing a Knight's pride and $nsoul. Dark Element.
-
-Swords imbued with the fire's beautiful.$nFire Element.
-
-These swords will lead you to the Darkness.$nDark Element.
-
-Swords of justice for those in the$npeak of Knighthood. Dark Element.
-
-These swords harboring the goddess's power$ncan protect everything. Dark Element.
-
-Common leather made whip.$nLight Element.
-
-Whip covered with spikes.$nLight Element.
-
-Whip made with a royal family$nrecipe. Light Element.
-
-This improved whip makes a $nloud sound. Light Element.
-
-A remarkably hard whip.$nNature Element.
-
-Whip refined by countless$nexperiences. Light Element.
-
-Whip encrusted with diamonds.$nLight Element.
-
-Whip radiating pristine light. $nLight Element.
-
-Whip used by the Sea God's$npriestess. Water Element.
-
-Pulverizes everything it $ncatches. Light Element.
-
-Prestigious whip fitting a$ntrue ruler Light Element.
-
-Whip of the nine-tailed fox that$nruled the world.Light Element.
-
-Å|$nAttack from afar.
-
-Common Bow.$nWind Element.
-
-Beautiful bow resembling$na Cygnus. Wind Element.
-
-Imbues arrows with the power$nof fire. Fire Element.
-
-Imbues arrows with the power$nof Darkness. Dark Element.
-
-Easy to handle bow. Light as$na feather. Wind Element.
-
-Bow boasting a high accuracy.$nWind Element.
-
-Highly accurate bow crafted by$nthe Fairies. Wind Element.
-
-Pure bow that drives evil away.$nWind Element.
-
-Arrows shoot form this bow dance$nlike the wind. Wind Element.
-
-A bow that can pierce through the$nheavens. Wind Element. 
-
-Å|$nUse to shoot arrows.
-
-Å|$nUse to shoot arrows.
-
-Å|$nUse to shoot arrows.
-
-Turnip shaped magical bomb.$nNature Element.
-
-Garlic shaped magical bomb.$nNature Element.
-
-Bomb made by fusing mana and$nand water together. Water Element.
-
-Bomb made of crystallized$nsunlight. Light Element.
-
-Bomb filled with Mandra's Powder.$nNature Element.
-
-Dreadful large magical bomb. $nNature Element.
-
-This large magic bomb is packed$nwitch pain and agony. Nature Element.
-
-Magical bomb filled with pellets.$nNature Element.
-
-Large magical bomb created with$nthe witches's wisdom. Nature Element.
-
-Magical bomb overflowing with power.$nNature Element.
-
-Bomb containing all of it's creator's$npower. Nature Element.
-
-Å|$nExplosive bomb.
-
-Å|$nExplosive bomb.
-
-Scroll with the secret of$nlongevity. Water Element.
-
-Scroll used for divination.$nWater Element.
-
-Scroll containing deep secrets.$nWater Element.
-
-Heaven's will is recorded here.$nWater Element.
-
-Scroll radiating powerful light.$nLight Element.
-
-Narrates the legend of the four$ndeities. Water Element.
-
-The origin of all things is recorded$nhere. Water Element.
-
-Å|$nStrike foes side by side.
-
-Å|$nStrike foes side by side.
-
-Å|$nStrike foes side by side.
-
-Å|$nStrike foes side by side.
-
-Å|$nStrike foes side by side.
-
-Å|$nStrike foes side by side.
-
-It's sound makes the fire$ndance. Fire Element.
-
-It's dark power devours all$nlight. Dark Element.
-
-Harness the burning power of $nthe sun. Fire Element.
-
-Harp harboring the power of$nthe wind. Wind Element.
-
-Has the power to control the$nfire of the soul. Fire Element.
-
-It's dreadful power leaves$nnothing behind. Fire Element.
-
-Plays to voice of the stars$nint he firmament. Fire Element.
-
-Å|$nAttacks with sound.
-
-Å|$nAttacks with sound.
-
-Å|$nAttacks with sound.
-
-Å|$nAttacks with sound.
-
-Å|$nAttacks with sound.
-
-Å|$nAttacks with sound.
-
-Spear red as blood used for destroying$nwitches. Light Element.
-
-Lance created only for the sake$nof victory. Light Element.
-
-Å|$nAttacks 2 enemies in row.
-
-Lance with Aura Lur's light$nsealed inside. Light Element.
-
-Å|$nAttacks 2 enemies in row.
-
-Scythe used for reaping souls.$n 
-
-Å|$n ÅB
-
-Easy to handle rapier specialized $nfor attacking.
-
-Common one handed sword.$nIt's pointless to use both hands.
-
-Common rod.$nUse magic with it.
-
-Common axe.$n 
-
-Althea's rod. Powered$nby the Purifying Flame.
-
-Fatima's whip. Can turn anything$nit touches in dust.
-
-Dia's cane. Guides with$nradiant light.
-
-Luna Luna's fan. Don't look down$nthe threat of a wet skin. 
-
-Sadie's Trumpet. It's sound calls$nfrom a rainbow.
-
-Potpourri's Hammer. Devastating$nhammer of wrath.
-
-Å|$nÅ°
-
-Å|$nÅ°
-
-Å|$nÅ°
-
-Å|$nÅ°
-
-Å|$nÅ°
-
-Å|$nÅ°
-
-Å|$nÅ°
-
-Å|$nÅ°
-
-Å|$nÅ°
-
-Å|$nÅ°
+----0001----
+Common Sword. Strike enemies
+with brute force. Non Elemental.
+~---------------------------------------
+
+----0002----
+Sword focused on precision rather 
+than power. Non Elemental.
+~---------------------------------------
+
+----0003----
+Sword with extreme precision.
+Non Elemental.
+~---------------------------------------
+
+----0004----
+Sword with a guard protecting the
+holding hand. Non Elemental.
+~---------------------------------------
+
+----0005----
+A sword that sees through the heart.
+Non Elemental.
+~---------------------------------------
+
+----0006----
+Sword Forged with various
+metals. Non Elemental
+~---------------------------------------
+
+----0007----
+Single Edge Colossal Sword.
+Non Elemental.
+~---------------------------------------
+
+----0008----
+Enhanced Version of Judgment.
+Non Elemental
+~---------------------------------------
+
+----0009----
+Sword made from crystals.
+Silver Element.
+~---------------------------------------
+
+----0010----
+Sword with a blue gem in the hilt.
+Silver Element.
+~---------------------------------------
+
+----0011----
+Sword with a lion's might.
+Silver Element.
+~---------------------------------------
+
+----0012----
+Sword that can split the skies
+in two. Silver Element.
+~---------------------------------------
+
+----0013----
+Sword with Aura Lur's blessing.
+Silver Element.
+~---------------------------------------
+
+----0014----
+Common Spear.Pierce through
+2 enemies in row. Fire Element.
+~---------------------------------------
+
+----0015----
+Spear specialized in thrusting.
+Fire Element.
+~---------------------------------------
+
+----0016----
+Spear marked by bloodbath.
+Dark Element.
+~---------------------------------------
+
+----0017----
+Spear with a tip forked in
+three. Fire Element.
+~---------------------------------------
+
+----0018----
+Deep crimson spear.
+Fire Element.
+~---------------------------------------
+
+----0019----
+Spear with demon like power.
+Fire Element.
+~---------------------------------------
+
+----0020----
+Spear with a lighting fast
+thrust. Wind Element.
+~---------------------------------------
+
+----0021----
+A spear spouting fiery flames.
+Fire Element.
+~---------------------------------------
+
+----0022----
+Å|
+Pierce through2 enemies.
+~---------------------------------------
+
+----0023----
+Å|
+Pierce through 2 enemies.
+~---------------------------------------
+
+----0024----
+Dagger specialized in piercing
+rather than cutting. Wind Element
+~---------------------------------------
+
+----0025----
+Dagger for delivering high speed
+attacks. Wind Element.
+~---------------------------------------
+
+----0026----
+Throwing with a extremely sharp
+tip. Wind Element.
+~---------------------------------------
+
+----0027----
+Dagger used for parrying attacks.
+Wind Element.
+~---------------------------------------
+
+----0028----
+Special dagger for hidden
+attacks. Wind Element.
+~---------------------------------------
+
+----0029----
+Dagger imbued with fiery flames.
+Fire Element.
+~---------------------------------------
+
+----0030----
+This dagger hits it's target in
+an instant. Wind Element.
+~---------------------------------------
+
+----0031----
+Dagger blessing by the Wind God.
+Wind Element.
+~---------------------------------------
+
+----0032----
+A dagger for a relentless avenger.
+Dark Element.
+~---------------------------------------
+
+----0033----
+This dagger it's the very embodiment of
+the Wind. Wind Element.
+~---------------------------------------
+
+----0034----
+Å|
+Can attack distant enemies.
+~---------------------------------------
+
+----0035----
+Å|
+Can attack distant enemies.
+~---------------------------------------
+
+----0036----
+Å|
+Can attack distant enemies.
+~---------------------------------------
+
+----0037----
+Light, easy to handle Shield.
+Nature Element.
+~---------------------------------------
+
+----0038----
+A shield with spikes on the front.
+Nature Element.
+~---------------------------------------
+
+----0039----
+Shield make of special forged Steel.
+Nature Element.
+~---------------------------------------
+
+----0040----
+Completely protects the one behind. 
+Nature Element.
+~---------------------------------------
+
+----0041----
+Large shield used by Knights.
+Nature Element.
+~---------------------------------------
+
+----0042----
+Shield hard as a Golem.
+Nature Element.
+~---------------------------------------
+
+----0043----
+Impenetrable shield that protects
+the royal family. Nature Element.
+~---------------------------------------
+
+----0044----
+Shield made from a millenary turtle's
+shell. Water Element.
+~---------------------------------------
+
+----0045----
+Shield protected by holy light.
+Light Element.
+~---------------------------------------
+
+----0046----
+Shield perfected by Alchemy.
+Nature Element.
+~---------------------------------------
+
+----0047----
+A shield that has surpassed countless
+trials. Nature Element.
+~---------------------------------------
+
+----0048----
+Shield that repels all evil.
+Nature Element.
+~---------------------------------------
+
+----0049----
+Shield blessed by the very earth.
+Nature Element.
+~---------------------------------------
+
+----0050----
+Tablet with ancient glyph engraved.
+Dark Element.
+~---------------------------------------
+
+----0051----
+Codex containing a secret Witch Ritual.
+Dark Element.
+~---------------------------------------
+
+----0052----
+Codex recording the Angel's Miracles.
+Dark Element.
+~---------------------------------------
+
+----0053----
+Tablet imbued with the Archmages's
+wisdom. Dark Element.
+~---------------------------------------
+
+----0054----
+Codex with a forbidden ritual of the
+death. Wind Element.
+~---------------------------------------
+
+----0055----
+Tablet engraved with a Sage's wisdom.
+Dark Element.
+~---------------------------------------
+
+----0056----
+Codex with power of the World Cleansing 
+Flame. Fire Element.
+~---------------------------------------
+
+----0057----
+Tablet with the taboo words of 
+a mad Prophet. Dark Element.
+~---------------------------------------
+
+----0058----
+Ancient Tablet with the power
+of Destruction. Dark Element.
+~---------------------------------------
+
+----0059----
+Codex recording both past and future.
+Dark Element.
+~---------------------------------------
+
+----0060----
+Å|
+Releases magic in the pointed direction.
+~---------------------------------------
+
+----0061----
+Å|
+Releases magic in the pointed direction.
+~---------------------------------------
+
+----0062----
+Å|
+Releases magic in the pointed direction.
+~---------------------------------------
+
+----0063----
+Flute made from a seashell.
+Water Element.
+~---------------------------------------
+
+----0064----
+Flute that emits clear sounds.
+Water Element.
+~---------------------------------------
+
+----0065----
+Flute with the Light's blessing.
+Light Element.
+~---------------------------------------
+
+----0066----
+Produces a beautiful melody with 
+colorful tunes. Water Element.
+~---------------------------------------
+
+----0067----
+Flute that makes you want to dance. 
+Water Element.
+~---------------------------------------
+
+----0068----
+Flute made from a millenary tree.
+Nature Element.
+~---------------------------------------
+
+----0069----
+This flute imitates the sound of 
+the waves. Water Element.
+~---------------------------------------
+
+----0070----
+This flute creates a magic echo.
+Water Element.
+~---------------------------------------
+
+----0071----
+Makes you feel peaceful as
+the serene skies. Water Element.
+~---------------------------------------
+
+----0072----
+Creates a solemn melody.
+Water Element.
+~---------------------------------------
+
+----0073----
+It's seven tunes paint a rainbow
+in you heart. Water Element.
+~---------------------------------------
+
+----0074----
+It's said to posses the golden tune.
+Water Element.
+~---------------------------------------
+
+----0075----
+Resounds with an angelic melody.
+Water Element.
+~---------------------------------------
+
+----0076----
+Common Twin Swords.
+Dark Element.
+~---------------------------------------
+
+----0077----
+Twin Swords light as the Wind.
+Wind Element.
+~---------------------------------------
+
+----0078----
+Twin Sword resembling giant needles.
+Dark Element.
+~---------------------------------------
+
+----0079----
+Twin Swords with a rose decorated hilt.
+Dark Element.
+~---------------------------------------
+
+----0080----
+These swords acquired a dark shine
+after countless battles. Dark Element.
+~---------------------------------------
+
+----0081----
+Twin Swords that uphold justice.
+Dark Element.
+~---------------------------------------
+
+----0082----
+An eastern warrior's beloved swords. 
+Dark Element.
+~---------------------------------------
+
+----0083----
+A pair of beautiful refined swords.
+Dark Element.
+~---------------------------------------
+
+----0084----
+Swords representing a Knight's pride and 
+soul. Dark Element.
+~---------------------------------------
+
+----0085----
+Swords imbued with the fire's beautiful.
+Fire Element.
+~---------------------------------------
+
+----0086----
+These swords will lead you to the
+Darkness. Dark Element.
+~---------------------------------------
+
+----0087----
+Swords of justice for those in the
+peak of Knighthood. Dark Element.
+~---------------------------------------
+
+----0088----
+These swords blessed by the goddess
+can protect everything. Dark Element.
+~---------------------------------------
+
+----0089----
+Common leather made whip.
+Light Element.
+~---------------------------------------
+
+----0090----
+Whip covered with spikes.
+Light Element.
+~---------------------------------------
+
+----0091----
+Whip made with a royal family
+recipe. Light Element.
+~---------------------------------------
+
+----0092----
+This improved whip makes a 
+loud sound. Light Element.
+~---------------------------------------
+
+----0093----
+A remarkably hard whip.
+Nature Element.
+~---------------------------------------
+
+----0094----
+Whip refined by countless
+experiences. Light Element.
+~---------------------------------------
+
+----0095----
+Whip encrusted with diamonds.
+Light Element.
+~---------------------------------------
+
+----0096----
+Whip radiating pristine light. 
+Light Element.
+~---------------------------------------
+
+----0097----
+Whip used by the Sea God's
+priestess. Water Element.
+~---------------------------------------
+
+----0098----
+Pulverizes everything it 
+catches. Light Element.
+~---------------------------------------
+
+----0099----
+Prestigious whip fitting a
+true ruler Light Element.
+~---------------------------------------
+
+----0100----
+Whip of the nine-tailed fox that
+ruled the world.Light Element.
+~---------------------------------------
+
+----0101----
+Å|
+Attack from afar.
+~---------------------------------------
+
+----0102----
+Common Bow.
+Wind Element.
+~---------------------------------------
+
+----0103----
+Beautiful bow resembling
+a Cygnus. Wind Element.
+~---------------------------------------
+
+----0104----
+Imbues arrows with the power
+of fire. Fire Element.
+~---------------------------------------
+
+----0105----
+Imbues arrows with the power
+of Darkness. Dark Element.
+~---------------------------------------
+
+----0106----
+Easy to handle bow. Light as
+a feather. Wind Element.
+~---------------------------------------
+
+----0107----
+Bow boasting a high accuracy.
+Wind Element.
+~---------------------------------------
+
+----0108----
+Highly accurate bow crafted by
+the Fairies. Wind Element.
+~---------------------------------------
+
+----0109----
+Pure bow that drives evil away.
+Wind Element.
+~---------------------------------------
+
+----0110----
+Arrows shoot form this bow dance
+like the wind. Wind Element.
+~---------------------------------------
+
+----0111----
+A bow that can pierce through the
+heavens. Wind Element. 
+~---------------------------------------
+
+----0112----
+Å|
+Use to shoot arrows.
+~---------------------------------------
+
+----0113----
+Å|
+Use to shoot arrows.
+~---------------------------------------
+
+----0114----
+Å|
+Use to shoot arrows.
+~---------------------------------------
+
+----0115----
+Turnip shaped magical bomb.
+Nature Element.
+~---------------------------------------
+
+----0116----
+Garlic shaped magical bomb.
+Nature Element.
+~---------------------------------------
+
+----0117----
+Bomb made by fusing mana and
+and water together. Water Element.
+~---------------------------------------
+
+----0118----
+Bomb made of crystallized
+sunlight. Light Element.
+~---------------------------------------
+
+----0119----
+Bomb filled with Mandra's Powder.
+Nature Element.
+~---------------------------------------
+
+----0120----
+Dreadful large magical bomb. 
+Nature Element.
+~---------------------------------------
+
+----0121----
+This large magic bomb is packed
+witch pain and agony. Nature Element.
+~---------------------------------------
+
+----0122----
+Magical bomb filled with pellets.
+Nature Element.
+~---------------------------------------
+
+----0123----
+Large magical bomb created with
+the witches's wisdom. Nature Element.
+~---------------------------------------
+
+----0124----
+Magical bomb overflowing with power.
+Nature Element.
+~---------------------------------------
+
+----0125----
+Bomb containing all of it's creator's
+power. Nature Element.
+~---------------------------------------
+
+----0126----
+Å|
+Explosive bomb.
+~---------------------------------------
+
+----0127----
+Å|
+Explosive bomb.
+~---------------------------------------
+
+----0128----
+Scroll with the secret of
+longevity. Water Element.
+~---------------------------------------
+
+----0129----
+Scroll used for divination.
+Water Element.
+~---------------------------------------
+
+----0130----
+Scroll containing deep secrets.
+Water Element.
+~---------------------------------------
+
+----0131----
+Heaven's will is recorded here.
+Water Element.
+~---------------------------------------
+
+----0132----
+Scroll radiating powerful light.
+Light Element.
+~---------------------------------------
+
+----0133----
+Narrates the legend of the four
+deities. Water Element.
+~---------------------------------------
+
+----0134----
+The origin of all things is recorded
+here. Water Element.
+~---------------------------------------
+
+----0135----
+Å|
+Strike foes side by side.
+~---------------------------------------
+
+----0136----
+Å|
+Strike foes side by side.
+~---------------------------------------
+
+----0137----
+Å|
+Strike foes side by side.
+~---------------------------------------
+
+----0138----
+Å|
+Strike foes side by side.
+~---------------------------------------
+
+----0139----
+Å|
+Strike foes side by side.
+~---------------------------------------
+
+----0140----
+Å|
+Strike foes side by side.
+~---------------------------------------
+
+----0141----
+It's sound makes the fire
+dance. Fire Element.
+~---------------------------------------
+
+----0142----
+It's dark power devours all
+light. Dark Element.
+~---------------------------------------
+
+----0143----
+Harness the burning power of 
+the sun. Fire Element.
+~---------------------------------------
+
+----0144----
+Harp harboring the power of
+the wind. Wind Element.
+~---------------------------------------
+
+----0145----
+Has the power to control the
+fire of the soul. Fire Element.
+~---------------------------------------
+
+----0146----
+It's dreadful power leaves
+nothing behind. Fire Element.
+~---------------------------------------
+
+----0147----
+Plays to voice of the stars
+int he firmament. Fire Element.
+~---------------------------------------
+
+----0148----
+Å|
+Attacks with sound.
+~---------------------------------------
+
+----0149----
+Å|
+Attacks with sound.
+~---------------------------------------
+
+----0150----
+Å|
+Attacks with sound.
+~---------------------------------------
+
+----0151----
+Å|
+Attacks with sound.
+~---------------------------------------
+
+----0152----
+Å|
+Attacks with sound.
+~---------------------------------------
+
+----0153----
+Å|
+Attacks with sound.
+~---------------------------------------
+
+----0154----
+Spear red as blood used for destroying
+witches. Light Element.
+~---------------------------------------
+
+----0155----
+Lance created only for the sake
+of victory. Light Element.
+~---------------------------------------
+
+----0156----
+Å|
+Attacks 2 enemies in row.
+~---------------------------------------
+
+----0157----
+Lance with Aura Lur's light
+sealed inside. Light Element.
+~---------------------------------------
+
+----0158----
+Å|
+Attacks 2 enemies in row.
+~---------------------------------------
+
+----0159----
+Scythe used for reaping souls.
+ 
+~---------------------------------------
+
+----0160----
+Å|
+ ÅB
+~---------------------------------------
+
+----0161----
+Easy to handle rapier specialized 
+for attacking.
+~---------------------------------------
+
+----0162----
+Common one handed sword.
+It's pointless to use both hands.
+~---------------------------------------
+
+----0163----
+Common rod.
+Use magic with it.
+~---------------------------------------
+
+----0164----
+Common axe.
+ 
+~---------------------------------------
+
+----0165----
+Althea's rod. Powered
+by the Purifying Flame.
+~---------------------------------------
+
+----0166----
+Fatima's whip. Can turn anything
+it touches in dust.
+~---------------------------------------
+
+----0167----
+Dia's cane. Guides with
+radiant light.
+~---------------------------------------
+
+----0168----
+Luna Luna's fan. Don't look down
+the threat of a wet skin. 
+~---------------------------------------
+
+----0169----
+Sadie's Trumpet. It's sound calls
+from a rainbow.
+~---------------------------------------
+
+----0170----
+Potpourri's Hammer. Devastating
+hammer of wrath.
+~---------------------------------------
+
+----0171----
+Å|
+Å°
+~---------------------------------------
+
+----0172----
+Å|
+Å°
+~---------------------------------------
+
+----0173----
+Å|
+Å°
+~---------------------------------------
+
+----0174----
+Å|
+Å°
+~---------------------------------------
+
+----0175----
+Å|
+Å°
+~---------------------------------------
+
+----0176----
+Å|
+Å°
+~---------------------------------------
+
+----0177----
+Å|
+Å°
+~---------------------------------------
+
+----0178----
+Å|
+Å°
+~---------------------------------------
+
+----0179----
+Å|
+Å°
+~---------------------------------------
+
+----0180----
+Å|
+Å°
+~---------------------------------------

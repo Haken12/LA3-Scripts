@@ -551,7 +551,7 @@ Buoyant
 Stone Wall
 Cursed Dagger
 Healer
-Soul of Destruction
+Soul of Chaos
 Healing Aura
 Charity Aura
 Vitality Aura

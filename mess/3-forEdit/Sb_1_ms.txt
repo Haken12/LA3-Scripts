@@ -156,8 +156,8 @@ to absorb impacts better.
 ~---------------------------------------
 
 ----0032----
-This hat adorned with cat ears isn't just
-cute but also useful.
+This hat adorned with cat ears isn't 
+just cute but also useful.
 ~---------------------------------------
 
 ----0033----
@@ -176,8 +176,8 @@ High defense against physical attacks.
 ~---------------------------------------
 
 ----0036----
-Comfortable hat painted with seven colors.
- 
+Comfortable hat painted with seven
+colors. 
 ~---------------------------------------
 
 ----0037----
@@ -261,8 +261,8 @@ just cute but also useful.
 ~---------------------------------------
 
 ----0053----
-Hood made from different threads. Raises
-stamina to help movement.
+Hood made from different threads.
+Raises stamina to help movement.
 ~---------------------------------------
 
 ----0054----

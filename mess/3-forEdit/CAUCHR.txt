@@ -1,37 +1,147 @@
 018 txtform 400
 
-You can now choose characters.$nSelect the battle members.$p
+----0001----
+You can now choose characters.
+Select the battle members.
 
-This game's turn order is decided by$nthe Action Order(A0) in the upper screen.$pA turn will start when a Face Panel$nreaches the left side of AO.$p
+~---------------------------------------
 
-There is an -Exit- panel in this map.$pWhen an ally reaches the -Exit- panel$nthe victory condition will be fulfilled.$pMove you allies with care.$p
+----0002----
+This game's turn order is decided by
+the Action Order(A0) in the upper screen.
+A turn will start when a Face Panel
+reaches the left side of AO.
 
-A -Barrel- exist in this map.$nBarrels can block a character advance.$pBarrels can be broken with attacks, so$nfeel free to break them if they get$pin your way.$n$p
+~---------------------------------------
 
-A -Treasure Chest- is present on this map.$nBy braking them with attacks you can obtain$pit's contains. Enemies will try to break$nthem so be careful.$p
+----0003----
+There is an -Exit- panel in this map.$p
+When an ally reaches the -Exit- panel
+the victory condition will be fulfilled.
+Move you allies with care.
 
-A new command, -Unison- has been$nadded to Rephy. Use it when an $pally that has obtained a Zodiac $ncard is adjacent, however the height$pdifferent must be lower than 3.$nThis powerful attack can only be $pused once per character.$p
+~---------------------------------------
 
-This is a -Chain Battle-.$nThis battle will start from were$pthe previous one left. Characters will $nregain 1/3 off HP/MP and will retain$pDP from the previous fight, so make$nuse of them.$p
+----0004----
+A -Barrel- exist in this map.
+Barrels can block a character advance.
+Barrels can be broken with attacks, so
+feel free to break them if they get
+in your way.
 
-Some of the squares of this$pwill deal damage to characters$nwaiting above them.$p
 
-There are -Traps- in this map.$pTraps deal damage to characters$nwaiting above them. Traps will$pdisappear after triggering once. $p
+~---------------------------------------
 
-DP acquired.$nNow you can use DP.$pEnhance the power of skills$nand items effect by spending$pDP.$p
+----0005----
+A -Treasure Chest- is present on this map.
+By braking them with attacks you can obtain
+it's contains. Enemies will try to break
+them so be careful.
 
-Bonus Item, are Lapis acquired$nbased in MVP character.$pBonus Items you can acquire are$naffected by story progression.$pA Lapis effect is activated by$nequipping it to a character.$p
+~---------------------------------------
 
-Elle's movement type is -Floating-.$nShe can move not just in land but$pin the water surface as well.$nShe can move more freely in maps$pwith water.$p
+----0006----
+A new command, -Unison- has been
+added to Rephy. Use it when an 
+ally that has obtained a Zodiac 
+card is adjacent, however the height
+different must be lower than 3.
+This powerful attack can only be 
+used once per character.
 
-Shion's movement type -Flying-$nShe can move freely regardless of$pterrain. Also she won't be caught$nby traps.$p
+~---------------------------------------
 
-Aulmorde's movement type -Flying-$nShe can move freely regardless of$pterrain. Also she won't be caught$nby traps.ÅB$p
+----0007----
+This is a -Chain Battle-.
+This battle will start from were
+the previous one left. Characters will 
+regain 1/3 off HP/MP and will retain
+DP from the previous fight, so make
+use of them.
 
-You can equip Lapis acquired$pfrom the last battle in the $n-Equip- menu.$p
+~---------------------------------------
 
--FD- command can be used now$pBy consuming all DP a powerful$nattack can be used. Don't worry$pabout you allies as FD won't hit$nthem.$p
+----0008----
+Some of the squares of this$p
+will deal damage to characters
+waiting above them.
 
-Å°$p
+~---------------------------------------
 
-Å°$p
+----0009----
+There are -Traps- in this map.$p
+Traps deal damage to characters
+waiting above them. Traps will
+disappear after triggering once. 
+
+~---------------------------------------
+
+----0010----
+DP acquired.
+Now you can use DP.
+Enhance the power of skills
+and items effect by spending
+DP.
+
+~---------------------------------------
+
+----0011----
+Bonus Item, are Lapis acquired
+based in MVP character.
+Bonus Items you can acquire are
+affected by story progression.
+A Lapis effect is activated by
+equipping it to a character.
+
+~---------------------------------------
+
+----0012----
+Elle's movement type is -Buoyant-.
+She can move not just in land but
+in the water surface as well.
+She can move more freely in maps
+with water.
+
+~---------------------------------------
+
+----0013----
+Shion's movement type -Flying-
+She can move freely regardless of
+terrain. She also won't be caught
+by traps.
+
+~---------------------------------------
+
+----0014----
+Aulmorde's movement type -Flying-
+She can move freely regardless of
+terrain. She also won't be caught
+by traps.Å
+
+~---------------------------------------
+
+----0015----
+You can equip Lapis acquired$p
+from the last battle in the 
+-Equip- menu.
+
+~---------------------------------------
+
+----0016----
+-FD- command can be used now$p
+By consuming all DP a powerful
+attack can be used. Don't worry
+about you allies as FD won't hit
+them.
+
+~---------------------------------------
+
+----0017----
+Å°
+
+~---------------------------------------
+
+----0018----
+Å°
+
+~---------------------------------------
