@@ -2,37 +2,37 @@
 Attack with increased power and accuracy
 Raise you own attack power
 Slash a row of enemies before you
-Pierces enemies with ice needles
+Pierce enemies with ice needles
 Wide range 2-stage sword attack.
-Smashes enemy to the ground with the spear
+Smash the enemy to the ground with the spear
 Raises target's technique
-Pierces all enemies within range
-Creates a large flame pillar
+Pierce all enemies within range
+Create a large flame pillar
 Deliver a 2-stage attack in a straight line
 Deliver a focused strike
 Raises own speed
 Knife attack likely to poison the enemy
-Creates a violent tornado
+Create a violent tornado
 Inaccurate but likely to paralyze enemy
 Raises defense greatly until next turn
 Raises own and nearby allies defense
 Sends enemies flying with a strong attack
-Attacks with sharp wood lances
+Attack with sharp wood lances
 Inaccurate but wide 2-stage attack 
 Reduces target's defense and resistance
-Attacks one target with a mass of darkness
-Attacks an area with a sinister gas
+Attack one target with a mass of darkness
+Attack an area with a sinister gas
 Damages and steals one targets HP
 Crush a wide area with a mass of darkness
 Recovers target's HP
-Smashes a water pillar against the target
+Smash a water pillar against the target
 Recovers HP to targets in an area
 Reawaken the will to fight
 Devastate a wide area with sharp rain
-Attacks 2 enemies in row with twin swords
+Attack 2 enemies in row with twin swords
 Cures own and nearby allies ailments
 Unmissable long range attack
-Attacks an area with a sinister gas
+Attack an area with a sinister gas
 Deliver a devastating 2-stage attack
 Raises own and nearby allies defense
 Attack one target with arrows of light
@@ -42,72 +42,72 @@ Annihilate targets with a whip of light
 Removes status reductions in an area
 Slash the target with high-speed wind
 Recover HP and cure ailments in an area
-Pierces a straight line with an arrow
-Attacks a wide area with a fierce tornado
-Attacks one target with nature's force
-Recovers HP to targets in an area
+Pierce a straight line with an arrow
+Attack a wide area with a fierce tornado
+Attack one target with nature's force
+Recover HP to targets in an area
 Delays targets turn with bombing 
 Targets recover HP every turn
-Rumbles the earth with a giant blade
+Rumble the earth with a giant blade
 Fierce attack with the scroll
 Raises target's technique and speed
-Attacks a straight line with the scroll
-Attacks an area with a mass of water
+Attack a straight line with the scroll
+Attack an area with a mass of water
 Reawaken the will to fight
 Raises target's attack and defense
 Attack one target with a fire ball
-Steals HP with one touch 
-Scorches one area with hellfire
+Steal HP with one touch 
+Scorch one area with hellfire
 Attack a wide area with a giant explosion
 Powerful attack with the lance
-Sacrifices defense for attack
-Pierces a straight line the lance
+Sacrifice defense for attack
+Pierce a straight line the lance
 Attack with a rain of arrows of light
 Devastating 2-stage combo attack
 Attack with increased power and accuracy
-Sacrifices defense for attack
+Sacrifice defense for attack
 Slash a row of enemies before you
 Attack an area with a lightning strike
 Wide range 2-stage sword attack.
 Raises attack and technique in an area
-Crushes an area with a giant ice block
+Crush an area with a giant ice block
 Instant long range attack
 Raises own attack
 Attack an area with an explosion
 Slow the target down
 Attack an area with a giant explosion
-Creates a large flame pillar
-Drops a flame pillar from above
+Create a large flame pillar
+Drop a flame pillar from above
 Reduces target's attack
 Recovers target's HP
-Attacks an area with a mass of water
+Attack an area with a mass of water
 Raises technique in area but reduces speed
-Creates a block of ice from a water pillar
+Create a block of ice from a water pillar
 May paralyze the target
 Reduces target's technique
-Attacks with sharp wood lances
-Attacks with a giant branch
+Attack with sharp wood lances
+Attack with a giant branch
 Raises own technique
 Creates a violent tornado
-Attacks and area with a whirlwind
-Attacks one target with a light bullet
+Attack and area with a whirlwind
+Attack one target with a light bullet
 Attack with a rain of arrows of light
-Attacks with concentrated photons
+Attack with concentrated photons
 Reduces target's magical attack
-Crushes an area with a giant ice block
-Crushes an area with a giant ice block
+Crush an area with a giant ice block
+Crush an area with a giant ice block
 May confuse the target
 May paralyze the target
 May freeze the target
 Freezes the area in an instant
 May confuse targets in a straight line
 Draws the power of the planet itself
-Places an anti-physical barrier on itself
-Places an anti-magic barrier on itself
+Place an anti-physical barrier on itself
+Place an anti-magic barrier on itself
 Recovers a far away target's HP greatly
-Drops a bolt of lightning
-Attacks with sound waves
-Drops an explosive silver sword
+Drop a bolt of lightning
+Attack with sound waves
+Drop an explosive silver sword
 Å|
 Å|
 Å|
@@ -121,15 +121,15 @@ Drops an explosive silver sword
 Å|
 Focus nerves and raises attack power
 Deliver a powerful blow to the head
-Delivers a powerful single blow
-Delivers a powerful single blow
-Delivers a powerful single blow
+Deliver a powerful single blow
+Deliver a powerful single blow
+Deliver a powerful single blow
 Tear apart enemies in row 
 Sword technique with increased accuracy
 Powerful slash
 Deliver a powerful blow to the head
 Kopin's final weapon
-Stabs enemies on a straight line
+Stab enemies on a straight line
 Attack with all your weight behind
 Attack with all your weight behind
 Attack with all your weight behind
@@ -145,7 +145,7 @@ Stab with blinding speed
 Attack with a breath of sharp water
 Delay target' turn with a combo attack
 Reduces defense sometimes
-Delivers a powerful single blow
+Deliver a powerful single blow
 Legendary Golden Punch. May reduce defense
 Poison target with a touch
 High critical rate. Delay target's turn
@@ -161,10 +161,10 @@ Slash a row of enemies before you
 Tear apart the target with a scythe
 Powerful 3-stage attack
 Silences with sheer terror
-Delivers a powerful single blow
+Deliver a powerful single blow
 Delays target's turn with an arrow
 Highly accurate shoot
-Damages and drains target's HP
+Damage and drain target's HP
 Shoot a poisoned arrow
 Shoot a sedative arrow
 Inescapable long range attack
