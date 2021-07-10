@@ -1,33 +1,33 @@
 032 message 044
-地面が割れるほどの勢いで剣を振り下ろす
-槍に飛び乗り強烈なキックを放つ
-分身して同時にナイフを投げつける
-盾で相手を押しつぶした上に大爆発を起こす
-巨大な顔を召喚し爆発を起こす光線を放つ
-笛で水玉を作り出し相手の近くで破裂させる
-体を高速で回転させながら切り刻む
-素早い鞭さばきで徹底的に叩きのめす
-巨大な矢をはじけさせて相手に浴びせる
-カボチャを１個召喚し火を吐かせる
-気弾を作り出し相手にぶつける
-炎をまとって突撃し大爆発を起こす
-溜めた力を一気に解放し相手を貫く
-巨大化させた剣を全力で振り下ろす
-高速回転した鎌が相手を切り刻む
-圧倒的な出力の光線が全てを消し飛ばす
-華麗なレイピア捌きによる高速連続攻撃
+Ground shattering downward swing
+Fiery spear rush
+Create clones and attack
+Crush and create an explosion
+Shoot an energy beam from a giant skull 
+Create numerous water balls with the flute
+Slash enemies with a spinning slash
+Deliver a fast attack with the whip
+Shoot a giant arrow
+Summon a fire-throwing pumpkin
+Attack with spirit ball
+Explosive fire charge
+Unleash a concentrated thrust
+Bring down a colossal blade
+High-speed scythe swing
+Devastating light beam
+Flawless high-speed rapier combination
 －
 －
-相手を動けなくし大量の葉を降り注がせる
-天使の歌声は空間をも破壊する
-巨大な結晶を何度もぶつけ叩き潰す
-魔力の弾を連続で打ち出し辺りを爆砕する
-消える事なき白焔が全てを炎に誘う！
-果てる事なき氷影が全てを闇に誘う！
-消える事なき閃光が全てを光に誘う！
-尽きぬ事なき慈水が全てを水に誘う！
-止む事なき舞風が全てを風に誘う！
-枯れる事なき翠蘭が全てを木に誘う！
+Massive rain of leaves
+Space shattering angelic song
+Attack with giant ice crystals
+Attack continuously with magic bullets
+Never-fading white flames
+Eternal ice of darkness
+Everlasting ray of light
+Infinite water torrent
+Relentless wind gale 
+Undying green orchid
 －
 －
 －
