@@ -1,0 +1,659 @@
+0121 M 82BB82EA
+Hiyo
+----0001----
+Welcome.
+What can i do for you?
+
+~---------------------------------------
+Hiyo
+----0002----
+.#Ph.#Phil.#?
+
+~---------------------------------------
+Rephy
+----0003----
+Eh?Å@Who's Phil?!
+
+~---------------------------------------
+Hiyo
+----0004----
+I'am sorry.#
+Paul.#
+
+~---------------------------------------
+Rephy
+----0005----
+.#Wrong again!
+
+~---------------------------------------
+Hiyo
+----0006----
+Ugh.#sorry.
+I'm bad with names.
+
+~---------------------------------------
+Rephy
+----0007----
+Can you even remember the recipes.#
+
+~---------------------------------------
+Hiyo
+----0008----
+No problem!Å@Umike Stone, Naramyo beetle,
+i can remember them perfectly.
+
+~---------------------------------------
+Rephy
+----0009----
+So i'm lower than a bug.#
+
+~---------------------------------------
+Hiyo
+----0010----
+Please wait.#um.#
+I almost got it.#
+
+~---------------------------------------
+Rephy
+----0011----
+I'am waiting
+
+~---------------------------------------
+Hiyo
+----0012----
+.#.#
+
+~---------------------------------------
+Rephy
+----0013----
+Not yet?
+Eh?.#are you?.#
+
+~---------------------------------------
+Hiyo
+----0014----
+Zzzz.#
+
+~---------------------------------------
+Rephy
+----0015----
+Wake up!
+
+~---------------------------------------
+Hiyo
+----0016----
+.#So-sorry.#
+
+~---------------------------------------
+Hiyo
+----0017----
+I was researching until late yesterday,
+and didn't had enough sleep.#
+
+~---------------------------------------
+Rephy
+----0018----
+Didn't had enough sleep?,
+How long where you awake?
+
+~---------------------------------------
+Hiyo
+----0019----
+It was dark outside at the start.#, and
+when i finished it was bright outside.#
+
+~---------------------------------------
+Rephy
+----0020----
+Until morning?.#No wonder you're sleepy
+Doing research that long.#
+
+~---------------------------------------
+Hiyo
+----0021----
+Yes. I have much to learn for master to
+acknowledge me has a real alchemist
+
+~---------------------------------------
+Rephy
+----0022----
+You're doing good all by yourself
+
+~---------------------------------------
+Hiyo
+----0023----
+I'am not alone. There is Hina and
+right here is.#
+
+~---------------------------------------
+Hiyo
+----0024----
+Eh?Å@Where is.#!
+
+~-------------------------------
+Rephy
+----0025----
+Wh-what's it?
+
+~-------------------------------
+Hiyo
+----0026----
+Vi-Vivi is.#
+Vivi is nowhere.#!
+
+~---------------------------------------
+Rephy
+----0027----
+Vivi?
+
+~---------------------------------------
+Hiyo
+----0028----
+Aaa.#
+
+~---------------------------------------
+Hina
+----0029----
+Something wrong Hiyo?
+
+~---------------------------------------
+Hiyo
+----0030----
+Hina, i can't find Vivi.#
+
+
+~---------------------------------------
+Hina
+----0031----
+Calm down Hiyo, you'll find her.
+
+~---------------------------------------
+Rephy
+----0032----
+Hey.#
+What's wrong?
+
+~---------------------------------------
+Hina
+----0033----
+Hiyo can't find her pet bee
+
+
+~---------------------------------------
+Hiyo
+----0034----
+Vivi, where are you.#?
+
+~---------------------------------------
+Rephy
+----0035----
+Seems to be important to her.#$e3
+~---------------------------------------
+Rephy
+----0036----
+How does this Vivi looks like?
+
+~---------------------------------------
+Hiyo
+----0037----
+It's a bee
+
+~---------------------------------------
+Rephy
+----0038----
+Well, yeah.#
+.#Color?
+
+~---------------------------------------
+Hiyo
+----0039----
+Yellow
+
+~---------------------------------------
+Rephy
+----0040----
+I see.#
+.#Size?
+
+~---------------------------------------
+Hiyo
+----0041----
+Smaller than honeybees.
+
+~---------------------------------------
+Rephy
+----0042----
+That will be hard to find.#
+
+~---------------------------------------
+Hiyo
+----0043----
+I.#see.#
+
+~---------------------------------------
+Hiyo
+----0044----
+The master put her in my care.#
+Vivi.#
+
+~---------------------------------------
+Hiyo
+----0045----
+Sob.#sob.#
+Waaaah.#
+
+~---------------------------------------
+Hina
+----0046----
+Hiyo, don't cry!
+
+~---------------------------------------
+Hina
+----0047----
+Sorry Rephy
+
+~---------------------------------------
+Hina
+----0048----
+I'll take care of her
+Can you leave for today?
+
+~---------------------------------------
+Rephy
+----0049----
+Aa, i'll leave it to you Hina
+
+~---------------------------------------
+Rephy
+----0050----
+Hiyo, she's not here,
+let's look outside
+
+~---------------------------------------
+Hiyo
+----0051----
+Eh?
+
+~---------------------------------------
+Rephy
+----0052----
+I'll help find her
+Any special characteristic?
+
+~---------------------------------------
+Hiyo
+----0053----
+Vivi?
+She's smaller than normal bees,
+
+~---------------------------------------
+Hiyo
+----0054----
+She as shinny wings so you'll know 
+when she's close,
+
+~---------------------------------------
+Hiyo
+----0055----
+a-and she also loves honey.
+
+~---------------------------------------
+Rephy
+----0056----
+Got it, let's go.
+
+~---------------------------------------
+Hina
+----0057----
+You can go Hiyo.
+I'll look over the place
+
+~---------------------------------------
+Hiyo
+----0058----
+Thank you.#
+
+~---------------------------------------
+Hiyo
+----0059----
+And, where should we look first?
+
+~---------------------------------------
+Rephy
+----0060----
+Um.# from what you said.#$e3
+~---------------------------------------
+Rephy
+----0061----
+A place with much people would be good.#
+Let's try a classroom.
+
+~---------------------------------------
+Hiyo
+----0062----
+Vivi.#
+Where are you?
+
+~---------------------------------------
+Rephy
+----0063----
+Looks like no one has seen her.#
+
+~---------------------------------------
+Hiyo
+----0064----
+.#I see.#
+
+~---------------------------------------
+Rephy
+----0065----
+Is it that important?
+
+~---------------------------------------
+Hiyo
+----0066----
+She helps me with the alchemy,
+making and finding items.
+
+~---------------------------------------
+Rephy
+----0067----
+Like a trade's tool.
+
+~---------------------------------------
+Hiyo
+----0068----
+She's a normal alchemist bee but,
+i received her from the master
+
+~---------------------------------------
+Rephy
+----0069----
+Master?
+
+~---------------------------------------
+Hiyo
+----0070----
+Our father.
+
+~---------------------------------------
+Hiyo
+----0071----
+The master loves the sweets made from
+Vivi's honey
+
+~---------------------------------------
+Rephy
+----0072----
+I see.#
+
+~---------------------------------------
+Hiyo
+----0073----
+I place comes to my mind.
+I'll go by myself
+
+~---------------------------------------
+Rephy
+----0074----
+I've come this far.
+Want me to go with you?
+
+~---------------------------------------
+Hiyo
+----0075----
+It's fine. .#She might hide if sees an
+stranger
+
+~---------------------------------------
+Rephy
+----0076----
+I see.#i hope you find her
+
+~---------------------------------------
+Hiyo
+----0077----
+Thank you,.#Lulu.#
+
+~---------------------------------------
+Rephy
+----0078----
+.#It's Rephy!
+
+~---------------------------------------
+Rephy
+----0079----
+Could it be that she's attracted to
+the flowers in the courtyard?
+
+~---------------------------------------
+Hiyo
+----0080----
+!It's probable.#
+If we hurry.#
+
+~---------------------------------------
+Hiyo
+----0081----
+Vivi, where are you?.#
+
+~-------------------------------
+Hiyo
+----0082----
+.#Is that?
+
+~-------------------------------
+Hiyo
+----0083----
+Vivi!
+You were here!
+
+~-------------------------------
+Rephy
+----0084----
+Good for you, Hiyo
+
+~---------------------------------------
+Rephy
+----0085----
+Now we've found her, let's go back
+
+
+~---------------------------------------
+Hiyo
+----0086----
+Please wait!
+I want to thank you.#
+
+~---------------------------------------
+Hiyo
+----0087----
+Please come to the WorkshopÅI
+
+~---------------------------------------
+Hiyo
+----0088----
+As thanks for helping me find Vivi.#
+
+
+~---------------------------------------
+Hiyo
+----0089----
+I'll create an special item for you.#
+
+
+~---------------------------------------
+Rephy
+----0090----
+You look.#kinda.#different now Hiyo
+
+~---------------------------------------
+Hiyo
+----0091----
+Yes.# I'am now in Alchemy Mode
+
+~---------------------------------------
+Rephy
+----0092----
+.#.#
+
+~---------------------------------------
+Hiyo
+----0093----
+Wait a moment please.#
+
+~---------------------------------------
+Hiyo
+----0094----
+Tran TranÅ`
+
+~-------------------------------
+Hiyo
+----0095----
+Tah dahÅ`!
+
+~-------------------------------
+Hiyo
+----0096----
+Done!
+
+~-------------------------------
+Rephy
+----0097----
+What's with this shinny brown thing?.#
+
+
+~---------------------------------------
+Hiyo
+----0098----
+An special candy made by Vivi with
+alchemy.
+
+~---------------------------------------
+Rephy
+----0099----
+Amazing.#i fell the power.#
+
+~---------------------------------------
+Hiyo
+----0100----
+Eat that and you won't need to sleep
+in two days.
+
+~---------------------------------------
+Rephy
+----0101----
+How's that a good thing!
+
+~---------------------------------------
+Hiyo
+----0102----
+Is it not?
+We alchemists eat it all the time
+
+~---------------------------------------
+Hiyo
+----0103----
+Also, the master makes those candies
+very often
+
+~---------------------------------------
+Rephy
+----0104----
+Then, this candy is filled your memories
+with your master
+
+~---------------------------------------
+Hiyo
+----0105----
+Yes!
+
+~---------------------------------------
+Rephy
+----0106----
+All that searching made me hungry,
+let's have it
+
+~---------------------------------------
+Hiyo
+----0107----
+PLease enjoy it.#
+
+~---------------------------------------
+Rephy
+----0108----
+Oh, it's sweet and tasty
+
+~---------------------------------------
+Hiyo
+----0109----
+I'am glad you liked it
+
+~---------------------------------------
+Hiyo
+----0110----
+So you love sweets,
+just like the master.#
+
+~---------------------------------------
+Rephy
+----0111----
+Do we look alike?
+
+~---------------------------------------
+Hiyo
+----0112----
+Not at all
+
+~---------------------------------------
+Hiyo
+----0113----
+After all, he's my father and
+Phiphi is too young
+
+~---------------------------------------
+Rephy
+----0114----
+Who's Phiphi
+My name's Rephy
+
+~---------------------------------------
+Hiyo
+----0115----
+Sorry.
+I won't forget it again!
+
+~---------------------------------------
+Rephy
+----0116----
+So this master of yours,
+is your father and.#
+
+~---------------------------------------
+Rephy
+----0117----
+You learned alchemy from him
+
+~---------------------------------------
+Hiyo
+----0118----
+He's very strict and has great skills.
+
+
+~---------------------------------------
+Rephy
+----0119----
+I see. Well, don't go loosing Vivi again
+
+~---------------------------------------
+Hiyo
+----0120----
+You have been a great help today.
+Thank very much.
+
+~---------------------------------------
+Rephy
+----0121----
+You're welcome. Well, see you.
+
+~---------------------------------------
