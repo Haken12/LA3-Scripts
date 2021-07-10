@@ -1,81 +1,81 @@
 080 message 044
-両手剣を振り下ろし相手を斬りつける
-槍で前方２マスを突き刺す
-投げナイフを投げつける
-魔法の盾を作り出し相手にぶつける
-石版の力で離れた敵を攻撃
-杖で前方の相手に音波をぶつける
-２本の剣で正面の相手を貫く
-鞭を強くしならせ離れた敵に打ち付ける
-弓で遠くの相手を攻撃する
-相手に爆弾を投げつける
-巻物で目の前の３マスをなぎ払う
-離れた場所で魔力を乗せた音を炸裂させる
-槍で前方２マスを突き刺す
-剣で相手を斬りつける
-剣で相手を斬りつける
-槍で前方２マスを突き刺す
-弓で遠くの相手を攻撃する
-鎌を振り回し前方を切り裂く
-尻尾で目の前をなぎ払う
-レイピアで前方２マスを突き刺す
+Two hands sword slash
+Spear thrust. Two spaces
+Throw a knife
+Strike with a magic shield
+Attack with magic
+Attack with sound waves
+Attack with both swords
+Attack with the whip
+Shoot an arrow 
+Throw a bomb
+Scroll swing. Three spaces
+Attack with magic sound
+Lance thrust. Two spaces
+Slash the enemy
+Slash the enemy
+Lance thrust. Two spaces
+Shoot an arrow 
+Swing the scythe
+Strike with the tail
+Rapier thrust. Two spaces
 －
 －
-毒効果のある触手で相手を吹き飛ばす攻撃
-声の音波による攻撃
-空間を跳躍して行う長射程の攻撃
-氷の結晶を叩きつける長射程の攻撃
-目前の敵を音もなく切り裂く
+Attack with poisonous tentacles
+Attack with the voice
+Jumping attack
+Attack with ice crystals
+Attack without making a sound
 －
 －
 －
 －
-ハンマーで相手を叩き潰す
-剣で相手を斬りつける
-斧で相手を斬りつける
-ハンマーで相手を叩き潰す
-拳で相手を殴りつける
-くちばしで相手をつつく
-３つの口で相手に噛みつく
-両足で相手を引っかく
-体当たりをかます
-爪で相手を引っかく
-全力で体当たりする
-爪で相手を引っかく
-爪を突き出し相手を切り裂く
-ハルバードで目の前をなぎ払う
-拳で相手を殴りつける
-弓で遠くの相手を攻撃する
-弓で遠くの相手を攻撃する
-弓で遠くの相手を攻撃する
-剣で相手を斬りつける
-剣で相手を斬りつける
-剣で相手を斬りつける
-ハルバードで目の前をなぎ払う
-弓で遠くの相手を攻撃する
-杖で相手を殴る
-杖で相手を殴る
-弓で遠くの相手を攻撃する
-鍛えられた拳で相手を殴りつける
-２本の剣で相手を斬り裂く
-頭を使った攻撃
-頭を使った攻撃
-頭を使った攻撃
-頭を使った攻撃
-頭を使った攻撃
-頭を使った攻撃
-頭を使った攻撃
-長い耳で前方２マスを貫く
-激しいタックルで相手を攻撃する
-剣で相手を斬り払う
-鋭い角で前方２マスを貫く
-腕で相手を叩く
-魔法の槍を作り出し投げつける
-魔力の弾を砲台から打ち出す長射程攻撃
-杖で相手を叩く
-鞭を強くしならせて攻撃する
-教鞭で相手を叩く
-扇で相手を斬り払う
-魔力を乗せた音で相手を攻撃する
-ハンマーで相手を叩き潰す
+Bring down the hammer
+Slash the enemy
+Slash the enemy
+Bring down the hammer
+Strike with the fists
+Pique the enemy
+Bite with all three mouths
+Strike with boot legs
+Body slam
+Slash with claws
+Strong body slam
+Slash with claws
+Tear the enemy apart
+Halberd swing
+Strike with the fists
+Shoot an arrow
+Shoot an arrow
+Shoot an arrow
+Sword slash
+Sword slash
+Sword slash
+Halberd swing
+Shoot an arrow
+Strike with the rod
+Strike with the rod
+Shoot an arrow
+Strike with iron fists
+Attack with both swords
+Headbutt
+Headbutt
+Headbutt
+Headbutt
+Headbutt
+Headbutt
+Headbutt
+Attack with the ears. Two spaces
+Violent tackle
+Sword swing
+Horn thrust. Two spaces
+Arm swing
+Throw a magic spear
+Long range magic bullet
+Strike with the rod
+Attack with the whip
+Attack with the cane
+Attack with the fan
+Attack with magical sound
+Crushing blow with the hammer
 －
