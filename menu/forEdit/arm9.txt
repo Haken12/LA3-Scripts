@@ -74,14 +74,14 @@ Silver Blaze
 |
 ¡
 Grand Break
-Efreet's Roar
+Efreet Roar
 Triple Illusion
 Land Napalm
 Skull Gaze
 Aqua Melody
 Tornado Dance
 Bright Whip
-Flow Shoot
+Flowing Shoot
 Pyro Lantern
 Soul Barrage
 Fire March
@@ -89,17 +89,17 @@ Sphere Cross
 Stella Shine
 Soul Slayer
 ƒ”ƒ@[ƒ`ƒƒ[ƒŒƒC
-Luna Strike
+Lunar Strike
 |
 |
-Eternal Hole
+Eternal Horror
 End Requiem
 World Gaze
 ExplosionI
 Fearful Flare
 Frozen Vein
 ƒŠ[ƒ”ƒ‹ƒŒƒC
-Mira Splash
+Milla Splash
 Heavenly Serenade
 Materia Bomber
 |
@@ -110,7 +110,7 @@ Rising Smash
 Ignis Wing
 Sword Rain
 Wood Hurricane
-Giant Stamp
+Giant Stomp
 Bubble Cantare
 Tempest Waltz
 Princess Knock
@@ -118,7 +118,7 @@ Rain Breeze
 Jack Frost
 Spirit Blaze
 Burning Salsa
-Lord's Blaze
+Blazing Lord
 Rising Cluster
 |
 |

@@ -1,0 +1,419 @@
+0077 M E782B88C
+Rephy
+----0001----
+Ey Sara, studying again ?
+
+~---------------------------------------
+Sara
+----0002----
+Yup
+
+~---------------------------------------
+Rephy
+----0003----
+Do you ever get bored of reading
+books?
+
+~---------------------------------------
+Sara
+----0004----
+Fun or boring has nothing to do with it
+
+~---------------------------------------
+Rephy
+----0005----
+Did you memorized all that?
+
+~---------------------------------------
+Sara
+----0006----
+Learned, not memorized.
+
+~---------------------------------------
+Rephy
+----0007----
+So you can remember everything after 
+reading it just once?
+
+~---------------------------------------
+Sara
+----0008----
+There's no way
+
+~---------------------------------------
+Rephy
+----0009----
+Then, is there a trick for remembering
+things easier?
+
+~---------------------------------------
+Sara
+----0010----
+You can say it's a form of magic.
+It's impossible for you.
+
+~---------------------------------------
+Rephy
+----0011----
+Don't say that and teach me.#
+
+~---------------------------------------
+Sara
+----0012----
+Then answer this question first: 
+What is the source of magic?
+
+~---------------------------------------
+Rephy
+----0013----
+Eh?, what's that.#so suddenly.# 
+
+~---------------------------------------
+Sara
+----0014----
+Can't teach you if you don't understand
+a thing about magic.
+
+~---------------------------------------
+Rephy
+----0015----
+G-Got it. The source of magic is.#$e3
+~---------------------------------------
+Sara
+----0016----
+If you think so, you don't get what 
+magic is at all.
+
+~---------------------------------------
+Rephy
+----0017----
+Was i wrong?
+
+~---------------------------------------
+Sara
+----0018----
+Not exactly wrong but.#
+The source of magic are the wishes.
+
+~---------------------------------------
+Sara
+----0019----
+To put it bad desires.To put it good 
+hopes. Depends of how you look at it.
+
+~---------------------------------------
+Rephy
+----0020----
+I see.#
+
+~---------------------------------------
+Sara
+----0021----
+You'll have to study more if you want to
+learn magic from me.
+
+~---------------------------------------
+Rephy
+----0022----
+Er.#but i just want to learn to remember
+things easier.
+
+~---------------------------------------
+Sara
+----0023----
+Like i said, you need to study more to
+learn that, you blockhead
+
+~---------------------------------------
+Rephy
+----0024----
+Then.#there's no point at all if i have
+to study anyway!.#
+
+~---------------------------------------
+Sara
+----0025----
+Oh!.# you actually got it
+
+~---------------------------------------
+Rephy
+----0026----
+Do i?
+
+~---------------------------------------
+Sara
+----0027----
+After all, magic it's nothing more than
+the materialization of one's desires.
+
+~---------------------------------------
+Rephy
+----0028----
+It sounds kinda dirty if you tell it
+like that.
+
+~---------------------------------------
+Sara
+----0029----
+It's just a figure of speech
+
+~---------------------------------------
+Sara
+----0030----
+The more stronger the wishes, the more
+strong the magic is.
+
+~---------------------------------------
+Rephy
+----0031----
+I think i get it somehow. Then, about
+the magic for remembering.#
+
+~---------------------------------------
+Sara
+----0032----
+Fufufu.#I might teach you if you help
+me out a little.#
+
+~---------------------------------------
+Rephy
+----0033----
+Help you out with what?
+Your research?
+
+~---------------------------------------
+Sara
+----0034----
+First, drink this: Total Obedience Love
+Potion Sigma.
+
+~---------------------------------------
+Rephy
+----0035----
+What's that? Does it makes you remember
+things easier?
+
+~---------------------------------------
+Sara
+----0036----
+Hurry up!
+
+~---------------------------------------
+Rephy
+----0037----
+I,I get it.#
+
+~---------------------------------------
+Rephy
+----0038----
+Yuck, horrible.#
+
+~---------------------------------------
+Sara
+----0039----
+Fell for me already?
+
+~---------------------------------------
+Rephy
+----0040----
+Not happening!
+
+~---------------------------------------
+Sara
+----0041----
+Um.#strange. Try this now:
+Ultra Demotivate Alpha.
+
+~---------------------------------------
+Rephy
+----0042----
+Now this one?
+
+~---------------------------------------
+Sara
+----0043----
+Yup
+
+~---------------------------------------
+Rephy
+----0044----
+Horrible.#
+
+~---------------------------------------
+Sara
+----0045----
+Feeling down?
+
+~---------------------------------------
+Rephy
+----0046----
+No!
+
+~---------------------------------------
+Sara
+----0047----
+Um, nothing is working. So this is the 
+power of the Dual Crest Lapis.#
+
+~---------------------------------------
+Rephy
+----0048----
+Are you experimenting on me.#?
+
+~---------------------------------------
+Sara
+----0049----
+Question for Rephy!. Why do you want
+to learn the memory magic?$e3
+~---------------------------------------
+Sara
+----0050----
+Not being honest
+
+~---------------------------------------
+Rephy
+----0051----
+Eh?
+
+~---------------------------------------
+Sara
+----0052----
+Rephy, your only wish right now it's
+to get away from studying, right?
+
+~---------------------------------------
+Rephy
+----0053----
+Well, yes.
+
+~---------------------------------------
+Sara
+----0054----
+Then turn that wish into magic.
+
+~---------------------------------------
+Sara
+----0055----
+You can't master magic without looking
+to your inner self
+
+~---------------------------------------
+Rephy
+----0056----
+Er.#, it's not like a want to master 
+magic. I just want the memory magic.#
+
+~---------------------------------------
+Sara
+----0057----
+Just saying but, this memory magic.#
+It's a quite high level magic. 
+
+~---------------------------------------
+Rephy
+----0058----
+Eh? Really?
+
+~---------------------------------------
+Sara
+----0059----
+Studying might be actually easier.#fufufu
+
+~---------------------------------------
+Rephy
+----0060----
+Ah.#no easy grades for me.#
+
+~---------------------------------------
+Sara
+----0061----
+Last Chance!
+
+~---------------------------------------
+Sara
+----0062----
+Is still have Valiant Omega to test,
+wanna try?
+
+~---------------------------------------
+Rephy
+----0063----
+Like i will!
+
+~---------------------------------------
+Sara
+----0064----
+Honest is good, good boy
+
+~---------------------------------------
+Rephy
+----0065----
+I may be quite strong and all, but i
+can't handle studying at all
+
+~---------------------------------------
+Sara
+----0066----
+I wonder about that.#
+
+~---------------------------------------
+Rephy
+----0067----
+Whatever, just teach the magic quickly
+
+~---------------------------------------
+Sara
+----0068----
+Then, put these headphones on 
+
+~---------------------------------------
+Rephy
+----0069----
+Headphones?
+Ah, those weir earrings of yours.#
+
+~---------------------------------------
+Sara
+----0070----
+These aren't earrings, it's a magic Item
+
+~---------------------------------------
+Rephy
+----0071----
+Heh.#, eh? what's with this?
+
+~---------------------------------------
+Rephy
+----0072----
+Feels like magic spells and elder speech
+is flowing into my head.#
+
+~---------------------------------------
+Sara
+----0073----
+Memorizing by listening is my method
+
+~---------------------------------------
+Rephy
+----0074----
+Do you wear these things all day?
+Listening even when talking to us!?
+
+~---------------------------------------
+Sara
+----0075----
+Yup. It's even easier to remember if
+you leave them on while sleeping.
+
+~---------------------------------------
+Rephy
+----0076----
+I-Impossible.#if i hear all this my head
+is going to explode.
+
+~---------------------------------------
+Sara
+----0077----
+Fufufu.#
+
+~---------------------------------------

@@ -1,0 +1,425 @@
+0078 K 80E44900
+Inaluna
+----0001----
+Um…
+
+~---------------------------------------
+Rephy
+----0002----
+What's with you?
+
+~---------------------------------------
+Inaluna
+----0003----
+I'am having troubles for sleep
+
+~---------------------------------------
+Inaluna
+----0004----
+Say, does this shop sell's pillows?
+
+
+~---------------------------------------
+Rephy
+----0005----
+Eh?
+There is no way…
+
+~---------------------------------------
+Inaluna
+----0006----
+Is that so?　Anyway, i don't like the 
+pillow in my room and can't sleep 
+
+~---------------------------------------
+Rephy
+----0007----
+Ah, the famous whims…
+
+~---------------------------------------
+Inaluna
+----0008----
+Aaah!　I'll just have to bring my pillow
+from the Palace
+
+~---------------------------------------
+Inaluna
+----0009----
+My head's shape it's gonna ruin…
+
+~---------------------------------------
+Rephy
+----0010----
+So you came looking for one here
+
+~---------------------------------------
+Inaluna
+----0011----
+Yes. What kind of pillow you use?$e3
+~---------------------------------------
+Inaluna
+----0012----
+Looks like you don't get it
+
+~---------------------------------------
+Rephy
+----0013----
+No, i don't 
+
+~---------------------------------------
+Inaluna
+----0014----
+Listen,　pillows are the secret of health
+
+~---------------------------------------
+Inaluna
+----0015----
+By the way, i ordered an special pillow
+from a woodcutter
+
+~---------------------------------------
+Rephy
+----0016----
+Just for a pillow!?
+
+~---------------------------------------
+Inaluna
+----0017----
+It takes a great woodcutter the know
+what kind of tree is good for a pillow
+
+~---------------------------------------
+Inaluna
+----0018----
+The cut must be perfect
+
+~---------------------------------------
+Inaluna
+----0019----
+If the wood's flexibility and hardness
+are good, it will be a great pillow
+
+~---------------------------------------
+Inaluna
+----0020----
+Got it?
+
+~---------------------------------------
+Rephy
+----0021----
+Ah, got it…
+Then just go back to the palace
+
+~---------------------------------------
+Inaluna
+----0022----
+S-Say what?！
+You don't get to tell what to do!
+
+~---------------------------------------
+Inaluna
+----0023----
+Forget it, i'll look for it myself!
+
+~---------------------------------------
+Inaluna
+----0024----
+Heh, just like me
+
+~---------------------------------------
+Inaluna
+----0025----
+Hard and big pillows are the best!
+Soft pillows just ruin the shoulders!
+
+~---------------------------------------
+Rephy
+----0026----
+In my case, I've only had hard pillows
+to choose
+
+~---------------------------------------
+Inaluna
+----0027----
+Why?
+
+~---------------------------------------
+Rephy
+----0028----
+We only had these back in the Lest Order
+where i grew up
+
+~---------------------------------------
+Inaluna
+----0029----
+Can't help it then. There were lots and
+lots of pillow back in the Palace
+
+~---------------------------------------
+Inaluna
+----0030----
+In order to being able to choose right
+you need options and training.
+
+~---------------------------------------
+Inaluna
+----0031----
+Father said so.#
+
+~---------------------------------------
+Rephy
+----0032----
+That's what called a waste
+
+~---------------------------------------
+Inaluna
+----0033----
+What are you saying
+
+~---------------------------------------
+Inaluna
+----0034----
+Aah, i though here in Urgard, there were
+lots of amazing things and.#
+
+~---------------------------------------
+Inaluna
+----0035----
+Lots of fun things to do～
+
+~---------------------------------------
+Rephy
+----0036----
+What's with that…
+
+~---------------------------------------
+Inaluna
+----0037----
+Then what do you think of the life here
+in Urgard?$e3
+~---------------------------------------
+Inaluna
+----0038----
+What a bother
+
+~---------------------------------------
+Rephy
+----0039----
+Can't help it, there are a lot or rules
+and restrictions
+
+~---------------------------------------
+Inaluna
+----0040----
+Now i got it!
+I just have to change them!
+
+~---------------------------------------
+Rephy
+----0041----
+How?
+
+~---------------------------------------
+Inaluna
+----0042----
+First i need subordinates
+
+~---------------------------------------
+Inaluna
+----0043----
+Feel honored Rephy, you are now the very
+first member of the Inaluna Faction
+
+~---------------------------------------
+Rephy
+----0044----
+What's even is the Inaluna Faction…
+I'am leaving, see ya
+
+~---------------------------------------
+Inaluna
+----0045----
+Wait a moment, Rephy！
+
+~-------------------------------
+Inaluna
+----0046----
+Where are you going！
+First Member！
+
+~-------------------------------
+Inaluna
+----0047----
+So it seems…everyone here is always
+so tense
+
+~---------------------------------------
+Rephy
+----0048----
+You are just too carefree
+
+~---------------------------------------
+Inaluna
+----0049----
+For me to be with people close my age 
+and abilities…
+
+~---------------------------------------
+Inaluna
+----0050----
+It's a first. There were only adults
+back in the Palace.
+
+~---------------------------------------
+Rephy
+----0051----
+Um, could it be.#, are you feeling 
+anxious?
+
+~---------------------------------------
+Inaluna
+----0052----
+What are you saying, there is no way
+that i!.#
+
+~---------------------------------------
+Rephy
+----0053----
+You're not being honest…
+
+~---------------------------------------
+Inaluna
+----0054----
+A-Anyway!　I'm done with shopping!
+I'm leaving!
+
+~---------------------------------------
+Rephy
+----0055----
+Where to?
+
+~---------------------------------------
+Inaluna
+----0056----
+The infirmary! They must have pillows
+there
+
+~---------------------------------------
+Rephy
+----0057----
+Well?
+
+~---------------------------------------
+Inaluna
+----0058----
+Not too bad
+
+~---------------------------------------
+Inaluna
+----0059----
+This will have to do until, my pillow
+is delivered from the Palace.
+
+~---------------------------------------
+Rephy
+----0060----
+…She says
+
+~---------------------------------------
+Inaluna
+----0061----
+Zz.#zz
+
+~---------------------------------------
+Rephy
+----0062----
+Um?
+
+~---------------------------------------
+Inaluna
+----0063----
+Zzz.#zzz
+
+~---------------------------------------
+Rephy
+----0064----
+…She's asleep!
+
+~---------------------------------------
+Inaluna
+----0065----
+Umn
+
+~---------------------------------------
+Rephy
+----0066----
+Hey!
+
+~---------------------------------------
+Rephy
+----0067----
+Does she normally hugs her pillow?
+What's with this sensation…
+
+~---------------------------------------
+Inaluna
+----0068----
+Ahhhh!
+
+~---------------------------------------
+Inaluna
+----0069----
+D-Did you came to assault me!?
+
+~---------------------------------------
+Rephy
+----0070----
+Like i did, idiot!
+You where to one that hugged me!
+
+~---------------------------------------
+Inaluna
+----0071----
+R-Really?
+
+~---------------------------------------
+Rephy
+----0072----
+Yes!
+
+~---------------------------------------
+Inaluna
+----0073----
+A-Anyway, just don't tell anyone about
+this!
+
+~---------------------------------------
+Inaluna
+----0074----
+That's an order!
+
+~---------------------------------------
+Rephy
+----0075----
+Hey, where are you going?
+
+~-------------------------------
+Inaluna
+----0076----
+I'm tired, i'll just take the
+pillow to my room. Bye bye
+
+~-------------------------------
+Rephy
+----0077----
+Don't tell anyone she says…
+Like i could…
+
+~-------------------------------
+Rephy
+----0078----
+A princess just took a pillow 
+from the infirmary without
+permission.#
+
+~-------------------------------
