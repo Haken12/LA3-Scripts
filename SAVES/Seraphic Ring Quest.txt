@@ -1,0 +1,11 @@
+After the final battle of Chapter 14, the Rephy will be left
+in the Teleport Chamber with Sara, in the top most corner
+of the room there is a shinning spot, go check it and Rephy
+will discover an item, after a conversation with Sara they
+will go to the Workshops and talk with the Sisters and Yuu(AKA Rick).
+The item seems to contain some of the Millia's power but it's broken
+and loosing magic, the sisters say they can repair with if you can
+get some [Millia Stone] from a moster called [Buccaboo] in the
+Sandal Forest. To continue the quest you must talk to the Sisters
+in the workshpo(beware: there's no prompt or event icon to indicate
+this event). 
