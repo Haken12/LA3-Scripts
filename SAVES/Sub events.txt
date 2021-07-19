@@ -1,0 +1,29 @@
+Glen after CH23
+-During CH23 fight choose to defeat Valerie first
+-Defeat all enemies except Glen
+-Defeat Glen
+
+Arnogia
+-Answer 力が欲しい in CH19
+-Answer 覚悟が出来ている　in CH20
+-During CH24 fight defeat all enemies except Arnogia
+-Defeat Arnogia
+-When asked, choose to forgive Arnogia
+*If the Seraphic Ring sub-event is complete
+	-Talk to Millia in the Teleport Chamber to get a picture
+	
+Seraphic Ring sub-event:
+After the final battle of Chapter 14, the Rephy will be left
+in the Teleport Chamber with Sara, in the top most corner
+of the room there is a shinning spot, go check it and Rephy
+will discover an item, after a conversation with Sara they
+will go to the Workshops and talk with the Sisters and Yuu(AKA Rick).
+The item seems to contain some of the Millia's power but it's broken
+and loosing magic, the sisters say they can repair with if you can
+get some [Millia Stone] from a monster called [Buccaboo] in the
+Sandal Forest. To continue the quest you must talk to the Sisters
+in the workshop(beware: there's no prompt or event icon to indicate
+this event). Before the free time in chapter 20, Yuu will come to
+tell Rephy that the ring had been repaired. After that you must
+talk to Elle in the Bath(no "!" mark) to continue. After that an
+event will occur and the ring will disappear(went back to Millia).
