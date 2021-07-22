@@ -1,0 +1,255 @@
+0047 J 00000000
+Rephy
+----0001----
+Arnogia.#
+
+~---------------------------------------
+Arnogia
+----0002----
+Rephy? What is it?
+
+~---------------------------------------
+Rephy
+----0003----
+Tomorrow is the last fight so.#
+
+~---------------------------------------
+Rephy
+----0004----
+I though it's better to talk some things
+tonight.#
+
+~---------------------------------------
+Arnogia
+----0005----
+To talk?Å@What a strange man.#
+
+~---------------------------------------
+Arnogia
+----0006----
+Are you saying you want to spend the
+night before the last battle with me?$e3
+~---------------------------------------
+Arnogia
+----0007----
+It's better that way
+
+~---------------------------------------
+Arnogia
+----0008----
+There's no know what will happen tomorrow, 
+you better leave no regrets.#
+
+~---------------------------------------
+Arnogia
+----0009----
+Rephy.#
+
+~---------------------------------------
+Rephy
+----0010----
+.#.#
+
+~---------------------------------------
+Arnogia
+----0011----
+Very well. But let's change of location
+first.#
+
+~---------------------------------------
+Rephy
+----0012----
+Where to?
+
+~---------------------------------------
+Arnogia
+----0013----
+There are some things that are better 
+not spoken here. Follow me.
+
+~---------------------------------------
+Rephy
+----0014----
+This is.#the place where Millia was.#
+
+~---------------------------------------
+Arnogia
+----0015----
+Here, we can talk without being heard
+outside.
+
+~---------------------------------------
+Rephy
+----0016----
+You're right but.# gives a weird feeling
+
+~---------------------------------------
+Rephy
+----0017----
+This is the first place we meet as
+enemies.#
+
+~---------------------------------------
+Arnogia
+----0018----
+I was thinking the same thing.#
+
+~---------------------------------------
+Arnogia
+----0019----
+Thenes-Lur and Aura-Lur, two Star Eyes
+with polar opposite power being here.#
+
+~---------------------------------------
+Arnogia
+----0020----
+It's normally inconceivable.#
+
+~---------------------------------------
+Rephy
+----0021----
+I never thought we would be fighting
+together as allies.#
+
+~---------------------------------------
+Rephy
+----0022----
+Probably that God Eye guy didn't expect
+it either
+
+~---------------------------------------
+Arnogia
+----0023----
+Then? What do you wanted to talk about?
+
+~---------------------------------------
+Rephy
+----0024----
+About that.#
+Actually, i have a favor to ask of you
+
+~---------------------------------------
+Arnogia
+----0025----
+A favor.#?
+
+~---------------------------------------
+Rephy
+----0026----
+It's possible i won't be able to keep
+myself together until the end.#
+
+~---------------------------------------
+Rephy
+----0027----
+When that happens Arnogia.#
+I want you to.#
+
+~---------------------------------------
+Arnogia
+----0028----
+I refuse.
+
+~---------------------------------------
+Rephy
+----0029----
+!?Å@Arnogia.#!?
+
+~---------------------------------------
+Arnogia
+----0030----
+You were about to ask me to take care of
+everything, if you were to die. Right?
+
+~---------------------------------------
+Rephy
+----0031----
+Uh.#
+
+~---------------------------------------
+Arnogia
+----0032----
+Are you a fool?
+
+~---------------------------------------
+Arnogia
+----0033----
+Give it a little thought, it's two
+people harboring the power of god.#
+
+~---------------------------------------
+Arnogia
+----0034----
+If that not enough, then nothing will.#
+
+~---------------------------------------
+Rephy
+----0035----
+That may be true, but.#
+
+~---------------------------------------
+Arnogia
+----0036----
+If you want the world to change, you
+must live on. Don't be hasty.
+
+~---------------------------------------
+Arnogia
+----0037----
+You have bonds, bonds called comrades.
+
+~---------------------------------------
+Rephy
+----0038----
+Arnogia.#
+
+~---------------------------------------
+Arnogia
+----0039----
+We you feel you can't go on, you just 
+remember your comrades faces.#
+
+~---------------------------------------
+Arnogia
+----0040----
+That's all i can say to you.#
+
+~---------------------------------------
+Rephy
+----0041----
+.#.#
+
+~---------------------------------------
+Arnogia
+----0042----
+Understood?Å@Rephy
+
+~---------------------------------------
+Rephy
+----0043----
+Yeah. Thanks, Arnogia.#
+
+~---------------------------------------
+Arnogia
+----0044----
+Hump, what a troublesome 7-stars, this
+one.#
+
+~---------------------------------------
+Arnogia
+----0045----
+It's okay for you to be here?
+
+~---------------------------------------
+Arnogia
+----0046----
+There should be someone you'd prefer to
+spend the last night with.#
+
+~---------------------------------------
+Arnogia
+----0047----
+Are you saying you want to spend the
+night before the last battle with me?
+
+~---------------------------------------

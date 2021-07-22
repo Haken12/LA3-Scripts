@@ -5,7 +5,10 @@ will discover an item, after a conversation with Sara they
 will go to the Workshops and talk with the Sisters and Yuu(AKA Rick).
 The item seems to contain some of the Millia's power but it's broken
 and loosing magic, the sisters say they can repair with if you can
-get some [Millia Stone] from a moster called [Buccaboo] in the
+get some [Millia Stone] from a monster called [Buccaboo] in the
 Sandal Forest. To continue the quest you must talk to the Sisters
-in the workshpo(beware: there's no prompt or event icon to indicate
-this event). 
+in the workshop(beware: there's no prompt or event icon to indicate
+this event). Before the free time in chapter 20, Yuu will come to
+tell Rephy that the ring had been repaired. After that you must
+talk to Elle in the Bath(no "!" mark) to continue. After that an
+event will occur and the ring will disappear(went back to Millia).
