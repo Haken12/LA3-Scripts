@@ -1,19 +1,19 @@
 037 txtform 640
 
 ----0001----
-「□」 indicate Kopin's destination.
-「!」 indicate unseen scene.
+「□」は、コピンの移動場所です。
+「！」は、まだ見ていない場所です。
 ~---------------------------------------
 
 ----0002----
-A moment of hesitation can lead to
-a great tragedy.
-People call that Heaven's Punishment.
+一瞬の気の迷いが、
+大きな悲劇に繋がることもあるのです。
+人はそれを天罰とよぶのかもしれません。
 
-.#However, the one being stepped in is 
-me!
-Pay attention to above from tomorrow on.
-The dirt in my mouth was sweet.#$e2
+…ただ、ただ、踏まれるボクなのです。
+
+明日は上にも気をつけるのです。
+口の中に広がる土は甘かった…$e2
 ~---------------------------------------
 
 ----0003----

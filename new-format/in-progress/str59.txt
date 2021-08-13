@@ -1,0 +1,293 @@
+0054 M C988A48F
+Rephy
+----0001----
+What are you doing this late?
+
+~---------------------------------------
+Shion
+----0002----
+Ah, Rephy. I am cleaning the classroom.
+
+~---------------------------------------
+Rephy
+----0003----
+Cleaning.# all by yourself?
+
+~---------------------------------------
+Shion
+----0004----
+I like cleaning. If i can make everyone
+being able to study more comfortably.#
+
+~---------------------------------------
+Shion
+----0005----
+Won't they be able to become stronger
+as Magi Knights?
+
+~---------------------------------------
+Rephy
+----0006----
+I see.# Want some help?
+
+~---------------------------------------
+Shion
+----0007----
+I'm almost done cleaning but thank you.
+
+~---------------------------------------
+Rephy
+----0008----
+Um.# it's sparkling clean.
+
+~---------------------------------------
+Shion
+----0009----
+In you fill your tools with affection
+cleaning become mysteriously faster.
+
+~---------------------------------------
+Rephy
+----0010----
+Really!?
+
+~---------------------------------------
+Shion
+----0011----
+By the way, what do you think it's my
+favorite tool?$e3
+~---------------------------------------
+Shion
+----0012----
+Um.# that's an important tool, but it's
+not that compatible with me.
+
+~---------------------------------------
+Rephy
+----0013----
+Certainly.#, just like weapons they can
+differ from a person to another.
+
+~---------------------------------------
+Shion
+----0014----
+Some are easier to give you affection.
+
+~---------------------------------------
+Rephy
+----0015----
+But which one was anyway?
+
+~---------------------------------------
+Shion
+----0016----
+This one.
+
+~---------------------------------------
+Rephy
+----0017----
+A broom, huh?
+
+~---------------------------------------
+Shion
+----0018----
+I handmade it.
+
+~---------------------------------------
+Rephy
+----0019----
+Heh, impressive.
+
+~---------------------------------------
+Shion
+----0020----
+Should i make one for you too? Cleaning
+will be more enjoyable.
+
+~---------------------------------------
+Rephy
+----0021----
+T-Thank but i'll pass.#
+See you later, Shion.
+
+~---------------------------------------
+Shion
+----0022----
+That's right！　Can you tell?
+
+~---------------------------------------
+Rephy
+----0023----
+Kinda.
+
+~---------------------------------------
+Shion
+----0024----
+I handmade this broom.
+
+~---------------------------------------
+Rephy
+----0025----
+Heh, that's amazing. It's like a weapon
+you're used to.
+
+~---------------------------------------
+Shion
+----0026----
+Fighting and cleaning are different.
+
+~---------------------------------------
+Rephy
+----0027----
+Haha.# Now you say it, you just had your
+first battle experience.
+
+~---------------------------------------
+Rephy
+----0028----
+Weren't you scared?
+
+~---------------------------------------
+Shion
+----0029----
+Of course i was.#
+
+~---------------------------------------
+Shion
+----0030----
+But, i don't want to loose Sara.#or the
+world were we live again.
+
+~---------------------------------------
+Rephy
+----0031----
+Shion.#
+
+~---------------------------------------
+Shion
+----0032----
+That's why.#i'll fight to protect them
+no matter what!
+
+~---------------------------------------
+Shion
+----0033----
+Then, someday.#
+
+~---------------------------------------
+Rephy
+----0034----
+Someday?
+
+~---------------------------------------
+Shion
+----0035----
+Er.#well.#I have a dream.# Something i
+want to be in the future.#
+
+~---------------------------------------
+Rephy
+----0036----
+Heh, want do you want to be?
+
+~---------------------------------------
+Shion
+----0037----
+Fufu.#What do you think?$e3
+~---------------------------------------
+Shion
+----0038----
+Um、that's not it.#
+
+~---------------------------------------
+Rephy
+----0039----
+Wrong guess. But if it's you, you can
+be anything you want.
+
+~---------------------------------------
+Shion
+----0040----
+T-That's not true.#
+
+~---------------------------------------
+Rephy
+----0041----
+You can tell just by watching your
+everyday life.
+
+~---------------------------------------
+Shion
+----0042----
+So you have been watching me.#
+
+~---------------------------------------
+Rephy
+----0043----
+Er.#no.#well.# You know, this classroom
+isn't that big, right?
+
+~---------------------------------------
+Shion
+----0044----
+I see, thanks for saying that. I'll work
+hard for my dream.
+
+~---------------------------------------
+Shion
+----0045----
+Y-Yes, that's right！
+How did you knew.#
+
+~---------------------------------------
+Rephy
+----0046----
+You were enjoying yourself back at the
+festival.
+
+~---------------------------------------
+Shion
+----0047----
+So you were paying attention to me.#
+
+~---------------------------------------
+Shion
+----0048----
+I want to perform the role of the Angel
+from sometime ago.#
+
+~---------------------------------------
+Rephy
+----0049----
+You sure look up to the Angel.
+
+~---------------------------------------
+Shion
+----0050----
+Yes. Someday i want to be an actress and
+ascend in the sky like an Angel.#
+
+~---------------------------------------
+Rephy
+----0051----
+But you wanting to be an actress was
+unexpected.#
+
+~---------------------------------------
+Shion
+----0052----
+I'm not made for it, after all.#?
+
+~---------------------------------------
+Rephy
+----0053----
+No, if it's you, you can do it. Even
+you Magi form looks like an Angel.
+
+~---------------------------------------
+Shion
+----0054----
+Thank you, Rephy.#
+You are very kind.
+
+~---------------------------------------

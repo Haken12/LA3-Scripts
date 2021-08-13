@@ -1,0 +1,589 @@
+0107 M 70008352
+Rephy
+----0001----
+So this is the next spring.#
+
+~---------------------------------------
+Sara
+----0002----
+Be careful Rephy. I can feel a great
+magic power nearby.#
+
+~---------------------------------------
+Kopin
+----0003----
+There's a Witch here.#!
+
+~---------------------------------------
+Potpourri
+----0004----
+Welcome, I'm the Witch of the Green
+Orchid Potpourri. This spring's guardian.
+
+~---------------------------------------
+Kopin
+----0005----
+Lady Potpourri.#The Kopin Dance, how
+nostalgic.
+
+~---------------------------------------
+Ashley
+----0006----
+K-Kopin Dance?
+Is there something like that?
+
+~---------------------------------------
+Dino
+----0007----
+Be careful Milady, that witch seems to
+be of Nature Attribute.
+
+~---------------------------------------
+Heine
+----0008----
+Nature!?
+It's my turn then!
+
+~---------------------------------------
+Sara
+----0009----
+Don't count on it.
+
+~---------------------------------------
+Heine
+----0010----
+Eh? Why?
+
+~---------------------------------------
+Sara
+----0011----
+A witch that became a legend at the age
+of 12, the genius girl, Potpourri.#
+
+~---------------------------------------
+Sara
+----0012----
+Fufu, i always wanted to fight you.#
+
+~---------------------------------------
+Potpourri
+----0013----
+Fight me, you say!? Even if our age is
+the same we're totally different!
+
+~---------------------------------------
+Heine
+----0014----
+Er.#there is another Nature Magi here
+as well♪
+
+~---------------------------------------
+Potpourri
+----0015----
+What are you muttering over there! What
+a gutless Nature Magi.#
+
+~---------------------------------------
+Heine
+----0016----
+How rude! Calling me gutless!
+
+~---------------------------------------
+Potpourri
+----0017----
+Then, why don't you prove me wrong?
+
+~---------------------------------------
+Potpourri
+----0018----
+Because if you beat me, you can gain
+more power!
+
+~---------------------------------------
+Potpourri
+----0019----
+Hmphh, you seen to have at least studied
+the basics of magic.
+
+~---------------------------------------
+Potpourri
+----0020----
+I might acknowledge you lot.
+
+~---------------------------------------
+Heine
+----0021----
+Yeahhhh!
+It's Mufufu Time!
+
+~---------------------------------------
+Rephy
+----0022----
+Potpourri, was it? I have a question?
+
+~---------------------------------------
+Potpourri
+----0023----
+What is it?
+
+~---------------------------------------
+Rephy
+----0024----
+To obtain power from this spring, the
+Star Eye is required, right?
+
+~---------------------------------------
+Potpourri
+----0025----
+And what's with that?
+
+~---------------------------------------
+Rephy
+----0026----
+Which means.#Heine, if you want to get
+power from this spring.#
+
+~---------------------------------------
+Heine
+----0027----
+Ah!I would have to get into the bath
+with Rephy!
+
+~---------------------------------------
+Rephy
+----0028----
+Ahh.#So it comes to that.#
+
+~---------------------------------------
+Sara
+----0029----
+Fufu.#You two can go get along all you
+want. I don't mind at all.
+
+~---------------------------------------
+Heine
+----0030----
+Can't help it. Rephy, let's have some
+manly Mufufu!
+
+~---------------------------------------
+Rephy
+----0031----
+Stop it, it's disturbing!
+
+~---------------------------------------
+Potpourri
+----0032----
+Then, Rephy. Who do you want to get in
+this Spring? Decide quickly!$e3
+~---------------------------------------
+Heine
+----0033----
+Whaaa!
+This spring it's not cute at all♪
+
+~---------------------------------------
+Rephy
+----0034----
+Woa, what's with this! Feel more like
+jelly than a hot spring!
+
+~---------------------------------------
+Heine
+----0035----
+It's Nature Attribute, so it's probably
+something like tree sap.♪
+
+~---------------------------------------
+Rephy
+----0036----
+Are we Beetles now.#?
+
+~---------------------------------------
+Heine
+----0037----
+Ah, there is a song that goes likes
+this.#
+
+~---------------------------------------
+Heine
+----0038----
+We are like Beetles♪
+Lured by this sweet spring♪
+
+~---------------------------------------
+Rephy
+----0039----
+What kind of song is that.#
+
+~---------------------------------------
+Heine
+----0040----
+Beetles♪ In heart and body, Beetles♪
+We won't forget this wonderful life♪
+
+~---------------------------------------
+Rephy
+----0041----
+Stop singing!
+
+~---------------------------------------
+Sara
+----0042----
+Uh.#it's all sticky.#
+
+~---------------------------------------
+Rephy
+----0043----
+Wah!, what's with this! Feel more like
+jelly than a hot spring!
+
+~---------------------------------------
+Sara
+----0044----
+.#.#
+
+~---------------------------------------
+Rephy
+----0045----
+Um?　What's wrong?
+
+~---------------------------------------
+Sara
+----0046----
+D-Don't look this way, idiot!
+
+~---------------------------------------
+Rephy
+----0047----
+Not interested in children.#
+
+~---------------------------------------
+Sara
+----0048----
+Hmph!　I may be like a child now, but
+in the future i'll be like Shion.#
+
+~---------------------------------------
+Rephy
+----0049----
+Eh?　Like Shion!?
+
+~---------------------------------------
+Sara
+----0050----
+Don't go imagining things, idiot!
+
+~---------------------------------------
+Rephy
+----0051----
+You were the one to said it.#
+
+~---------------------------------------
+Potpourri
+----0052----
+Got plenty of nutrients?
+
+~---------------------------------------
+Rephy
+----0053----
+Is that even a spring?
+
+~---------------------------------------
+Potpourri
+----0054----
+All wild creatures love it!
+
+~---------------------------------------
+Rephy
+----0055----
+Sure, monkeys and bears.#
+
+~---------------------------------------
+Potpourri
+----0056----
+Ah!　I don't make fun of my friends in
+the forest!　Now i'm getting serious!
+
+~---------------------------------------
+Heine
+----0057----
+Look what you've done.
+
+~---------------------------------------
+Potpourri
+----0058----
+You can count yourself included!
+
+~---------------------------------------
+Heine
+----0059----
+Ehh? B-But all animals are my friends,
+you know.
+
+~---------------------------------------
+Potpourri
+----0060----
+You want to receive my power, don't you?
+Are you ready?
+
+~---------------------------------------
+Rephy
+----0061----
+Yeah, when ever you want.
+
+~---------------------------------------
+Potpourri
+----0062----
+Then, here comes the main event!
+
+~---------------------------------------
+Potpourri
+----0063----
+What i have protected together with forest
+friends.#
+
+~---------------------------------------
+Potpourri
+----0064----
+You won't get it that easily!
+
+~---------------------------------------
+Potpourri
+----0065----
+Well, you get a passing grade, at least.
+
+~---------------------------------------
+Potpourri
+----0066----
+Very well, come and receive it. But there
+is no point if you don't study more!
+
+~---------------------------------------
+Heine
+----0067----
+Rephy, we did it!
+
+~---------------------------------------
+Rephy
+----0068----
+Which means.#we have to get into that
+jelly again.#
+
+~---------------------------------------
+Sara
+----0069----
+You're dead if you look.
+
+~---------------------------------------
+Rephy
+----0070----
+Like i will!
+
+~---------------------------------------
+Potpourri
+----0071----
+Then, Rephy. Here i go! Transfer my power
+throughout the Lapis!
+
+~---------------------------------------
+Heine
+----0072----
+Ah, Amazing Rephy!.#
+Come here quickly♪
+
+~---------------------------------------
+Rephy
+----0073----
+Ah♪ I don't feel like going♪.#
+
+~---------------------------------------
+Heine
+----0074----
+There's nothing to get embarrassed for.
+We're are both men♪
+
+~---------------------------------------
+Rephy
+----0075----
+That's not the problem!
+I have to touch you Lapis!
+
+~---------------------------------------
+Heine
+----0076----
+It's alright, come here♪!
+Just think of it like it's training!
+
+~---------------------------------------
+Rephy
+----0077----
+Kuh, it's all or nothing!
+Take this!
+
+~---------------------------------------
+Heine
+----0078----
+Aah♪.#Ooh.#
+I'm getting all tingly♪!
+
+~-------------------------------
+Heine
+----0079----
+Feels like.#the earth is moving
+back and forth♪!
+
+~-------------------------------
+Rephy
+----0080----
+Hey! Don't just get up in front of me!
+
+~---------------------------------------
+Heine
+----0081----
+Ha ha ha!
+Look Rephy!
+
+~---------------------------------------
+Heine
+----0082----
+I feel the earth's power filling all
+inside of me!
+
+~---------------------------------------
+Rephy
+----0083----
+No.#more.#
+
+~---------------------------------------
+Sara
+----0084----
+Aah.#Ooh.# This sap like sensation.#feels
+so good!
+
+~---------------------------------------
+Rephy
+----0085----
+Er..Sara.#are you prepared?
+
+~---------------------------------------
+Sara
+----0086----
+C-Close your eyes first, idiot!
+
+~---------------------------------------
+Rephy
+----0087----
+S-Sorry. Like this?
+
+~---------------------------------------
+Sara
+----0088----
+Just reach out you arm, just like that.#
+
+~---------------------------------------
+Rephy
+----0089----
+T-This way.#?
+
+~---------------------------------------
+Sara
+----0090----
+Um.#here.#
+My Lapis is right here.#
+
+~---------------------------------------
+Sara
+----0091----
+Kuh.#i-it's too.#can't breath.#
+
+~-------------------------------
+Rephy
+----0092----
+Sara.#!?
+
+~-------------------------------
+Sara
+----0093----
+T-This is.#the pulsation of the
+nature. Aah aaaaah!
+
+~-------------------------------
+Rephy
+----0094----
+Sara, are you alright!?
+
+~---------------------------------------
+Sara
+----0095----
+!?　W-What are you opening you eyes for!
+Idiot!
+
+~---------------------------------------
+Rephy
+----0096----
+Ouch!　S-Sorry.#
+
+~---------------------------------------
+Potpourri
+----0097----
+How was it?　The forest's nutrients were
+pretty good, right?
+
+~---------------------------------------
+Rephy
+----0098----
+Rather than forest's nutrients, it was
+more like tree extract.#
+
+~---------------------------------------
+Kopin
+----0099----
+It worked pretty good for me. I think 
+i'll be fine now.
+
+~---------------------------------------
+Ashley
+----0100----
+I see. I'm relieved that Kopin is now
+recovered.
+
+~---------------------------------------
+Potpourri
+----0101----
+Wait a moment you lot. You sure are not
+going back already, aren't you?
+
+~---------------------------------------
+Rephy
+----0102----
+Well, we came here to help Kopin to
+recover in the first place.#
+
+~---------------------------------------
+Potpourri
+----0103----
+That's a waste!　Further ahead, there are
+more special hot springs.
+
+~---------------------------------------
+Potpourri
+----0104----
+Why don't you go visit each one?
+
+~---------------------------------------
+Inaluna
+----0105----
+But won't there be more witches like you
+waiting for us?
+
+~---------------------------------------
+Inaluna
+----0106----
+What will we do Rephy?$e3
+~---------------------------------------
+Rephy
+----0107----
+Let's go back for now.
+
+~---------------------------------------

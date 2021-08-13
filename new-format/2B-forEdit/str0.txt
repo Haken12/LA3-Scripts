@@ -20365,151 +20365,151 @@
 何とかしてよね！
 
 ~---------------------------------------
-ランド
+Rhand
 ----3699----
-レフィ、ちょうど良かった
+Rephy, you came at the right moment.
 
 ~---------------------------------------
-ランド
+Rhand
 ----3700----
-ハイネ先輩のこと、
-グレン先輩やお前は知ってるのか？
+Do you or Glen know about what Heine
+has been doing?
 
 ~---------------------------------------
-レフィ
+Rephy
 ----3701----
-ん？　何の話だ？
+What are you talking about？
 
 ~---------------------------------------
-ランド
+Rhand
 ----3702----
-なんだ、知らないのか。
-イナルナ党とか言って、人を集めてるんだよ
+So you didn't know. He's been gathering
+pepole for the so called Inaluna Faction.
 
 ~---------------------------------------
-ランド
+Rhand
 ----3703----
-あれ、いい加減にしないと
-そろそろアシュレイ先輩が動きだすぜ？
+If he doesn't stops now, Ashley is
+going to take action soon.
 
 ~---------------------------------------
 レフィ
 ----3704----
-何だよ、イナルナ党って…
+What's that Inaluna Faction…
 
 ~---------------------------------------
 ケイト
 ----3705----
-聞きました？　ハイネ先輩のこと
+Did you heard about Heine?
 
 ~---------------------------------------
 レフィ
 ----3706----
-ハイネがどうかしたのか？
+What's with Heine?
 
 ~---------------------------------------
 ケイト
 ----3707----
-わたくしたちにアシュレイお姉様親衛隊を
-解散して、
+He came to us, Ashley's Loyal Guards
+and told us to disbband and join
 
 ~---------------------------------------
 ケイト
 ----3708----
-イナルナ党などという怪しい集団に
-入党しろと仰いますの
+some suspicious group that he called
+the Inaluna Faction.
 
 ~---------------------------------------
 ケイト
 ----3709----
-冗談ではありませんわ！
+What a graceless joke!
 
 ~---------------------------------------
 レフィ
 ----3710----
-何やってんだ、あいつ…
+What's that guy even doing…
 
 ~---------------------------------------
-男子生徒
+Student M
 ----3711----
-ハイネ先輩がさぁ、イナルナ党に入れって
-とにかくしつこいんだよ
+You see, Heine has been insisting me
+to join some Inaluna Faction.
 
 ~---------------------------------------
-男子生徒
+Student M
 ----3712----
-レフィ、何とかしてくれよ
+Do something about it, Rephy.
 
 ~---------------------------------------
-ヴァレリ
+Valerie
 ----3713----
-ハイネなら、お仕置きが効きすぎたのか
-保健室で寝てるわ
+If it's about Heine, is punshisment was
+so severy it sent him to the Infirmary.
 
 ~---------------------------------------
 ヴァレリ
 ----3714----
-まったく、彼らにも困ったものね
+What a troublesome kids.# 
 
 ~---------------------------------------
 グレン
 ----3715----
-ハイネなら保健室で寝てるぜ。
-ヴァレリ先生の一撃がよっぽど効いたんだろ
+Heine it's sleeping in the Infirmary.
+Ms. Valerie's attack was really effective.
 
 ~---------------------------------------
 アシュレイ
 ----3716----
-今回の一件では、
-イナルナ殿下も反省されているようだな
+Looks like her Highness Inaluna has
+deflected about this incident.
 
 ~---------------------------------------
 アシュレイ
 ----3717----
-少し様子を見に行ってはどうだ？
+Won't you go check on her?
 
 ~---------------------------------------
 イナルナ
 ----3718----
-あ、レフィ。ちょっとお願いがあるんだけど
+Ah, Rephy. Can you do me a little favor?
 
 ~---------------------------------------
 レフィ
 ----3719----
-お願い？
+A favor?
 
 ~---------------------------------------
 イナルナ
 ----3720----
-犬に、これを渡して欲しいのよ
+I want you to give this to the Dog.
 
 ~---------------------------------------
 レフィ
 ----3721----
-これ…バイタルンか
+This is.#a VitaMint.
 
 ~---------------------------------------
 イナルナ
 ----3722----
-あのバカ、保健室で寝てるらしいんだけど…
+That idiot seems to be resting at the
+Infirmary.#
 
 ~---------------------------------------
 イナルナ
 ----3723----
-こんなことになったのも、
-あたしのせいだし…
+It's my fault all this happened to so.#
 
 ~---------------------------------------
 レフィ
 ----3724----
-なんだ、
-お前にも罪の意識ってヤツがあったんだな
+So even you have something ressembling
+to a conscience.
 
 ~---------------------------------------
 イナルナ
 ----3725----
-ちち、違うわよっ！
-あたしは自由のために戦ったんだからねっ！
+I-I did nothing wrong!
+I was just figthing for our freedom!
 
 ~---------------------------------------
 イナルナ

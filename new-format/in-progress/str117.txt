@@ -1,0 +1,574 @@
+0105 M BE82E682
+Elle
+----0001----
+Don't you hear a melody coming from
+somewhere?
+
+~---------------------------------------
+Rephy
+----0002----
+Now you mention it.#
+
+~---------------------------------------
+Sadie
+----0003----
+Fufu, did you heard the wind's tunes?
+
+~---------------------------------------
+Rephy
+----0004----
+Are you this place's Guardian Witch?
+
+~---------------------------------------
+Sadie
+----0005----
+Yes, I'm Sadie of the Dancing Wind. This
+spring's guardian.#maybe.#
+
+~---------------------------------------
+Sadie
+----0006----
+It's so boring here, you came at a good
+time.
+
+~---------------------------------------
+Sara
+----0007----
+A witch that uses the wind ,Sadie.#
+A special being called Winged One.#
+
+~---------------------------------------
+Sara
+----0008----
+She's much more older that she looks.#
+
+~---------------------------------------
+Sadie
+----0009----
+Heh, you sure know your stuff.
+
+~---------------------------------------
+Sara
+----0010----
+It was all written in an ancient book.
+
+~---------------------------------------
+Sadie
+----0011----
+Um.#is that so?
+
+~---------------------------------------
+Sadie
+----0012----
+Then, i also mentions that i really love
+to play?
+
+~---------------------------------------
+Sara
+----0013----
+It mentions that Sadie feels alive when
+fighting strong opponents.
+
+~---------------------------------------
+Rephy
+----0014----
+Say what.#!?
+
+~---------------------------------------
+Dino
+----0015----
+Interesting. Sadie whas it?.#
+I will shall receive you wind!
+
+~---------------------------------------
+Shion
+----0016----
+I-I'm also a Wind Magi!
+
+~---------------------------------------
+Shion
+----0017----
+I'll try my best for Miss Sadie to
+acknowledge me!
+
+~---------------------------------------
+Sadie
+----0018----
+I'm getting excited after so long. Come
+and play with me!
+
+~---------------------------------------
+Sadie
+----0019----
+Fuu, you're quite strong. It's was pretty
+fun.
+
+~---------------------------------------
+Dino
+----0020----
+Hah hah.#Has expected from a legendary
+Witch.#so powerful!
+
+~---------------------------------------
+Shion
+----0021----
+I-I could barely keep up.#
+I need to work even harder.#
+
+~---------------------------------------
+Sadie
+----0022----
+Fufufu. Don't need to rush it, you're just
+growing up.
+
+~---------------------------------------
+Sadie
+----0023----
+Dino and Shion, whas it?
+Which one will inherit my powers?
+
+~---------------------------------------
+Sadie
+----0024----
+Who do you choose, Rephy?
+
+~---------------------------------------
+Rephy
+----0025----
+Even if you tell me that.#
+
+~---------------------------------------
+Sadie
+----0026----
+Fufu, Rephy is still a child. Adults
+don't doubt in times like this.#$e3
+~---------------------------------------
+Dino
+----0027----
+Uu.#
+
+~---------------------------------------
+Rephy
+----0028----
+What's this!?　Rather than a hot spring,
+it's like floating in the air!?
+
+~---------------------------------------
+Dino
+----0029----
+So this is the Spring of the Dancing
+Wind.#It's like being carried by the wind.#
+
+~---------------------------------------
+Rephy
+----0030----
+Uh.#i'm getting sick. How can you be so
+calmed in here.#
+
+~---------------------------------------
+Dino
+----0031----
+Uu.#Uu.#
+
+~---------------------------------------
+Rephy
+----0032----
+So you were just holding it up.#
+
+~---------------------------------------
+Shion
+----0033----
+Fu.#aah.#fuffu, it tickles!
+
+~---------------------------------------
+Rephy
+----0034----
+What's this!?　Rather than a hot spring,
+it's like floating in the air!?
+
+~---------------------------------------
+Shion
+----0035----
+Aah.#Stop it, it tickles.#!
+
+~---------------------------------------
+Rephy
+----0036----
+Eh!?　I-I'm not doing anything!?
+D-Don't face this way, Shion!
+
+~---------------------------------------
+Shion
+----0037----
+S-Sorry.#The wind was all around me and.#
+
+~---------------------------------------
+Shion
+----0038----
+Kyaa!　A-aaah!
+
+~---------------------------------------
+Rephy
+----0039----
+Eh.#.#
+
+~---------------------------------------
+Shion
+----0040----
+S-Sorry.#Rephy.#
+Aah ha ha.#no.#sorry.#
+
+~---------------------------------------
+Rephy
+----0041----
+D-Don't mind it, Shion. I-I won't mind
+it either.#
+
+~---------------------------------------
+Sadie
+----0042----
+How was it?　Did the wind made some
+prank on you?
+
+~---------------------------------------
+Rephy
+----0043----
+That was too "playful".#
+
+~---------------------------------------
+Dino
+----0044----
+No.#i was not playing, i was seriously
+feeling the wind in my skin.#
+
+~---------------------------------------
+Shion
+----0045----
+That's right. I felt some kind of power.
+
+~---------------------------------------
+Sadie
+----0046----
+Fufufu. But, next it's our goodbye. The
+time sure goes faster when you have fun.
+
+~---------------------------------------
+Rephy
+----0047----
+So it's a fight after all.#
+
+~---------------------------------------
+Sadie
+----0048----
+That's right. Try your best to receive
+my wind. Here i go!
+
+~---------------------------------------
+Sadie
+----0049----
+Fuu. You're quite though. I changed my
+opinion of you.
+
+~---------------------------------------
+Rephy
+----0050----
+So you will let us receive you powers?
+
+~---------------------------------------
+Sadie
+----0051----
+Yeah. I've taken a liking on you guys.
+
+~---------------------------------------
+Sadie
+----0052----
+I wanted to play a little more tough.
+
+~---------------------------------------
+Shion
+----0053----
+Thank you very much!
+
+~---------------------------------------
+Shion
+----0054----
+We did it Rephy!
+
+~---------------------------------------
+Dino
+----0055----
+With this, the next battles should be
+less difficult.#
+
+~---------------------------------------
+Sadie
+----0056----
+It's now time for an Adult Bath.
+
+~---------------------------------------
+Rephy
+----0057----
+Adult Bath?
+
+~---------------------------------------
+Sadie
+----0058----
+Actually, you can't go inside this spring
+while wearing a towel.
+
+~---------------------------------------
+Sadie
+----0059----
+Adults don't use something like a towel.
+
+~---------------------------------------
+Dino
+----0060----
+What!?　Then, you want us to go inside.#
+er.# na.#naked!?.#
+
+~---------------------------------------
+Shion
+----0061----
+Eeeh!?　Then.# we have to get inside
+na.#na.#naked!?.#
+
+~---------------------------------------
+Sadie
+----0062----
+Fufu, no way. I was just joking with
+you.
+
+~---------------------------------------
+Sadie
+----0063----
+You don't have to get flustered like
+that. You're just children after all.
+
+~---------------------------------------
+Rephy
+----0064----
+Good grief, that's not the problem here.#
+
+~---------------------------------------
+Dino
+----0065----
+Wah.#this feeling.# It's like being
+surrounded by mist.#
+
+~---------------------------------------
+Rephy
+----0066----
+So hard to see, it's like being inside
+a mist. Dino, where are you?!
+
+~---------------------------------------
+Dino
+----0067----
+Right here, i front of you.
+
+~---------------------------------------
+Rephy
+----0068----
+Oh, there you are. Then, i'll touch your
+Lapis?　What!
+
+~---------------------------------------
+Dino
+----0069----
+That's.#my chest.#
+
+~---------------------------------------
+Rephy
+----0070----
+My bad.#it should be around here.#
+
+~---------------------------------------
+Dino
+----0071----
+That's.#my belly.#
+
+~---------------------------------------
+Rephy
+----0072----
+Ah, then.#here!
+
+~---------------------------------------
+Dino
+----0073----
+Ha ha ha.#ha.#!
+
+~-------------------------------
+Rephy
+----0074----
+W-What's wrong!?
+
+~---------------------------------------
+Dino
+----0075----
+Ah, sorry.#
+
+~---------------------------------------
+Dino
+----0076----
+It's the first time a have my Lapis
+touched my someone else.#
+
+~---------------------------------------
+Rephy
+----0077----
+I see.#
+Then, did you got the power?
+
+~---------------------------------------
+Dino
+----0078----
+Yeah. Certainly, i feel something new
+awakening inside of me.#
+
+~---------------------------------------
+Rephy
+----0079----
+Eh.#!?　Awakening you said.#
+Are you.#!
+
+~---------------------------------------
+Dino
+----0080----
+Fool!　Don't get the wrong idea!
+
+~---------------------------------------
+Shion
+----0081----
+Uh.#ha ha ha.#
+
+~---------------------------------------
+Rephy
+----0082----
+So hard to see, it's like being inside
+a mist. Shion, where are you?!
+
+~---------------------------------------
+Shion
+----0083----
+R-Right here.#
+
+~---------------------------------------
+Rephy
+----0084----
+Woa!　You were just in front of me!
+
+~---------------------------------------
+Shion
+----0085----
+Er. I think.#i'm p-prepared now.
+
+~---------------------------------------
+Rephy
+----0086----
+Er.#your Lapis was.# in you left leg
+was it?
+
+~---------------------------------------
+Shion
+----0087----
+S-Sorry.#I may be being rude, showing
+out my legs.#
+
+~---------------------------------------
+Rephy
+----0088----
+I don't mind. A-And Shion's legs are.#
+um.#pretty, i think.
+
+~---------------------------------------
+Shion
+----0089----
+P-Pretty.#
+
+~---------------------------------------
+Rephy
+----0090----
+Then, here i go?
+
+~---------------------------------------
+Shion
+----0091----
+Ah.#a-ahh.#
+
+~-------------------------------
+Shion
+----0092----
+I feel something hot.#some power
+raising from my toes.#
+
+~-------------------------------
+Shion
+----0093----
+A-Aaah!
+
+~-------------------------------
+Shion
+----0094----
+Hah, hah.#
+
+~---------------------------------------
+Rephy
+----0095----
+A-Are you alright?
+
+~---------------------------------------
+Shion
+----0096----
+Yes. I-I feel like have become a little
+more of an adult now.#
+
+~---------------------------------------
+Rephy
+----0097----
+Ehh!?
+
+~---------------------------------------
+Sadie
+----0098----
+How is it? My powers?
+Were you able to receive it?
+
+~---------------------------------------
+Rephy
+----0099----
+This hot spring trip is tiring me out.#
+
+~---------------------------------------
+Sadie
+----0100----
+Is that so? The adult time it's pretty
+fun when you get used to it.
+
+~---------------------------------------
+Rephy
+----0101----
+Are there more hot springs further?
+
+~---------------------------------------
+Sadie
+----0102----
+There are 3 more left. You'll surely
+become adults when you finish them all.
+
+~---------------------------------------
+Rephy
+----0103----
+I don't know if i should be happy or sad
+about that.#
+
+~---------------------------------------
+Dino
+----0104----
+What do we do Rephy?　Do we continue?$e3
+~---------------------------------------
+Rephy
+----0105----
+Let's get back for now.
+
+~---------------------------------------

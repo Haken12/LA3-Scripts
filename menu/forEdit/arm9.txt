@@ -14,7 +14,7 @@ Sara
 Lyra
 Aulmorde
 Arnogia
-Void
+None
 Greatsword
 Spear
 Dagger
@@ -30,7 +30,7 @@ Harp
 Lance
 Scythe
 Rapier
-1H Sword
+Sword
 Rod
 Axe
 Feather Staff
@@ -88,7 +88,7 @@ Fire March
 Sphere Cross
 Stella Shine
 Soul Slayer
-ヴァーチャーレイ
+Virtue Ray
 Lunar Strike
 －
 －
@@ -164,9 +164,9 @@ Magic+
 Resist+
 Technique+
 Speed+
-Power Drug
-Wall Drug
-Celerity Drug
+Attack Potion
+Defense Potion
+Celerity Potion
 Drive X
 Drive Soda
 Revive Bottle
@@ -223,7 +223,7 @@ God's Seat
 Isthan Dessert
 Remono Beach
 Xarena Ruins
-Nagal Ridge
+Gnarl Ridge
 Training Hall（Inner）
 Star Memory S2
 Star Memory S3
@@ -245,7 +245,7 @@ Knight Club
 Bath
 Teleport Chamber
 Main Hall 1F
-Lest Church
+Lest Order
 Workshop
 Infirmary
 Shop
@@ -296,7 +296,7 @@ Item
 FD
 Unison
 Wait
-Move here?
+End Turn?
 ■
 Tutorial
 Main Battle
@@ -354,7 +354,7 @@ Unique
 ■
 ■
 ■
-Glen's Mantle
+Glen's Cape
 Aulmorde's Horn
 Arnogia's Scale
 Reinhart's Helm
@@ -442,7 +442,7 @@ Thief Axe Hilt
 Cestus Bracelet
 R. Knight Shoes
 G. Kopin Fang
-アース鱗
+Dvergr Scale
 Atlas Powder
 High Elf Horn
 Dark Elf Hair
@@ -553,7 +553,7 @@ Cursed Dagger
 Healer
 Soul of Chaos
 Healing Aura
-Charity Aura
+Vigor Aura
 Vitality Aura
 Magic Aura
 Focus
@@ -583,8 +583,8 @@ Chaos Crystal
 Freeze Crystal
 Silence Crystal
 Slow Crystal
-Time Tablet
-Void Tablet
+Time Stone
+Void Stone
 Lapis 131
 Lapis 132
 LapiS 133
@@ -606,7 +606,7 @@ Valkyrie
 Ishtar
 Venus
 Pandora
-Taoist
+Tao
 Titania
 Siegfried
 Ragnarok
@@ -779,7 +779,7 @@ Cestus
 Royal Knight
 Ｎラビネス
 Golden Kopin T
-Ｆアース
+Dvergr F
 Atlas N
 High Elf F
 Dark Elf N
@@ -820,7 +820,7 @@ Rephy
 ■
 ■
 Reinhart
-Smirnov
+Smirzaff
 Valerie
 ■
 ■
@@ -878,7 +878,7 @@ Bonaparte
 Althea
 Fatima
 Dia
-Luna Luna
+Lunaluna
 Sadie
 Potpourri
 ■
@@ -1022,7 +1022,7 @@ Cross Guard
 Shield Bash
 Land Stinger
 Herculean Wave
-Protect Down
+Protection Break
 Dark Ball
 Night Scream
 Night Drain
@@ -1033,7 +1033,7 @@ Curall
 Revive
 Liquid Squall
 Twin Needles
-Treat
+Treatment
 Cross Petals
 Night Scream
 Rose Waltz
@@ -1105,11 +1105,11 @@ Freezing Kiss
 Freeze Dust
 Linear Panic
 Crisis Eyes
-Attack Barrier
+Physical Barrier
 Magic Barrier
 Curall
 Lost Lightning
-グリーバスクライ
+Grievous Cry
 Infinity
 －
 －
@@ -1141,7 +1141,7 @@ Full Swing
 Full Swing
 Poison Breath
 Void String
-耳乱舞
+Ear Lance
 Heavy Attack
 Blitz
 Impale
@@ -1216,7 +1216,7 @@ Dark Breath
 【ＴＡＢＬＥ２】
 All Allies Defeated
 Main Character Defeated
-Defeat %s 
+%s is Defeated
 Enemy reaches the exit
 Defeat all enemies
 Reach the Exit
@@ -1225,8 +1225,8 @@ Defeat %s
 Defeat %s or %s
 Defeat %s and %s
 Get close to %s
-Reduce %s HP
-%s defeats %s
+Reduce %s's HP
+Defeat %s %s 
 N/A
 Teeth
 Horn
@@ -1287,9 +1287,9 @@ Magical Attack Power
 Magical Defense Power
 Accuracy Rate
 Evasion Rate
-Do you wish to $n save now?
-Saving.#$n Don't turn off the power
-Save Complete $n Continue playing?
+Do you wish to $nsave now?
+Saving.#$nDon't turn off the power
+Save Complete $nContinue playing?
 Retry?
 Enemy reinforcements!
 Move and navigate the map
@@ -1639,13 +1639,13 @@ Feather Bow
 Winged Bow
 Faeric Bow
 Artemis Bow
-Terpsichora
+Terpsichore
 Amaterasu Bow
 Reserve Bow 1
 Reserve Bow 2
 Reserve Bow 3
 Turnip Bomb
-Moly Bomb
+Molly Bomb
 Torpedo
 Sparkling Bomb
 Mandra Bomb
@@ -1731,21 +1731,21 @@ Regions
 Objects
 History
 Organizations
-生命
+Individuals
 Magic
 　
 　
-Welcome, Who would you $n like to become closer with?
-I can only do so such. $n The rest will be up to you.
-If you are so close,$n you don't require my help anymore.
-A little invest is required, $n do you agree?
-I'm taking the fee
-Please choose one of $n the Lucky Presents.
+Welcome, Who would you $nlike to become closer with?
+I can only do so such. $nThe rest will be up to you.
+If you are so close,$nyou don't require my help anymore.
+A little invest is required,$ndo you agree?
+I'm taking the fee.
+Please choose one of $nthe Lucky Presents.
 You don't have enough money.
 Looks it went good.
-This is all i can do.$n Now is up to you.
-What a pity.#$n Wrong present this time.
-Come to me when $n you want try again.
+This is all i can do.$nNow is up to you.
+What a pity.#$nWrong present this time.
+Come to me when $nyou want try again.
 .#.#.
 There is nothing i can do right now.#
 　
@@ -1760,7 +1760,7 @@ Lapis
 Return
 Buy this?
 Equip purchased equipment?
-Select character
+Select character.
 Equip change complete.
 Are you sure?
 Welcome!
@@ -1768,17 +1768,17 @@ Please look at our goods!
 What do you wish to sell?
 Anything else?
 Thank you for you patronage!
-You can't hold more of this
+You can't hold any more of this
 You don't have enough money
-What will be?
-You have nothing left to sell
-I have nothing to sell to you
+What will it be?
+You have nothing left to sell.
+I have nothing to sell to you.#
 　
 　
 Save the data?
-Load the data?
+Load this data?
 Final Chapter
-                 Chapter %s
+Chapter %s
 Normal
 Hard
 Continue from this data?
@@ -1812,15 +1812,15 @@ Delete?
 Your Friend Code
 　
 　
-Wi-Fi connection failed. $n Please consult the $n Guide Book。
-Wi-Fi connection is weak or $n the service is stopped.$n Please try again $n later.
-Your Wi-Fi Connection ID is $n too long and can't be used. $n Please consult the $n Guide Book.$n 
-This software's Wi-Fi Connection $n Service has ended.$n Thank you for $n using us.
-Access point is unstable and $n couldn't connect $n Please try again later
-Couldn't find access point$nPlease get closer and try $n again.
-Couldn't find available access point. $nPlease check the $n Wi-Fi Connection settings$n 
-Couldn't Connect to Nintendo $n Network.Please check the $n Nintendo Connect Wi-Fi $n settings in Wi-Fi Settings $n 
-Couldn't establish Wi-Fi connection.$nPlease check the Wi-Fi $n Connection settings.
+Wi-Fi connection failed. $nPlease consult the $nGuide Book。
+Wi-Fi connection is weak or $nthe service is stopped.$nPlease try again $nlater.
+Your Wi-Fi Connection ID is $ntoo long and can't be used. $nPlease consult the $nGuide Book.$n
+This software's Wi-Fi Connection $nService has ended.$nThank you for $nusing us.
+Access point is unstable and $ncouldn't connect $nPlease try again later
+Couldn't find access point$nPlease get closer and try $nagain.
+Couldn't find available access point. $nPlease check the $nWi-Fi Connection settings$n
+Couldn't Connect to Nintendo $nNetwork.Please check the $nNintendo Connect Wi-Fi $nsettings in Wi-Fi Settings $n
+Couldn't establish Wi-Fi connection.$nPlease check the Wi-Fi $nConnection settings.
 There is no response. $nTarget may not be connected $nor your are not$nregistered in it's Friend List.
 Connection Error.
 Wi-Fi function stopped due error.$nRestart the console $nand try again
@@ -1829,42 +1829,42 @@ Connect to Wi-Fi?
 Ｗｉ－Ｆｉコネクションでは、　　$nＤＳカードと本体をセットで扱いま$nす。ＤＳカードに本体の　　　　　$nＷｉ－Ｆｉユーザー情報を保存し　$nて、Ｗｉ－Ｆｉコネクションに接続$nしますか？
 この本体のＷｉ－Ｆｉユーザー情報$nをＤＳカードに保存しました。今後$nのＷｉ－Ｆｉコネクションへの接続$nは、この本体をお使いください。
 本体とＤＳカードの　　　　　　　$nＷｉ－Ｆｉユーザー情報がちがうた$nめＷｉ－Ｆｉコネクションに接続で$nきません。
-Update Wi-Fi user information $n in the DS Card? $nAll data from Wi-Fi $nconnection will be lost.
-Connecting to Wi-Fi and　$n updating user information.$n Are you sure? $n 
+Update Wi-Fi user information $nin the DS Card? $nAll data from Wi-Fi $nconnection will be lost.
+Connecting to Wi-Fi and　$nupdating user information.$nAre you sure? $n
 Connection to Wi-Fi.$nWait a moment please.#
-Your nickname can't be $n used for Wi-Fi connection $n Change it and $n try again.
-Disconnect from $n Wi-Fi?
-Disconnecting.# $n 
-Disconnected from Wi-Fi.$n 
-In order to have a Wi-Fi battle with a$n friend, your new friend code must $n be registered in $n your friend's $n Friend List.
-Looking for opponents.$n Wait a moment please.#
+Your nickname can't be $nused for Wi-Fi connection $nChange it and $ntry again.
+Disconnect from $nWi-Fi?
+Disconnecting.# $n
+Disconnected from Wi-Fi.$n
+In order to have a Wi-Fi battle with a$nfriend, your new friend code must $nbe registered in $nyour friend's $nFriend List.
+Looking for opponents.$nWait a moment please.#
 There is no friend code because$you have never connected to$nNintendo Wi-Fi Connection.
-Remove from Friend List$n ?
+Remove from Friend List$n?
 Invalid Friend Code.
-Friend list full　$n Please make space using　$n Manage Friend List $n 
-That friend is in Friend $n List already.
+Friend list full　$nPlease make space using　$nManage Friend List $n
+That friend is in Friend $nList already.
 Register Complete.
-Waiting for the opponent　$n formation to finish.#
+Waiting for the opponent　$nformation to finish.#
 Save game data?
-The obtained items　will be lost.$n Are you sure? $n 
-Couldn't read the data. Turn OFF the console, $n reinsert the Card$n and try again.
-Couldn't write the data. Turn OFF the console $n reinsert the Card$n and try again.
-The Wi-Fi user data being　$n written in the DS card$n is corrupted.
-Friend List was corrupted　$n and lost　$n 
-DS Wireless $n connection failed.
+The obtained items　will be lost.$nAre you sure? $n
+Couldn't read the data. Turn OFF the console, $nreinsert the Card$nand try again.
+Couldn't write the data. Turn OFF the console $nreinsert the Card$nand try again.
+The Wi-Fi user data being　$nwritten in the DS card$nis corrupted.
+Friend List was corrupted　$nand lost　$n
+DS Wireless $nconnection failed.
 Could not connect to you opponent.
 Connection with opponent lost.
-Wait for opponent to connect$n wait moment please.
-Sync with opponent failed$n the battle will stop.
-End the game by turning OFF $n the power please.
+Wait for opponent to connect$nwait moment please.
+Sync with opponent failed$nthe battle will stop.
+End the game by turning OFF $nthe power please.
 　
 　
 Fight Again?
 　
 　
 ???
-Watch %s's Ending?$n 
-Do you want to exit$n without saving?
+Watch %s's Ending?$n
+Do you want to exit$nwithout saving?
 　
 　
 Welcome
@@ -1879,23 +1879,23 @@ Please, take care of it
 Good Forge, Good Forge
 Thank you very much
 What will you buy?
-Umn.#, there is nothing$n left to forge
-Oh, you don't have enough money.$n Come back later.
+Umn.#, there is nothing$nleft to forge
+Oh, you don't have enough money.$nCome back later.
 Anything else?
 What will you sell?
-You have nothing left $n to sell.
+You have nothing left $nto sell.
 You can't hold more of this
 　
-Then, let's find a good $n present
+Then, let's find a good $npresent.
 The result shows.# 3 possible presents.#
-From now on is $n up to you luck
+From now on is $nup to you luck.
 　
 　
-Gallery unlocked
-Scene Replay unlocked
-Sound Test unlocked
-Ending Theater unlocked
-Kopin Theater unlocked
-Profile unlocked
-New Profile entry added
-All clear reward added to Gallery
+Gallery unlocked.
+Scene Replay unlocked.
+Sound Test unlocked.
+Ending Theater unlocked.
+Kopin Theater unlocked.
+Profile unlocked.
+New Profile entry added.
+All clear reward added to Gallery.
