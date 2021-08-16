@@ -1,0 +1,494 @@
+0092 K BF979D82
+Eliza
+----0001----
+Oh, Rephy. Welcome!
+
+~-------------------------------
+Eliza
+----0002----
+I was just heading out right now.
+
+~---------------------------------------
+Rephy
+----0003----
+Is this your day off?
+
+~---------------------------------------
+Eliza
+----0004----
+We ran out of ingredients for the food so,
+i'm going to buy more.
+
+~---------------------------------------
+Rephy
+----0005----
+Eh?Å@All by yourself?
+
+~---------------------------------------
+Eliza
+----0006----
+Of courseÅ`
+
+~---------------------------------------
+Rephy
+----0007----
+Oracle.#is it Ok to let her go by
+herself?
+
+~---------------------------------------
+Rephy
+----0008----
+Eliza is bad with directions.#
+
+~---------------------------------------
+Oracle
+----0009----
+I would lie if i say it doesn't worry
+me.#
+
+~---------------------------------------
+Rephy
+----0010----
+That what i thought.#
+
+~---------------------------------------
+Eliza
+----0011----
+?Å@Rephy.#
+Is there something in your mind?$e3
+~---------------------------------------
+Rephy
+----0012----
+No, it's nothing
+
+~---------------------------------------
+Eliza
+----0013----
+? Then i'm heading out!
+
+~---------------------------------------
+Rephy
+----0014----
+Be careful. Don't go stopping everywhere.
+
+~---------------------------------------
+Eliza
+----0015----
+Huh HuhÅ` I'll be fine, i'm not a little
+girl.
+
+~---------------------------------------
+Rephy
+----0016----
+Do you.#know the direction, right?
+
+~---------------------------------------
+Eliza
+----0017----
+I'll be back before you know it. Wait
+your souvenir.
+
+~---------------------------------------
+Rephy
+----0018----
+How far are you going.#
+
+~---------------------------------------
+Eliza
+----0019----
+See you.#
+
+~-------------------------------
+Oracle
+----0020----
+She left, but what will you do?
+
+~---------------------------------------
+Rephy
+----0021----
+Well.#Eliza went to shopping, so i'll
+leave for today.
+
+~---------------------------------------
+Oracle
+----0022----
+Fufu.# What a pity.#
+Come back again, Rephy.
+
+~---------------------------------------
+Eliza
+----0023----
+Ehh, did i did something?
+Am i troubling Rephy?
+
+~---------------------------------------
+Rephy
+----0024----
+That's not it Eliza.# Can you remember
+the direction properly?
+
+~---------------------------------------
+Oracle
+----0025----
+Fufu.# Then, why don't you go with her?
+
+~---------------------------------------
+Rephy
+----0026----
+HahÅI?
+
+~---------------------------------------
+Oracle
+----0027----
+After you know she might get lost, what
+should a Magi Knight do about that?
+
+~---------------------------------------
+Rephy
+----0028----
+.#.#
+
+~---------------------------------------
+Eliza
+----0029----
+Eh?Å@You don't have to. I would feel
+bad for you.
+
+~---------------------------------------
+Rephy
+----0030----
+Good grief. No choice then, Oracle 
+give the money to me.
+
+~---------------------------------------
+Eliza
+----0031----
+Ugh.#sorry Rephy.#
+
+~---------------------------------------
+Oracle
+----0032----
+Fufu.#, i paid in advance, so you just
+have to get the goods from the Shop.
+
+~---------------------------------------
+Rephy
+----0033----
+Got it. Let's go.
+
+~---------------------------------------
+Eliza
+----0034----
+AhÅ`.#
+
+~-------------------------------
+Eliza
+----0035----
+.#.#
+
+~-------------------------------
+Rephy
+----0036----
+I'm here for the Club's.#
+
+~-------------------------------
+çwîÉïîàı
+----0037----
+Yes, understood. Wait a moment
+please.
+
+~-------------------------------
+çwîÉïîàı
+----0038----
+Here.
+
+~-------------------------------
+Rephy
+----0039----
+Thank you.
+
+~-------------------------------
+Rephy
+----0040----
+Alright.#
+Let's go back to the Club.
+
+~-------------------------------
+Rephy
+----0041----
+Whoa, where did Eliza go now?
+
+~---------------------------------------
+Oracle
+----0042----
+Oh my, didn't you two meet?
+
+~---------------------------------------
+Rephy
+----0043----
+Meet.#?Å@With who?
+
+~---------------------------------------
+Oracle
+----0044----
+With Eliza of course.
+
+~---------------------------------------
+Oracle
+----0045----
+She went out right after you left.
+
+~---------------------------------------
+Oracle
+----0046----
+I thought you two went to the shop 
+together.
+
+~---------------------------------------
+Oracle
+----0047----
+But i you didn't meet up, it means that
+Eliza got lost again.#
+
+~---------------------------------------
+Rephy
+----0048----
+How do you even get lost in the way from
+here to the Shop.#
+
+~---------------------------------------
+Oracle
+----0049----
+Sorry Rephy, could you go look for her?
+
+~---------------------------------------
+Oracle
+----0050----
+I can't leave here right now.#
+
+~---------------------------------------
+Rephy
+----0051----
+Got it. I'll find her and bring her
+back right away.
+
+~---------------------------------------
+Oracle
+----0052----
+That's a great help. Thank you.
+
+~---------------------------------------
+Rephy
+----0053----
+ElizaÅI
+
+~-------------------------------
+Eliza
+----0054----
+Oh My, i was looking for you.
+
+~---------------------------------------
+Rephy
+----0055----
+For me.#?
+
+~---------------------------------------
+Eliza
+----0056----
+Yes. I thought we could go shopping
+together and went after you.
+
+~---------------------------------------
+Eliza
+----0057----
+But you were nowhere.
+
+~---------------------------------------
+Eliza
+----0058----
+I was in shock, you're pretty fast
+on you feet.
+
+~---------------------------------------
+Rephy
+----0059----
+.#.#
+
+~---------------------------------------
+Eliza
+----0060----
+Alright, since i have found you, let's
+go to the ShopÅ`
+
+~---------------------------------------
+Rephy
+----0061----
+I went already.
+
+~---------------------------------------
+Eliza
+----0062----
+EhÅI?Å@Already? You're lying rightÅI?
+
+~---------------------------------------
+Eliza
+----0063----
+I would have taken me much more time.
+
+~---------------------------------------
+Rephy
+----0064----
+It's nothing, this much.
+
+~---------------------------------------
+Eliza
+----0065----
+That's not true. You're quite quick
+when you work.
+
+~---------------------------------------
+Eliza
+----0066----
+Fufu. Maybe i should count on you in
+another occasionÅÙ$e3
+~---------------------------------------
+Eliza
+----0067----
+No? I bet you could go anywhere and
+not get lost.
+
+~---------------------------------------
+Rephy
+----0068----
+Again? Give me a break.#
+
+~---------------------------------------
+Eliza
+----0069----
+But, Samantha can even go to the moon!
+
+~---------------------------------------
+Rephy
+----0070----
+I can't go thereÅI Don't take her jokes
+so seriously!
+
+~---------------------------------------
+Eliza
+----0071----
+Oh my, what a pity. It makes me sad.
+
+~---------------------------------------
+Rephy
+----0072----
+I have some words for the Oracle. Let's
+go back already.
+
+~---------------------------------------
+Eliza
+----0073----
+FufuÅÙ Let's goÅÙ
+
+~---------------------------------------
+Eliza
+----0074----
+For me?  Really?
+I'm so gladÅÙ
+
+~---------------------------------------
+Rephy
+----0075----
+If it's something simple, i could write
+it for you.
+
+~---------------------------------------
+Eliza
+----0076----
+You can even do that! Amazing!
+
+~---------------------------------------
+Rephy
+----0077----
+For a Magi, it's important to be able to
+to take a good position in battle.
+
+~---------------------------------------
+Rephy
+----0078----
+Even i have studied a little.
+
+~---------------------------------------
+Eliza
+----0079----
+Thank you. But, do i know how to read
+a map?
+
+~---------------------------------------
+Rephy
+----0080----
+Aaah, i'll teach you.
+
+~---------------------------------------
+Eliza
+----0081----
+Sorry for the trouble.
+
+~---------------------------------------
+Rephy
+----0082----
+I'm doing it because i want. There is
+not problem then, right?
+
+~---------------------------------------
+Rephy
+----0083----
+Think of it as my gratitude. Eliza and
+the Oracle always give me a good time.
+
+~---------------------------------------
+Eliza
+----0084----
+Then, i'll give you my thanks too.
+Here.#
+
+~---------------------------------------
+Rephy
+----0085----
+Eh? Cheese.#?
+
+~---------------------------------------
+Eliza
+----0086----
+That's right, i made itÅÙ
+
+~---------------------------------------
+Rephy
+----0087----
+Eh.#
+
+~---------------------------------------
+Eliza
+----0088----
+Fufufu. I'm kidding.
+
+~---------------------------------------
+Rephy
+----0089----
+That was joke.#
+
+~---------------------------------------
+Eliza
+----0090----
+But Rephy, thank you. I was very happy.
+
+~---------------------------------------
+Rephy
+----0091----
+.#Why do i feel so tired.#
+
+~---------------------------------------
+Eliza
+----0092----
+FufufuÅÙ
+
+~---------------------------------------

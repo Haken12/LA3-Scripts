@@ -510,7 +510,7 @@ Crimson Crystal
 Inferno Crystal
 Snail Crystal
 Coral Crystal
-Perl Crystal
+Pearl Crystal
 Leaf Crystal
 Verdant Crystal
 Harvest Crystal
@@ -528,7 +528,7 @@ Crimson Charm
 Inferno Charm
 Snail Charm
 Coral Charm
-Perl Charm
+Pearl Charm
 Leaf Charm
 Verdant Charm
 Harvest Charm
@@ -1226,7 +1226,7 @@ Defeat %s or %s
 Defeat %s and %s
 Get close to %s
 Reduce %s's HP
-Defeat %s %s 
+Defeat %s x%s 
 N/A
 Teeth
 Horn
@@ -1310,7 +1310,7 @@ Quick Save
 Å°
 Open God's Eye
 Check the map and place characters
-Battle Conditions have changed!
+Conditions have changed!
 Not enough money!
 I'll be taking the fee, proceed?
 Press the stop button and stop Kopin.

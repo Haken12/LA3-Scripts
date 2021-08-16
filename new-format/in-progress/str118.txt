@@ -1,546 +1,549 @@
 0099 M BE82BE82
 Heine
 ----0001----
-次はどんな温泉だろうね～
+A wonder how will the next spring be～
 
 ~---------------------------------------
 Rephy
 ----0002----
-何だっていいよ。どうせまた、
-ろくでもない温泉なんだろうしさ
+Who cares. It will be just another good
+for nothing spring.
 
 ~---------------------------------------
 Dia
 ----0003----
-ろくでもないとは何事だ！？
+What is a good for nothing!?
 
 ~---------------------------------------
 Rephy
 ----0004----
-出たな。あんたがここの魔女番か？
+Here she comes. Are you the Guardian here?
 
 ~---------------------------------------
 Dia
 ----0005----
-その通り！　私がここのリーダー的存在、
-閃光温泉を守るDiaである！
+Indeed!　I'm this place's leader. Guardian
+of the Brilliant Spring, Dia!
 
 ~---------------------------------------
 Sara
 ----0006----
-光の魔法を操る閃光の魔女、Dia…
-大雑把な性格で、極度の方向オンチ…
+A Light user, the Brilliant Witch Dia…
+Laid back and never listen to anyone…
 
 ~---------------------------------------
 Dia
 ----0007----
-ちょっと待て！　なんだその余計な情報は！
+Wait  a moment! That information was
+unnecessary.
 
 ~---------------------------------------
 Sara
 ----0008----
-知らないよ。あたしは書いてある情報を
-読んだだけ
+Don't look at me. It was all written in
+one of my books.
 
 ~---------------------------------------
 Dia
 ----0009----
-どうやら、ちゃんと勉強してもらわなきゃ
-いけないようだね
+It's looks like you need to do some real
+studying.
 
 ~---------------------------------------
 Inaluna
 ----0010----
-うわあ、頭かたそう…
+What a blockhead…
 
 ~---------------------------------------
 Dia
 ----0011----
-そこ、何か言った！
+You there, did you said something!
 
 ~---------------------------------------
 Inaluna
 ----0012----
-見たまんま言っただけよ。
-ここは光属性の温泉でしょ？
+I just said what i saw. This spring is
+Light attribute, right?
 
 ~---------------------------------------
 Inaluna
 ----0013----
-いよいよ、あたしの出番ってわけねっ！
+Finally, my turn!
 
 ~---------------------------------------
 Dia
 ----0014----
-ほう、お前も光を操る魔女か
+Heh, so you're a Light witch.
 
 ~---------------------------------------
 Dia
 ----0015----
-ここのことも知らず、呑気なものだ。
-まさに世間知らずのお嬢様ってところか…
+You carelessly barge in here. A truly
+spoiled little lady…
 
 ~---------------------------------------
 Inaluna
 ----0016----
-おばさんに言われたくないわよ！
+I don't want to be told that by a hag!
 
 ~---------------------------------------
 Dia
 ----0017----
-なんだって！？　いいだろう、私の講義を
-受けてみるがいい！
+Hag!?　Very well, you are now in for
+a lesson!
 
 ~---------------------------------------
 Arnogia
 ----0018----
-面白い。その講義とやら、
-俺も受けて立ってやろう
+Interesting, won't you also give that  
+lesson to me!
 
 ~---------------------------------------
 Dia
 ----0019----
-！？　ほほう…なかなかの魔力のようだな…
-貴様は一体…
+!?　Ho…you got a pretty high magic power…
+Just who are you…
 
 ~---------------------------------------
 Rephy
 ----0020----
-講義とか言って、結局は戦うんだろ？
-なら、早く始めようぜ！
+Even if you say lesson, it's just a fight
+right? Let's get done with it quickly.
 
 ~---------------------------------------
 Dia
 ----0021----
-大した自信だな、少年！
-そろそろいくかい！？
+You sure are confident, young man!
+Are you ready!?
 
 ~---------------------------------------
 Dia
 ----0022----
-私のリーダー的指導についてきな！
+Receive this leader's teachings!
 
 ~---------------------------------------
 Dia
 ----0023----
-さっぱりしたねぇ。なかなか気持ちのいい
-戦いっぷりじゃないか
+That was a rather pleasant fight. I
+feel refreshed now.
 
 ~---------------------------------------
 Inaluna
 ----0024----
-当然でしょ。誰に向かって言ってんのよ。
-こういう補習みたいなものは必要ないわ！
+Of course, who do you think you're talking
+to!. I don't need these reviews!
 
 ~---------------------------------------
 Dia
 ----0025----
-本当か？　首筋に汗が浮かんでいるぞ
+Really?　Isn't that sweat on you neck?
 
 ~---------------------------------------
 Inaluna
 ----0026----
-べ、別に問題ないんだから！
+I-I'm perfectly fine!
 
 ~---------------------------------------
 Dia
 ----0027----
-ふふふ、リーダーになるにはもう少し
-余裕がいるようだねぇ
+Fufufu, you might actually made to a
+decent leader.
 
 ~---------------------------------------
 Inaluna
 ----0028----
-あたしはリーダーじゃなくて、姫なの
+I'm not a leader! I'am a Princess!
 
 ~---------------------------------------
 Inaluna
 ----0029----
-わかったら、さっさとあたしに
-魔力を授けなさい！
+If you got it then, just give me that
+power of yours!
 
 ~---------------------------------------
 Rephy
 ----0030----
-お前も気が早いなぁ…
+You sure go your pace too…
 
 ~---------------------------------------
 Inaluna
 ----0031----
-それからね、Rephy。
-見たらコロスわよ！
+And Rephy.# You're dead meat if you look!
 
 ~---------------------------------------
 Rephy
 ----0032----
-俺だって入りたかねーよ…
+I don't want to get in either…
 
 ~---------------------------------------
 Dia
 ----0033----
-いいだろう。ところで少年、
-閃光温泉に入るのは、この者でいいのか？$e3
+Very well. By the way, young man, will
+get into the Light Spring with this one?$e3
 ~---------------------------------------
 Dia
 ----0034----
-いいだろう。ところで少年、
-閃光温泉に入るのは、この者でいいのか？
+Very well. By the way, young man, will
+get into the Light Spring with this one?$e3
 
 ~---------------------------------------
 Rephy
 ----0035----
-ああ。光属性を持ってるのは
-Inalunaだけだからな
+Yeah, the only Light Magi here is
+Inaluna after all.#
 
 ~---------------------------------------
 Inaluna
 ----0036----
-そういうこと。入るわよっ！
+There you have it. I'm going in!
 
 ~---------------------------------------
 Inaluna
 ----0037----
-はぁ…はぁ…はぁ…
-あ、熱い…な、なんなのよここ
+Haa…Haa…Haa…
+I-It's hot…what's with this place.
 
 ~---------------------------------------
 Rephy
 ----0038----
-うわっ！　まぶしっ！
+Wow!　So bright!
 
 ~---------------------------------------
 Inaluna
 ----0039----
-ちょっとあんた！　ど、どこ見てんのよっ！
+Hey you!　Where are you looking at!
 
 ~---------------------------------------
 Rephy
 ----0040----
-どこも見てねーよ！
-つーかこの温泉、眩しすぎて何も見えねー！
+Nowhere! This spring it's too bright i
+can't see anything!
 
 ~---------------------------------------
 Inaluna
 ----0041----
-いい？　絶っっっ対に目を開けちゃ
-ダメだからねっ！
+Don't you ever, ever open your eyes!
+Got it?
 
 ~---------------------------------------
 Inaluna
 ----0042----
-開けたら、本気で殴るわよっ！
+I'll hit you for real if you do.
 
 ~---------------------------------------
 Rephy
 ----0043----
-いつでも本気のクセに、よく言うぜ…
+Aren't you always serious about that?…
 
 ~---------------------------------------
 Inaluna
 ----0044----
-あっ、今ニヤけた！
-見たわね、このドスケベ！
+Ah、 you were grinning just now!
+You were looking, pervert!
 
 ~---------------------------------------
 Rephy
 ----0045----
-ぐはっ！　何も見えないはずなのに…
-星が見えたぜ…
+Ouch!　I shouldn't be able to see, but.#
+it just saw stars…
 
 ~---------------------------------------
 Arnogia
 ----0046----
-…ふっ…
+…Hum…
 
 ~---------------------------------------
 Rephy
 ----0047----
-う～ん…温泉というより、日光浴だな。
-今までの中じゃ１番まともだぜ
+Um, it's more a sunbath than a hot spring/ 
+It's the most decent one until now.
 
 ~---------------------------------------
 Arnogia
 ----0048----
-光の魔力を実体化させ、
-温泉のように漂わせているのだ
+Materializing Light magic and made it
+made it something like a hot spring.#
 
 ~---------------------------------------
 Arnogia
 ----0049----
-光属性を持つマギにとっては、
-良い回復場所だ
+It's a good recovering spot for Light
+Magi.
 
 ~---------------------------------------
 Rephy
 ----0050----
-つーかあんた、
-鎧のまま温泉に入ってるのかよ…
+You.# Do you have to get in with armor
+and all in the spring…
 
 ~---------------------------------------
 Dia
 ----0051----
-どうだい、閃光温泉は？
+How was it? The Spring of Light?
 
 ~---------------------------------------
 Rephy
 ----0052----
-眩しすぎだろ…俺にとっては、
-どの温泉も試練だぜ…
+Too bright… This spring was like another
+trial for me…
 
 ~---------------------------------------
 Dia
 ----0053----
-本当なら、太陽の下ですっぽんぽんが
-健康にいいんだけどね
+A good time under the sunlight it's
+good for you health.
 
 ~---------------------------------------
 Rephy
 ----0054----
-どんな温泉だよ…
+What kind of spring is this…
 
 ~---------------------------------------
 Dia
 ----0055----
-よし！　なら次はリーダー的試練の
-本番といこうか！
+Then! Now is time for the main course
+of this Leader's trials!
 
 ~---------------------------------------
 Dia
 ----0056----
-少年、男なら一発で決めてみな！
+Young man, if you're a man, try to
+finish it in one go!
 
 ~---------------------------------------
 Dia
 ----0057----
-うん、いい感じだ。どうやら、
-お前たちのことを認めざるを得ないな
+Um, that felt good. Looks like a have to
+acknowledge you guys after all.
 
 ~---------------------------------------
 Rephy
 ----0058----
-俺には仲間がいるからな。
-簡単には負けないぜ
+I won't loose that easily if i got my
+allies with me!
 
 ~---------------------------------------
 Inaluna
 ----0059----
-あたしがいて負けるわけないわ！
+There's no way i could lose!
 
 ~---------------------------------------
 Dia
 ----0060----
-確かに、少年は頼られているようだね！
-Inalunaも気にいっているようだし
+Certainly, you're quite reliable young man!
+And i have taken a liking in Inaluna.
 
 ~---------------------------------------
 Inaluna
 ----0061----
-なっ…
+Wha…
 
 ~---------------------------------------
 Dia
 ----0062----
-結構。仲間と助け合い、お互いに成長する。
-合格だぞ、少年！
+Splendid. Helping each others makes you
+growth. You pass, young man!
 
 ~---------------------------------------
 Inaluna
 ----0063----
-はぁう…ひぃ、ふぅ…お～…
-あっははは…
+Hah…Fuu.#Ooh…
+Aaah…
 
 ~---------------------------------------
 Rephy
 ----0064----
-なんかさっきより、光が強くなってないか？
-チクチクするぞ
+Isn't the light even stronger than before?
+It's kinda stinging.
 
 ~---------------------------------------
 Inaluna
 ----0065----
-あのDiaって魔女に言って、
-１番強くしてもらったのよ
+I told that Dia Witch to made it a bit
+more stronger.
 
 ~---------------------------------------
 Rephy
 ----0066----
-ハァ！？
-なんでそんなことするんだよ！？
+Hah!?
+Why would you do that!?
 
 ~---------------------------------------
 Inaluna
 ----0067----
-だって、これぐらい眩しくないと
-見えちゃうでしょっ！
+But, no matter how bright is it.#
+You'll still see!
 
 ~---------------------------------------
 Rephy
 ----0068----
-見えるって、なにがだ？
+See what?
 
 ~---------------------------------------
 Inaluna
 ----0069----
-う、うるさいわねバカァ！
-とっととラピスに触りなさいよっ！
+S-Shut up, idiot!
+Just touch the Lapis already!
 
 ~---------------------------------------
 Rephy
 ----0070----
-わ、わかったよ…ったく…
+I-I got it… This girl is…
 
 ~---------------------------------------
 Inaluna
 ----0071----
-はい、手を出して！　あたしが額の
-ラピスまでもってくんだから！
+Now, give me you hand!　I'll put it in
+the Lapis in my forehead!
 
 ~---------------------------------------
 Rephy
 ----0072----
-わかったよ。ほら、あとは頼むぜ…
+Got it. Here you go, i'll leave to you…
 
 ~---------------------------------------
 Inaluna
 ----0073----
-はぁう…はぁ、はぁはぁ…
-いぅ…いっつつつ！
+Hah…hah、ha…
+Uuu…Iii!
 
 ~-------------------------------
 Inaluna
 ----0074----
-い、いたぁぁ～い！
+I-It hurts!
 
 ~-------------------------------
 Rephy
 ----0075----
-おい、大丈夫か！？
+Hey, are you alright!?
 
 ~---------------------------------------
 Inaluna
 ----0076----
-へ、平気よ！
-ちょっと日焼けしちゃったけど…
+I-I'm fine!
+I just go a bit sunburn…
 
 ~---------------------------------------
 Rephy
 ----0077----
-温泉で日焼けかよ…
+Sunburn at a hot spring…
 
 ~---------------------------------------
 Arnogia
 ----0078----
-…ふっ…はぁ…心地よい…
+Fu…ha.#it's quite pleasant.#
 
 ~---------------------------------------
 Rephy
 ----0079----
-つーかさ…
+Hey…
 
 ~---------------------------------------
 Arnogia
 ----0080----
-なんだ？
+What?
 
 ~---------------------------------------
 Rephy
 ----0081----
-その…鎧は脱がないのか？
+Won't you take off your armor?
 
 ~---------------------------------------
 Arnogia
 ----0082----
-俺は鎧ごと、清められる必要が
-あるのでな…
+I need to get soaked along my armor,
+you see…
 
 ~---------------------------------------
 Rephy
 ----0083----
-ふーん。あとさ…
+Um. And…
 
 ~---------------------------------------
 Arnogia
 ----0084----
-なんだ？
+What?
 
 ~---------------------------------------
 Rephy
 ----0085----
-あんたも星の瞳なわけだろ？
-俺が一緒に入る必要なかったんじゃ…
+Aren't you also a Star Eye?
+There's no need for me to be here…
 
 ~---------------------------------------
 Arnogia
 ----0086----
-細かいことは気にするな。
-遠慮なく俺のラピスに触れるがいい
+Don't mind the small details. You may
+touch my Lapis without reserve.
 
 ~---------------------------------------
 Rephy
 ----0087----
-ったく…意味あんのかなコレ？　いくぞ？
+Is there any point?　Here i go!
 
 ~---------------------------------------
 Arnogia
 ----0088----
-はぅっっっ…っつっつっつ…
-はぁぁ～
+Haaaa…Haaaaa.#
+Haaa～
 
 ~-------------------------------
 Rephy
 ----0089----
-熱っ！　なんだこの熱気は…
+Hot!　What's with this heat…
 
 ~---------------------------------------
 Arnogia
 ----0090----
-フフフ…この鎧は今、熱いぞ
+Fufu…Right now.# this armor it's burning
+hot
 
 ~---------------------------------------
 Rephy
 ----0091----
-そりゃ、そうだろ！
-鎧着て温泉なんて、普通ありえないぜ！
+Yeah i could tell! You don't normally
+get in a hot spring wearing an armor!
 
 ~---------------------------------------
 Arnogia
 ----0092----
-フ…星の瞳が触れ合うこと自体が、
-ありえないことだろう？
+Ha, isn't even more abnormal to have two
+Star Eyes touching?
 
 ~---------------------------------------
 Rephy
 ----0093----
-そういう問題じゃないだろ…
+I don't think that's the problem…
 
 ~---------------------------------------
 Dia
 ----0094----
-無事にチカラを受け取ったようだな
+Looks like you were able to get the power.
 
 ~---------------------------------------
 Rephy
 ----0095----
-ああ。これで、残る温泉はあと２つか
+Yeah. With this only 2 springs are left.
 
 ~---------------------------------------
 Dia
 ----0096----
-炎と闇。どちらも、最強クラスの魔女番が
-待っている
+Flame and Darkness. Each one of these
+have a Guardian of the highest rank.
 
 ~---------------------------------------
 Dia
 ----0097----
-充分に鍛えてから挑戦することだな、少年！
+Make sure to train yourself well before
+challenging them, young man!
 
 ~---------------------------------------
 Ashley
 ----0098----
-どうするRephy？　このまま行くか？$e3
+What do we do Rephy?　Do we continue?$e3
 ~---------------------------------------
 Rephy
 ----0099----
-ここは一度帰ろう
+Let's go back for now.
 
 ~---------------------------------------

@@ -1,206 +1,207 @@
 0092 K 2C82A082
 Rephy
 ----0001----
-さてと、次は炎か闇か…
+What comes next? Flame? Darkness?
 
 ~---------------------------------------
 Althea
 ----0002----
-ついにここまできたのね…
-あなたたち、なかなかやるわね
+Here you are, at least…
+You're not half bad.
 
 ~---------------------------------------
 Rephy
 ----0003----
-あんたは？
+And you are?
 
 ~---------------------------------------
 Althea
 ----0004----
-私は白焔の魔女Althea。
-この白焔温泉を守るもの
+I'm the Witch of the White Flame, Althea.
+Guardian of this White Flame Spring.
 
 ~---------------------------------------
 Sara
 ----0005----
-白焔のAlthea…氷影のファティマと共に、
-最強を謳われる神話の魔女…！
+White Flame Althea…One of the strongest
+witches together with Shadow Frost Fatima#
 
 ~---------------------------------------
 Sara
 ----0006----
-どうやら、ここは火の属性のようだね
+Looks like this is the spring of Fire.
 
 ~---------------------------------------
 Aulmorde
 ----0007----
-ふーん、面白そうじゃない
+Oh, isn't that interesting.#
 
 ~---------------------------------------
 Aulmorde
 ----0008----
-私の炎とあなたの炎…
-どっちが熱いか、試してみる？
+My flame or yours…Why don't we find out
+which one is the hottest flame?
 
 ~---------------------------------------
 Althea
 ----0009----
-私の炎は、
-全てを燃やし尽くしちゃうかもよ
+My flames might end up consuming all
+of you.#
 
 ~---------------------------------------
 Aulmorde
 ----0010----
-受けて立つわよ
+Why don't you try?
 
 ~---------------------------------------
 Rephy
 ----0011----
-おいおい２人とも、
-ほどほどにしてくれよな…
+Hey, you two should cool down a bit.#
 
 ~---------------------------------------
 Althea
 ----0012----
-だめよ、燃える思いが世界を救うんだから、
-男の子なら完全燃焼しなさい！
+Won't do, if you're a man you should
+be burning up with passion!
 
 ~---------------------------------------
 Althea
 ----0013----
-皆、よく頑張ったわね
+Good work, everyone.
 
 ~---------------------------------------
 Aulmorde
 ----0014----
-熱いの、とっても気持ちよかったわよ
+That heat felt.#really good.#
 
 ~---------------------------------------
 Althea
 ----0015----
-あら、物足りないって感じね
+Sounds like you didn't had enough.#
 
 ~---------------------------------------
 Glen
 ----0016----
-フ…俺たちを誰だと思っている。
-天下無敵のメイガスだぞ？
+Hmph, who do you takes us for? We are
+the invincible Magus!
 
 ~---------------------------------------
 Aulmorde
 ----0017----
-もっと熱いのチョウダイ…
-なんちゃってね
+Give me more of that hot thing…
+Just kidding.#
 
 ~---------------------------------------
 Althea
 ----0018----
-ふふ…なら私の愛の炎、
-受け継いでもらうわね
+Fufu, then lets have you receive my
+flames now.
 
 ~---------------------------------------
 Althea
 ----0019----
-どうするのRephy、
-どちらの人がいいのかしら？
+What will you do Rephy? Which one of
+them will receive it?
 
 ~---------------------------------------
 Rephy
 ----0020----
-はぁ、また俺か…
+Hah, it's on me again…
 
 ~---------------------------------------
 Althea
 ----0021----
-さあ、燃え上がりなさい！
-私も応援してるから$e3
+Come! Burn Up! 
+I'm rooting for you here$e3
 ~---------------------------------------
 Althea
 ----0022----
-さあ、燃え上がりなさい！
-私も応援してるから
+Come! Burn Up! 
+I'm rooting for you here$e3
 
 ~---------------------------------------
 Aulmorde
 ----0023----
-はぁ～あああん、
-あつい…あついわぁ～…
+Ahhh～mmmhmh、
+So…hooott…
 
 ~---------------------------------------
 Rephy
 ----0024----
-うわ、熱ッ！　なんだこの温泉！？
+Woah, so hot!　What's with this hot
+spring!?
 
 ~---------------------------------------
 Aulmorde
 ----0025----
-さすが、炎を冠する温泉ね。
-ハンパじゃない熱さだわ
+That's the Spring of Fire for you. This
+is no normal heat.
 
 ~---------------------------------------
 Rephy
 ----0026----
-あんた、よく平気で入ってられるな
+How can you be so calm here?
 
 ~---------------------------------------
 Aulmorde
 ----0027----
-だって、炎のアルケーだもの
+I'm an Arche, after all.
 
 ~---------------------------------------
 Aulmorde
 ----0028----
-そんなことよりRephy、
-もっと近くにきてもいいのよ？
+But forget about that. Why don't you come
+more closer Rephy?
 
 ~---------------------------------------
 Rephy
 ----0029----
-そう言いながら
-近寄ってくるのはやめろっ！
+Don't came closer while saying that!
 
 ~---------------------------------------
 Aulmorde
 ----0030----
-ふふふ、可愛いわね。次が楽しみだわ♪
+Fufufu, so cute. I can't wait for the
+next time♪
 
 ~---------------------------------------
 Glen
 ----0031----
-くっ、ふぅ～…これしき…
+Fuu…This is nothing…
 
 ~---------------------------------------
 Rephy
 ----0032----
-うわ、熱ッ！　なんだこの温泉！？
+Woah, so hot!　What's with this hot
+spring!?
 
 ~---------------------------------------
 Glen
 ----0033----
-フフフ…思い出さないかRephy？
-昔やったカマゆでのガマンくらべ
+Ha ha. Rephy, didn't we had a heat
+endurance contest back there?
 
 ~---------------------------------------
 Rephy
 ----0034----
-ああ、どっちが長く入っていられるか
-勝負したやつな
+Yeah, to see who could stay inside for
+the most time.
 
 ~---------------------------------------
 Glen
 ----0035----
-あの時は２人とも、
-のぼせて勝負つかずだったが…
+At that time, we never got to finish
+that contest…
 
 ~---------------------------------------
 Rephy
 ----0036----
-ケリをつけるか！
+So you want to settle it now!
 
 ~---------------------------------------
 Glen
 ----0037----
-もちろん！　勝負だRephy！
+Of course!　Bring it on Rephy!
 
 ~---------------------------------------
 Rephy
@@ -215,104 +216,104 @@ Glen
 ~-------------------------------
 Shion
 ----0040----
-きゃあああ！　RephyさんとGlen先輩が、
-温泉で気を失っていますよ！
+Kyaaa! Rephy and Glen have passed out
+inside the spring!
 
 ~---------------------------------------
 Rephy
 ----0041----
-ブクブクブク…
+*Bubbling…
 
 ~-------------------------------
 Althea
 ----0042----
-さすがはマギの騎士たちね。
-よく白焔温泉の熱に耐えられたわ
+As expected of Magi, you have resisted
+the White Flame Spring's heat.
 
 ~---------------------------------------
 Rephy
 ----0043----
-つーか…普通の人間なら
-死んでる熱さだぞ、コレ…
+This heat would had killed a normal
+person right away…
 
 ~---------------------------------------
 Althea
 ----0044----
-まだまだこれからよ。温泉巡りの
-殿堂入り目指して、頑張らなくちゃ！
+You're just getting started. You need to
+try harder if want to complete this trip!
 
 ~---------------------------------------
 Rephy
 ----0045----
-頑張るとか、そういう気合の
-限界超えてるぜ…
+We're long pass "trying harder" already.#
 
 ~---------------------------------------
 Althea
 ----0046----
-私の情熱をたっぷりと注いでるからね
+I have plenty of motivation to give to
+to you.#
 
 ~---------------------------------------
 Althea
 ----0047----
-さあ、いくわよ。遊び感覚で、
-ヤケドしても知らないわよ！
+Here i go! Don't come crying to me if
+play with fire and get burned!
 
 ~---------------------------------------
 Althea
 ----0048----
-やるわねぇ。
-これなら、安心して任せられるわ
+Oh, you sure can put a fight. I think i
+can be at ease and leave it to you.
 
 ~---------------------------------------
 Elle
 ----0049----
-Rephy大丈夫？
+Are you alright Rephy?
 
 ~---------------------------------------
 Rephy
 ----0050----
-温泉はもう、当分いいな…
+I've had enough of hot springs…
 
 ~---------------------------------------
 Sara
 ----0051----
-ほら、また例の本番だよ
+Hey, it's time for the main event.#
 
 ~---------------------------------------
 Rephy
 ----0052----
-はぁ…またあの超絶に熱い温泉に
-入らなくちゃいけないのか…
+Hah… Do i have to get inside that 
+burning hot spring again?…
 
 ~---------------------------------------
 Althea
 ----0053----
-それだけ私のハートが熱いってことよ。
-私のすべて、受け止めてよね！
+That's just how much heat there is in my
+heart. Make sure to receive it all!
 
 ~---------------------------------------
 Aulmorde
 ----0054----
-ふっ…はぁ～っっっ～
-熱っ…体がとけていきそう…
+Ha…aaaah～
+So hot…it's like my body is melting…
 
 ~---------------------------------------
 Rephy
 ----0055----
-ぐわああああっ！
-なんだこの熱さはっ！？
+Woaaah!
+What's with this ridiculous heat!?
 
 ~---------------------------------------
 Rephy
 ----0056----
-こんなの、ただの罰ゲームじゃねーか！
+This is just a punishment game!
 
 ~---------------------------------------
 Aulmorde
 ----0057----
-熱い温泉は身体に効くのよ。
-それよりも、ほら…Rephy…
+Hot springs are good for you body. But,
+Rephy…
 
 ~---------------------------------------
 Rephy
@@ -322,34 +323,34 @@ Rephy
 ~---------------------------------------
 Aulmorde
 ----0059----
-ふふ、そんなに固くならなくていいのよ？
+Fufu, you don't have to be so stiff.#
 
 ~---------------------------------------
 Rephy
 ----0060----
-だから、いちいち寄ってくるなって！
+Stop coming closer!
 
 ~---------------------------------------
 Aulmorde
 ----0061----
-大丈夫。私がリードしてあげるから
+It will be okay, i'll take the lead.#
 
 ~---------------------------------------
 Aulmorde
 ----0062----
-ほら、私の大事なトコロはココ。
-優しくタッチしてね…
+My important place is.#right here. Be
+gentle with it…
 
 ~---------------------------------------
 Rephy
 ----0063----
-ったく…速攻で終わらせるからな！
+Ugh, i'll finish it with a fast strike!
 
 ~---------------------------------------
 Aulmorde
 ----0064----
-ああぁん…熱い…
-もう少し、優しく触って…！
+Mmmmh…so hot…
+More…more gentler!
 
 ~-------------------------------
 Rephy
@@ -359,148 +360,149 @@ Rephy
 ~-------------------------------
 Aulmorde
 ----0066----
-はぁ、はぁ…こんなの、初めて…
+Hah, Hah… That was a first…
 
 ~---------------------------------------
 Rephy
 ----0067----
-うわちっ！　なんだ？
-ラピスが発熱してる！？
+Ouch!　What's happening? The Lapis is
+emitting heat!?
 
 ~---------------------------------------
 Aulmorde
 ----0068----
-ふふふ…
-どうやらこれが白焔魔女のチカラみたいね
+Fufufu… That must be the power of the
+White Flame Witch.
 
 ~---------------------------------------
 Aulmorde
 ----0069----
-ありがとうRephy、とっても良かったわ
+Thank you Rephy, that felt pretty good.
 
 ~---------------------------------------
 Glen
 ----0070----
-くっ…っう…はぁ…はぁ…
-なんだこの熱湯は…耐えてみせる…うっ…
+Ugh, hah.#hah
+I can…resist this…much…
 
 ~---------------------------------------
 Rephy
 ----0071----
-ぐわああああっ！
-なんだこの熱さはっ！？
+Woaah!
+What's with this heat!?
 
 ~---------------------------------------
 Glen
 ----0072----
-この荒行を終えた後には、
-必ずマギとして大きく成長できるはずだ！
+We'll surely growth greatly as a Magi
+Knight after this trial!
 
 ~---------------------------------------
 Glen
 ----0073----
-お前とともに立ち向かえるんだ…
-俺は嬉しいぜ！
+I'm glad to be able to take this
+challenge with you!
 
 ~---------------------------------------
 Rephy
 ----0074----
-ああ、俺もだぜGlen！
+Me too, Glen!
 
 ~---------------------------------------
 Glen
 ----0075----
-さあRephy、俺のラピスはここだ！
-この腹めがけて、正拳突きで決めてみろ！
+Now Rephy, my Lapis is right here!
+Finish it with a straight right here!
 
 ~---------------------------------------
 Rephy
 ----0076----
-いいんだな？
+You sure?
 
 ~---------------------------------------
 Glen
 ----0077----
-ああ。ドンと来い！
+Yeah. Bring it!
 
 ~---------------------------------------
 Rephy
 ----0078----
-行くぜッ！
+Here i gooo!
 
 ~---------------------------------------
 Glen
 ----0079----
-くっ…ウウウ…！
+くっ…ウウウ…!
 
 ~-------------------------------
 Glen
 ----0080----
-はぁ、はぁ、はぁ、効くな…
-ずんっと入ってきたぞ
+Hah, hah, hah…It's working, i can feel
+it inside of me.
 
 ~---------------------------------------
 Rephy
 ----0081----
-手加減するのを忘れてた
+I forgot to hold back.
 
 ~---------------------------------------
 Glen
 ----0082----
-フ…お前のそういうところ、
-嫌いじゃないぜ
+Fu, i don't really hate that part of
+you.
 
 ~---------------------------------------
 Althea
 ----0083----
-上手くいったようね
+Looks like it went well.
 
 ~---------------------------------------
 Rephy
 ----0084----
-ああ。
-これで、残りは闇属性の温泉だけだな
+Yeah. Now there is only the spring of
+darkness left.#
 
 ~---------------------------------------
 Yuu
 ----0085----
-闇ですか…最後はどんな魔女が
-待ち受けているんでしょうね…
+Darkness, uh?…I wonder what kind of
+witch is waiting for use at the end…
 
 ~---------------------------------------
 Althea
 ----0086----
-会ってみればわかるわ
+The you just go and meet her.
 
 ~---------------------------------------
 Rephy
 ----0087----
-俺はそろそろ帰りたいよ
+I want to go back already.
 
 ~---------------------------------------
 Ashley
 ----0088----
-ここまできてなにを言う、
-だらしないぞRephy
+Saying that after coming this far. So
+spineless Rephy!
 
 ~---------------------------------------
 Rephy
 ----0089----
-はぁ…行くしかないか…
+Hah, do i have a choice…
 
 ~---------------------------------------
 Althea
 ----0090----
-その答えは、この先にあるわ
+You'll find out the answer i you go
+further from here.
 
 ~---------------------------------------
 Althea
 ----0091----
-さあ、行きなさい。
-最強の魔女番…氷影のファティマの元へ！$e3
+Now go! To where the strongest Guardian,
+Shadow Frost Fatima is!$e3
 ~---------------------------------------
 Rephy
 ----0092----
-ここは一度帰ろう
+Let's go back for now.
 
 ~---------------------------------------

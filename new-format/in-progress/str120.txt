@@ -1,729 +1,726 @@
 0131 L 00000000
 Fatima
 ----0001----
-ふん、またぞろぞろと
-やって来たものだな
+Hmph. You are finally here.
 
 ~---------------------------------------
 Rephy
 ----0002----
-…！？
+.#!?
 
 ~---------------------------------------
 Elle
 ----0003----
-あ、あの人って…！
+S-She is.#!
 
 ~---------------------------------------
 Inaluna
 ----0004----
-大聖堂の、聖魔女像…？
+Doesn't looks like the Holy Witch's
+statue in the Chapel.#?
 
 ~---------------------------------------
 Fatima
 ----0005----
-私は氷影のFatima。
-この氷影温泉を統べる魔女！
+I'm Fatima of the Shadow Frost, ruler
+of this spring!
 
 ~---------------------------------------
 Kopin
 ----0006----
-Fatima様…
+Lady Fatima.#
 
 ~---------------------------------------
 Ashley
 ----0007----
-Fatima？　どういうことだ…
-聖魔女の名前はシヴィルではないのか！？
+Fatima?　What's going on here? Wasn't the
+Holy Witch's name Siville!?
 
 ~---------------------------------------
 Sara
 ----0008----
-いや、あれは聖魔女さまじゃないよ…
+No, that's not the Holy Witch.#
 
 ~---------------------------------------
 Sara
 ----0009----
-姿はソックリだけど、まったくの別人…
-そして、闇を統べる最強の魔女
+They might look the same but are two
+completely different persons.#
 
 ~---------------------------------------
 Yuu
 ----0010----
-つながっているようで、
-つながっていない…
+It kinda makes some sense but not at the
+same time.
 
 ~---------------------------------------
 Yuu
 ----0011----
-平行世界とは、
-こういうことだったんですね…
+This kind of things can happen in the
+parallel worlds.#
 
 ~---------------------------------------
 Fatima
 ----0012----
-なにをジロジロと人のことを
-見ているのだ
+What are you staring at me and muttering
+to yourselves for.#
 
 ~---------------------------------------
 Rephy
 ----0013----
-あんたで、最後なんだよな！
+So you're the last!
 
 ~---------------------------------------
 Fatima
 ----0014----
-ほほぅ、なかなかの者もいるようだな！
+Ho ho, this one looks promising!
 
 ~---------------------------------------
 Fatima
 ----0015----
-手加減は一切ナシだ！
-身も心も、凍りつき、粉々になるがいい！
+I won't hold back! I won't stop until
+your hearts and body become dust.!
 
 ~---------------------------------------
 Fatima
 ----0016----
-ふん、まだまだこの程度では、私は認めない
+Hmph, i won't acknowledge you with just
+this much.
 
 ~---------------------------------------
 Rephy
 ----0017----
-つ、強ええ…！
-さすがは最強の魔女…
+S-Strong.#!
+So this is the strongest witch.#
 
 ~---------------------------------------
 Ashley
 ----0018----
-闇の深さは半端ではないということか…
+The deeps of the darkness are no to
+be taken lightly.#
 
 ~---------------------------------------
 Yuu
 ----0019----
-けど、ここで退くわけにはいきませんよ！
+But, we can't just back down here!
 
 ~---------------------------------------
 Fatima
 ----0020----
-なめないでもらおうか、
-ここから先は、霜焼け程度ではすまないぞ
+Don't underestimate me, from now on you
+won't away with just a frostbite.
 
 ~---------------------------------------
 Ashley
 ----0021----
-こちらこそ甘く見ないでもらいたい。
-我々は常に、茨の道を歩んできたのだ
+That' our line. We have walked a thorny 
+path all this time.
 
 ~---------------------------------------
 Yuu
 ----0022----
-そうです。そして暗闇に沈む真実を、
-いくつ見いだしてきたことか
+That's right. And how much do you think
+i have looked for truth in the darkness!
 
 ~---------------------------------------
 Fatima
 ----0023----
-フ、なるほど。
-それなりの闇は見てきたということか
+I see. You seem to have seen you share
+of the darkness.
 
 ~---------------------------------------
 Fatima
 ----0024----
-いいだろう、この氷影温泉で
-沐浴することだけは許可しよう
+Very well, i'll allow you to bathe in
+this Spring of the Shadow Frost.
 
 ~---------------------------------------
 Fatima
 ----0025----
-資格を持つ闇属性のマギは…
-黒バラと、そこの子供か
+Those that qualify are.#Black Rose and
+that kid over there.#
 
 ~---------------------------------------
 Yuu
 ----0026----
-最強の魔女に、子供とバカにされた…
+She's treating me as kid.#and a idiot.
 
 ~---------------------------------------
 Rephy
 ----0027----
-お前、この期に及んで
-メモしてるのかよ…
+Are you taking memos even at a time like
+this?.#
 
 ~---------------------------------------
 Yuu
 ----0028----
-相手が誰であれ、覚えておくべきことは
-記さなくては
+Don't matter who is it about, i'll always
+record what i want to remember.
 
 ~---------------------------------------
 Rephy
 ----0029----
-お前なぁ…あの魔女にまで
-復讐するつもりか？
+You.# Are you planning to take revenge
+even against THAT witch?
 
 ~---------------------------------------
 Fatima
 ----0030----
-ふふふ、挑戦ならいつでも受けてやるぞ？
+Fufufu, i'll take you on anytime.#
 
 ~---------------------------------------
 Fatima
 ----0031----
-さあ、まずは闇と氷の温泉に心も身体も
-沈めるがいい！$e3
+Now, start by sinking you body and heart
+into the darkness first!$e3
 ~---------------------------------------
 Ashley
 ----0032----
-うっ…くふっ…
-息の詰まる、冷たさだな
+Uh.#*breathes.#
+It's hard to breathe in this cold.#
 
 ~---------------------------------------
 Rephy
 ----0033----
-くっ！　い、息まで凍ってやがるぞ！？
+E-Even our breath is freezing!?
 
 ~---------------------------------------
 Ashley
 ----0034----
-闇と氷の温泉か…
-自分自身と向き合うには、最適の場所だ…
+A spring of darkness and frost.# The ideal
+place to face oneself.#
 
 ~---------------------------------------
 Rephy
 ----0035----
-つーか…暗くて周りが
-何にも見えないんだが…
+That said.#it's too dark and i can't see
+around.#
 
 ~---------------------------------------
 Ashley
 ----0036----
-そこは、安心できる…
+That makes me at ease.#
 
 ~---------------------------------------
 Rephy
 ----0037----
-うわっ、氷が突き出してるぞ！
+Wah! There is ice poking out everywhere!
 
 ~---------------------------------------
 Ashley
 ----0038----
-そ、それ以上近づくな！
+D-Don't come any closer!
 
 ~---------------------------------------
 Rephy
 ----0039----
-え…？
+Eh.#?
 
 ~---------------------------------------
 Rephy
 ----0040----
-う、うわっ！
-暗闇から何か飛んできたぞ…！
+Wah!
+Something come flying from nowhere.#!
 
 ~---------------------------------------
 Rephy
 ----0041----
-これ…Dinoのナイフか！？
+Is this.#Dino's knife!?
 
 ~---------------------------------------
 Ashley
 ----0042----
-さすがはDino…この暗闇でも、
-私を守っていてくれるのだな…
+As expected from Dino.# He protects me
+even in this darkness.#
 
 ~---------------------------------------
 Rephy
 ----0043----
-うーむ、おそるべし…
+H-How scary.#
 
 ~---------------------------------------
 Yuu
 ----0044----
-ひゃぁ～！　ううう～ん
-こ、凍ってしまいそうです…
+Uhh～!　ummh
+I-I'm going to freeze.#
 
 ~---------------------------------------
 Rephy
 ----0045----
-くっ！　い、息まで凍ってやがるぞ！？
+E-Even our breath is freezing!?
 
 ~---------------------------------------
 Yuu
 ----0046----
-う、うぅぅ…さすがにこれは
-度が過ぎているような気が…
+Uhh, as expected the air here can
+chill even your bones.#
 
 ~---------------------------------------
 Rephy
 ----0047----
-Yuu、こっちへ来いよ
+Yuu, come over here.
 
 ~---------------------------------------
 Rephy
 ----0048----
-２人で身体を寄せれば、少しはマシに
-なるかもしれないぜ？　なっ！
+If we are close enough, it should make 
+the cold more bearable!
 
 ~---------------------------------------
 Yuu
 ----0049----
-ひゃっ！　せ、背中は弱いんです～
-やめてください～
+Wah!　Stop it please! M-My back is
+really sensitive～
 
 ~---------------------------------------
 Rephy
 ----0050----
-わ、悪りい…つーか、もうそろそろ
-出てもいいんじゃねーか？
+S-Sorry.# But, can we get out now?
 
 ~---------------------------------------
 Yuu
 ----0051----
-ダ、ダメです！
+N-Not yet!
 
 ~---------------------------------------
 Yuu
 ----0052----
-子供だとバカにされた以上、
-あの魔女を見返さなくては！
+I have to get back at that witch for
+treating me as a kid and an idiot!
 
 ~---------------------------------------
 Yuu
 ----0053----
-僕は必ずこの試練を
-乗り越えてみせますよ！
+I will surpass this trial no matter
+what!
 
 ~---------------------------------------
 Rephy
 ----0054----
-ったく…意地っ張りなヤツだなぁ…
+Good grief, what a stubborn guy.#
 
 ~---------------------------------------
 Yuu
 ----0055----
-か、肩まで浸かって、
-１０数えるまで温泉から出ないぞう！
+L-Let's sink to our shoulders, get out
+at the count of 10!
 
 ~---------------------------------------
 Rephy
 ----0056----
-って、言ってることが完全に
-子供じゃねーか…
+And he says he's not a kid?.#
 
 ~---------------------------------------
 Kopin
 ----0057----
-Fatima様！
+Lady Fatima!
 
 ~---------------------------------------
 Fatima
 ----0058----
-Kopinじゃないか
+Oh, isn't that Kopin.
 
 ~---------------------------------------
 Kopin
 ----0059----
-お久しぶりなのです
+Long time no see.
 
 ~---------------------------------------
 Kopin
 ----0060----
-別世界に召喚されて千年…
-ようやくお会いできたのです
+We haven't meet after i was summoned to
+another world 1000 years ago.
 
 ~---------------------------------------
 Fatima
 ----0061----
-向こうの世界はどうだ？
+How was that world?
 
 ~---------------------------------------
 Kopin
 ----0062----
-いろいろなことがあったのです…
+A long happened there.#
 
 ~---------------------------------------
 Kopin
 ----0063----
-ウサギにこき使われたり、
-魔力を放出させられて溶けかかったり…
+Being worked to the bone by a rabbit,
+i almost melt for using too much magic.#
 
 ~---------------------------------------
 Heine
 ----0064----
-ちょ、ちょっとKopinくん！
+W-Wait a moment Kopin!
 
 ~---------------------------------------
 Heine
 ----0065----
-それじゃあボクたちが、
-酷いコトしてるみたいじゃないか～！
+It sounds like we've doing terrible
+things to you!
 
 ~---------------------------------------
 Ashley
 ----0066----
-そうだぞ！
-我々はいつだって、お前の味方だ！
+That's right! We've always be your
+allies!
 
 ~---------------------------------------
 Kopin
 ----0067----
-いいえ、ボクの本当の理解者は
-Fatima様だけなのです…
+No, to  only one that can truly
+comprehend me is Lady Fatima.#
 
 ~---------------------------------------
 Fatima
 ----0068----
-Kopin、お前はよく頑張ったのだな
+Kopin, good work.
 
 ~---------------------------------------
 Kopin
 ----0069----
-Fatima様…感激なのです…
+Lady Fatima.# Thank you for you words.#
 
 ~---------------------------------------
 Kopin
 ----0070----
-でも、…泣かないようにします。
-体がふやけてしまいますから
+But.#i won't cry. I would dissolve
+after all.
 
 ~---------------------------------------
 Fatima
 ----0071----
-そうだな
+I see.#
 
 ~---------------------------------------
 Ashley
 ----0072----
-すごいな、
-あそこまでKopinと通じあうとは…
+Amazing, she can communicate with Kopin 
+to that extent.#
 
 ~---------------------------------------
 Fatima
 ----0073----
-行くぞ、これが最後の試練だ！
-凍れる闇の中で、身もだえるがいい！
+Here i go! This will be the last trial.
+Suffer inside the chilling darkness!
 
 ~---------------------------------------
 Fatima
 ----0074----
-闇をも怖れぬその心…
-どうやら、ラピスの輝きは本物のようだな
+A heart that doesn't fear the darkness.#
+Looks like you Lapis' light is real.#
 
 ~---------------------------------------
 Rephy
 ----0075----
-認めたのか…？
-最強の魔女が、俺たちのことを…
+Did she, the strongest witch, acknowledge
+us?.#
 
 ~---------------------------------------
 Sara
 ----0076----
-ついに桃源温泉を制覇だよ！
+We have finally conquered the Paradise
+Springs!
 
 ~---------------------------------------
 Heine
 ----0077----
-スタンプラリーみたいな景品は
-ないのかな～？
+Don't we get some prize or something?
 
 ~---------------------------------------
 Fatima
 ----0078----
-ムチならいつでもくれてやるぞ
+If you would like some lashes.#
 
 ~---------------------------------------
 Heine
 ----0079----
-け、結構です…
+No, thank you.#
 
 ~---------------------------------------
 Rephy
 ----0080----
-これで、最後なんだな…
+Now this is the last one.#
 
 ~---------------------------------------
 Fatima
 ----0081----
-ああ、もはや何も言うことはない。
-私の魔力、そのすべてを受け取るがいい！
+There's nothing more to say. Come and
+receive all my powers!
 
 ~---------------------------------------
 Ashley
 ----0082----
-…っうう～ふぅ～
-くっ…足元はつるつる、なんて寒さなのだ…
+.#Uhh～ It's all slippery, and so cold.#
 
 ~---------------------------------------
 Rephy
 ----0083----
-う、うぅぅ…ダ、ダメだ…
-寒さで意識が遠のいて…
+Ugh.#It's no use.# I'm gonna faint from
+the cold.#
 
 ~---------------------------------------
 Ashley
 ----0084----
-Rephy、しっかりしろ！
+Rephy, hang in there!
 
 ~---------------------------------------
 Rephy
 ----0085----
-ハッ！？
-なんだこの、やわらかい感触は…
+Hah!? What is this soft feeling.#
 
 ~---------------------------------------
 Ashley
 ----0086----
-ぶ、無礼者おおぉぉ！
+D-Degenerate!
 
 ~---------------------------------------
 Rephy
 ----0087----
-ぐ、ぐわあああ！
-ナ、ナイフが背中にぃぃぃッ！
+Ouch! A k-knife, a knife has hit me
+in the back!
 
 ~---------------------------------------
 Ashley
 ----0088----
-Rephy…？　Rephy！
+Rephy.#?　Rephy!
 
 ~---------------------------------------
 Rephy
 ----0089----
-……
+.#.#
 
 ~-------------------------------
 Ashley
 ----0090----
-Dinoめ、この暗闇で的確に
-気絶の急所を捉えるとは…やるな
+That Dino, to precisely make him faint
+in this darkness, impressive.
 
 ~---------------------------------------
 Ashley
 ----0091----
-よし、Rephyが気絶しているスキに
-ラピスを…
+Now, let's do it while Rephy is out.#
 
 ~---------------------------------------
 Ashley
 ----0092----
-はぅっ…ああん。
-体の芯が、硬くなっていく…
+Hah.#hmm. My insides are getting
+all stiff.#
 
 ~-------------------------------
 Ashley
 ----0093----
-これが、氷影のチカラ…
+This is the power of the
+Shadow Frost.#
 
 ~-------------------------------
 Ashley
 ----0094----
-ふぅぅ…
+Fuu.#
 
 ~---------------------------------------
 Rephy
 ----0095----
-ぶはあっ！
-はぁ、はぁ…死ぬかと思ったぜ…
+Cough! Hah, Hah.#
+I thought is was a goner.#
 
 ~---------------------------------------
 Ashley
 ----0096----
-意外と早く立ち直ったな
+You're back to yourself faster than
+expected.
 
 ~---------------------------------------
 Rephy
 ----0097----
-つーかお前ら、俺を殺す気かあ！
+Do you want to kill me!?
 
 ~---------------------------------------
 Yuu
 ----0098----
-うっ…はぁ…くっ…ふっ…
+Uh.#hah.#cough.#
 
 ~---------------------------------------
 Rephy
 ----0099----
-う、うぅぅ…ダ、ダメだ…
-寒さで意識が遠のいて…
+Ugh.#It's no use.# I'm gonna faint from
+the cold.#
 
 ~---------------------------------------
 Yuu
 ----0100----
-レ、Rephyさん！
-しっかりしてください！
+R-Rephy!
+Hang in there!
 
 ~---------------------------------------
 Rephy
 ----0101----
-クッ！　こ、このままだと
-マジで２人とも氷漬けだぜ
+Kuh!　A-At this rate.#we are really
+going to freeze here.
 
 ~---------------------------------------
 Rephy
 ----0102----
-とっとと終わらせちまおう！
+Let's get his over quickly!
 
 ~---------------------------------------
 Yuu
 ----0103----
-わ、わかりました。僕のラピスは左手です。
-Rephyさん、手を！
+U-Understood, my Lapis in my Left hand.
+You hand Rephy!
 
 ~---------------------------------------
 Yuu
 ----0104----
-うあっは～ん…はう…
-ラピスを通して、チカラが…
+Wah.#hah.#I'll the power passing
+trought the Lapis.#
 
 ~-------------------------------
 Yuu
 ----0105----
-はああぁぁぁ…！
+Haaaa.#!
 
 ~-------------------------------
 Yuu
 ----0106----
-はぁ、はぁ…すごかった。
-これが最強の闇の魔力なんですね…
+Hah, Hah.#amazing. So this is the power
+strongest dark magic.#
 
 ~---------------------------------------
 Rephy
 ----0107----
-お、おい！
-それどころじゃないぞYuu！
+H-Hey! Not it's not time for that Yuu!
 
 ~---------------------------------------
 Yuu
 ----0108----
-え？　どうかしましたか？
+Eh?　Is something wrong?
 
 ~---------------------------------------
 Rephy
 ----0109----
-俺たちの手、凍りついて
-くっついちまってるぞ！？
+Our hands are frozen and stuck together!
 
 ~---------------------------------------
 Yuu
 ----0110----
-ええ！？　ほ、ほんとだ！
-どどうしましょうRephyさん！？
+Eeh!?　I-It's true!
+What do we do Rephy!?
 
 ~---------------------------------------
 Rephy
 ----0111----
-ま、待て…まずは落ち着いて…
+W-Wait.#let's calm down first.#
 
 ~---------------------------------------
 Rephy
 ----0112----
-ぐわあ！　動かそうとしただけで、
-勝手にあちこちくっついて…！
+Wah, if i try to move it just a little
+it gets stuck everywhere.#!
 
 ~---------------------------------------
 Yuu
 ----0113----
-大丈夫ですか？　Rephyさん～
-うわぁ～手が～ひゃぁ～！
+Are you alright Rephy?
+Wah, your hand is.#!
 
 ~---------------------------------------
 Yuu
 ----0114----
-だから～背中は触らないでくださいよ～
+Don't touch my back please.#
 
 ~---------------------------------------
 Rephy
 ----0115----
-ぶわぁ～っくしょい！
-うぅぅ…まだ身体の芯が冷えてるぜ…
+Achoo! Ugh.# My body it's still ice cold
+inside.#
 
 ~---------------------------------------
 Inaluna
 ----0116----
-けど、これで全ての属性の温泉を
-まわったわけよね
+But, with this we've visited the spring
+of every element.#
 
 ~---------------------------------------
 Lunaluna
 ----0117----
-そういうことぉ～
+You sure have♪
 
 ~---------------------------------------
 Sara
 ----0118----
-！　Lunalunaさま！？
+!　Lady Lunaluna!?
 
 ~---------------------------------------
 Potpourri
 ----0119----
-よくやったじゃん
+Good work.
 
 ~---------------------------------------
 Sadie
 ----0120----
-まさか、これほどまでにボクたちを
-楽しませてくれるとはね
+To think you could entertain us to this
+extent.#
 
 ~---------------------------------------
 Dia
 ----0121----
-殿堂魔法騎士の称号を
-与えたいぐらいだね！
+I might even give to the title of
+Rune Knight!
 
 ~---------------------------------------
 Althea
 ----0122----
-桃源温泉をオールクリアしちゃうなんて、
-これからが楽しみだわ
+Cleared all Paradise Springs it's just
+the beginning of the fun.
 
 ~---------------------------------------
 Fatima
 ----0123----
-ああ。この者たちなら、
-世界を変えることだってできるだろう
+Yeah. These ones might be able to change
+the world itself.
 
 ~---------------------------------------
 Elle
 ----0124----
-み、皆さん…
+Everyone.#
 
 ~---------------------------------------
 Sara
 ----0125----
-神話の魔女さまたちに、
-認められるなんて…
+Being acknowledged by the witches of
+legend.#
 
 ~---------------------------------------
 Shion
 ----0126----
-よかったね、Saraちゃん…
+You must be happy Sara.#
 
 ~---------------------------------------
 Sara
 ----0127----
-うん…
+Yes.#
 
 ~---------------------------------------
 Lunaluna
 ----0128----
-私たちはココにいるからぁ、
-また会いたくなったらいつでも来てね～
+We'll be around here, come by whenever
+you want to visit us♪
 
 ~---------------------------------------
 Fatima
 ----0129----
-さあ行くがいい、マギの騎士たちよ
+You may go now, Magi Knights!
 
 ~---------------------------------------
 Fatima
 ----0130----
-お前たちの世界で、
-そのチカラ…存分に発揮するがいい！
+Use our powers to you hearts content
+in you world!
 
 ~---------------------------------------
 Rephy
 ----0131----
-ああ！　帰ろう、皆！
-俺たちのウルガルドへ！
+Yeah!　Guys, let's go back! Back to our
+Urgard!
 
 ~---------------------------------------
