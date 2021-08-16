@@ -24,46 +24,46 @@ With Glen…
 With Aulmorde…
 With Ashley…
 With Yuu…
-慈水温泉Ａ
-慈水温泉Ｂ
-翠蘭温泉Ａ
-翠蘭温泉Ｂ
-舞風温泉Ａ
-舞風温泉Ｂ
-閃光温泉Ａ
-閃光温泉Ｂ
-白焔温泉Ａ
-白焔温泉Ｂ
-氷影温泉Ａ
-氷影温泉Ｂ
+Tide A
+Tide B
+Green Orchid A
+Green Orchid B
+Dancing Wind A
+Dancing Wind B
+Brilliant A
+Brilliant B
+White Flame A
+White Flame B
+Shadow Frost A
+Shadow Frost B
 School Basement
 Oracle's Parlor
-騎士倶楽部
-大浴場
-転移の間
-School 1F
+Knight Club
+Bath
+Teleport Chamber
+Main Hall 1F
 Workshop
 Infirmary
 Shop
 Cafeteria
 Chapel
-Garden
-School 2F
-Classroom
-特務科教室
+Courtyard
+Main Hall 2F
+Classroom A
+Classroom B
 Faculty Room
 Training Hall
 Library
-Dormitory 1F
+Male Dormitory
 Kopin's Room
-Kilika's Room
+Kirika's Room
 Bonaparte's Room
 Dino's Room
 Yuu's Room
 Heine's Room
 Glen's Room
 Rephy's Room
-Dormitory 2F
+Female Dormitory
 Valerie's Room
 Fran's Room
 Lyra's Room
@@ -72,9 +72,9 @@ Sara's Room
 Inaluna's Room
 Ashley's Room
 Elle's Room
-仇敵との再会
-魔女祭の主演者たち
-ドタバタサマーキャンプ
+Hated Enemy
+Stage Actors
+Noisy Summer Camp
 Fallen Angel
 Nostalgic Smile
 Unison Strike: Glen　
@@ -101,17 +101,17 @@ Sara Ending
 Lyra Ending
 Aulmorde　Ending
 Arnogia　Ending
-サマンサ　おまけスチル
-ジル　おまけスチル
-ヒナ・ヒヨ　おまけスチル
-ロッタ・エリザ・ミュウ　おまけスチル
-ビート・ナハト　おまけスチル
-迷いコピン　おまけスチル
-ミリア　おまけスチル
-全員クリアありがとう！
-新しい女王の宣言
-巡りあい
-聖バルディア王国
+Samantha
+Gil
+Hina & Hiyo
+Lotta, Eliza & Myuu
+Beat & Nahart
+Kopin
+School Angel Millia
+Thanks for playing！
+A new Queen
+Wandering
+Holy Baldia Kingdom
 騎士の心得
 備えは万全に
 この瞳に映るもの
@@ -149,6 +149,6 @@ Living Legend
 漂浮的魂引路者
 戸惑い、揺さぶられる心
 希代の詐欺師
-コピンって何でしょうね。
+What is Kopin?。
 うたかたの夢
 悲愴なる真相
