@@ -484,7 +484,7 @@ Status Up is now available.
 ~---------------------------------------
 
 ----0118----
-You can now accept quest at Faculty Office.
+You can now accept quests at Faculty Office.
 ~---------------------------------------
 
 ----0119----
