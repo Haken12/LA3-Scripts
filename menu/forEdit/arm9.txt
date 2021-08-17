@@ -98,8 +98,8 @@ World Gaze
 ExplosionI
 Fearful Flare
 Frozen Vein
-ƒŠ[ƒ”ƒ‹ƒŒƒC
-Milla Splash
+Rival Rex
+Millia Splash
 Heavenly Serenade
 Materia Bomber
 |
@@ -189,7 +189,7 @@ SlowStone
 |
 ¡
 Training Hall(Outter)
-Lest Church
+Lest Order
 Valetta Falls
 Sandal Forest
 Royal Garden
@@ -209,7 +209,7 @@ Angel's Cage
 Spirit World
 Alfheim
 Fairy Castle
-Lapis Fusion Facility
+Lapis Synthesis Facility
 Castle City Linden
 Royal Valley
 Flame Grotto
@@ -239,7 +239,7 @@ Battle Map||48
 Battle Map||49
 Battle Map||50
 ¡
-School BF
+School Basement
 Oracle's Parlor
 Knight Club
 Bath
@@ -358,9 +358,9 @@ Glen's Cape
 Aulmorde's Horn
 Arnogia's Scale
 Reinhart's Helm
-Smirnov's Skin
+Smirzaff's Skin
 Valerie's Hair
-Yorg's Petal
+Iorg's Petal
 Angel Orb
 God's Core
 Goblin Fang
@@ -442,7 +442,7 @@ Thief Axe Hilt
 Cestus Bracelet
 R. Knight Shoes
 G. Kopin Fang
-Dvergr Scale
+Aesir Scale
 Atlas Powder
 High Elf Horn
 Dark Elf Hair
@@ -777,9 +777,9 @@ Bishop
 Thief
 Cestus
 Royal Knight
-‚mƒ‰ƒrƒlƒX
+Rhabyness N
 Golden Kopin T
-Dvergr F
+Aesir F
 Atlas N
 High Elf F
 Dark Elf N
@@ -824,8 +824,8 @@ Smirzaff
 Valerie
 ¡
 ¡
-Yorg
-Milia
+Iorg
+Millia
 ¡
 ¡
 God's Core
@@ -980,7 +980,7 @@ Potpourri
 ¡
 ¡
 ¡
-Leonard
+Leonardo
 ¡
 ¡
 ¡
@@ -1011,7 +1011,7 @@ Flame Slash
 Tuning
 Nova Impact
 Flame Pillar
-Burning Lord
+Burning Road
 Projection
 Speed Up
 Poison Fang
@@ -1032,7 +1032,7 @@ Aqua Hammer
 Curall
 Revive
 Liquid Squall
-Twin Needles
+Twin Stinger
 Treatment
 Cross Petals
 Night Scream
@@ -1082,7 +1082,7 @@ Super Explosion
 Flame Pillar`
 Heat Storm
 Attack Down
-‚«‚ã‚ `
+Cure
 ‚¤‚¥[‚Ô‚·‚Ó‚¡‚ 
 Warrior's Rally
 Splash
@@ -1214,9 +1214,9 @@ Dark Breath
 |
 
 y‚s‚`‚a‚k‚d‚Qz
-All Allies Defeated
-Main Character Defeated
-%s is Defeated
+All allies defeated
+Main character defeated
+%s is defeated
 Enemy reaches the exit
 Defeat all enemies
 Reach the Exit
@@ -1242,17 +1242,17 @@ Mineral
 Fur
 Tail
 What will be today?
-Welcome`
-Yes?`
+Welcomeô
+Yes?ô
 Good to see you.
 Rephy!
-Thanks for preferring Us`
-There are new weapons $nin Hiyo's shop`
-Hiyo is on fire`$nA new weapon is available`
-Come again`I
+Thanks for preferring usô
+There are new weapons $nat Hiyo's shopô
+Hiyo is on fireô$nA new weapon is availableô
+Come againô
 Hang in there.
 That came out pretty good™.
-One more time`
+One more timeô
 Select weapon type.
 Those are the required materials.
 You have enough materials.$nGive'em the meô
@@ -1287,9 +1287,9 @@ Magical Attack Power
 Magical Defense Power
 Accuracy Rate
 Evasion Rate
-Do you wish to $nsave now?
+Do you wish to save now?
 Saving.#$nDon't turn off the power
-Save Complete $nContinue playing?
+Save Complete.$nContinue playing?
 Retry?
 Enemy reinforcements!
 Move and navigate the map
@@ -1317,7 +1317,7 @@ Press the stop button and stop Kopin.
 ¡
 BAD status removed
 ADD status removed
-Stats change dispelled
+Stats changes dispelled
 ¡
 Dummy
 Drink it to recover a small$namount of HP.

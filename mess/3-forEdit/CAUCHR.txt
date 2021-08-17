@@ -7,10 +7,10 @@ Select the battle members.
 ~---------------------------------------
 
 ----0002----
-This game's turn order is decided by
-the Action Order(A0) in the upper screen.
-A turn will start when a Face Panel
-reaches the left side of AO.
+This game's turn order is decided by the
+Action Order(A0) in the upper screen.
+A turn will start when a Face Panel reaches
+the left side of AO.
 
 ~---------------------------------------
 
@@ -77,21 +77,20 @@ disappear after triggering once.
 ~---------------------------------------
 
 ----0010----
-DP acquired.
-Now you can use DP.
-Enhance the power of skills
-and items effect by spending
-DP.
+DP acquired. You can now use DP.
+
+Enhance the power of skills and items effect
+by spending DP.
 
 ~---------------------------------------
 
 ----0011----
-Bonus Item, are Lapis acquired
-based in MVP character.
-Bonus Items you can acquire are
-affected by story progression.
-A Lapis effect is activated by
-equipping it to a character.
+Bonus Items are Lapis acquired based on the
+MVP character.
+Story progression affects the Bonus Items
+you can acquire.
+A Lapis effect is activated by equipping it
+to a character.
 
 ~---------------------------------------
 
@@ -121,9 +120,8 @@ by traps.Å
 ~---------------------------------------
 
 ----0015----
-You can equip Lapis acquired$p
-from the last battle in the 
--Equip- menu.
+You can equip the Lapis acquired from the
+last battle in the -Equip- menu.
 
 ~---------------------------------------
 

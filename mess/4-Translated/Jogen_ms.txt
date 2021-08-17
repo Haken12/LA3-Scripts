@@ -1,16 +1,16 @@
 900 message 048
-この戦いは、練習程度のものだ。
-基本に忠実に、攻撃と防御の流れを
-確認しながら倒していくぜ。
-ウルガルド魔法騎士学院の実力が
-どの程度のものか、戦うのが楽しみだぜ。
+This is just a mock battle. Defeat the enemy
+while getting a hold of the basic flow of 
+offense and defense. Let's see the strength of
+the Urgard Magi Knight Academy's students.
+
 　
-こいつが本当のマギの騎士だ。
-六つ星だけのことはあるな。
-余裕なのかスキなのか、構えがでかいぜ。
-ともかく、ぶつかってみるしかない。
-できるだけ、背後に回るなどして戦うか。
-体力を１／４まで下げて音を上げさせるぜ。
+This guy is a real Magi Knight and a 6 Stars
+to boot. Whether he's being careless or he's 
+confident on his skill, he's wide open.
+Anyway, let's have a go and see what he can
+do. Try to not turn your back to him. Reduce
+his health to 1/4 and make him surrender. 
 エルルが、前後から敵に囲まれているな。
 エルルの能力は、回復役に向いているが、
 敵からの物理攻撃に弱いので注意が必要だ。
